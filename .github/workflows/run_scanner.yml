@@ -1,7 +1,7 @@
 name: Run Endpoint Scanner
 
 on:
-  workflow_dispatch: # Omogućuje ti da ručno pokreneš skener jednim klikom na GitHubu
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -20,3 +20,11 @@ jobs:
 
       - name: Run Scanner
         run: python endpoint_scanner.py
+
+      - name: Commit and Push working links
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add working_links.json
+          git commit -m "Automated update of working links [skip ci]" || echo "No changes to commit"
+          git push

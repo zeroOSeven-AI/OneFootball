@@ -1,5 +1,18 @@
 [
-    "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/matchdaysOverview.json",
-    "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/standings.json",
-    "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/league_statistics.json"
+  "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/matchdaysOverview.json",
+  "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/standings.json",
+  "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/league_statistics.json",
+  "https://feedmonster.onefootball.com/feeds/il/en/teams/9/overview.json",
+  "https://feedmonster.onefootball.com/feeds/il/en/teams/9/squad.json",
+  "https://feedmonster.onefootball.com/feeds/il/en/teams/9/fixtures.json",
+  "https://feedmonster.onefootball.com/feeds/il/en/players/2024/overview.json",
+  "https://feedmonster.onefootball.com/feeds/il/en/players/2024/profile.json",
+  "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/current",
+  "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/today",
+  "https://images.onefootball.com/icons/teams/164/9.png",
+  "https://api.sofascore.app/api/v1/unique-tournament/8/image",
+  "https://api.sofascore.com/api/v1/sport/football/events/live",
+  "https://api.sofascore.com/api/v1/sport/football/events/2026-06-02",
+  "https://api.sofascore.app/api/v1/player/15512/image",
+  "https://local-it.flashscore.tech/pub/modules/v4/x/feed/f_1_0_3_en_ch_1"
 ]

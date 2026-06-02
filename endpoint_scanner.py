@@ -18,11 +18,11 @@ def load_links():
     if not os.path.exists(INPUT_FILE):
         print(f"[ERROR] Input file '{INPUT_FILE}' not found!")
         return []
-    with open(INPUT_FILE, "`r`", encoding="`utf-8`") as f:
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
 
 def save_working_links(working_links):
-    with open(OUTPUT_FILE, "`w`", encoding="`utf-8`") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(working_links, f, indent=4, ensure_ascii=False)
     print(f"\n[SUCCESS] Saved {len(working_links)} working links to '{OUTPUT_FILE}'")
 

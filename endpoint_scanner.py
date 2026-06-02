@@ -1,13 +1,11 @@
+import json
+import os
 import requests
 import time
 
-# Target base configuration
-COMPETITION_ID = "120"
-SEASON_ID = "41642"
-BASE_URL_FEED = f"https://feedmonster.onefootball.com/feeds/il/en/competitions/{COMPETITION_ID}/{SEASON_ID}/"
-BASE_URL_API = "https://api.onefootball.com/scores-mixer/v1/en/cn/"
+INPUT_FILE = "links_to_test.json"
+OUTPUT_FILE = "working_links.json"
 
-# Common headers to bypass basic bot protection
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept": "application/json, text/plain, */*",
@@ -16,58 +14,47 @@ HEADERS = {
     "Referer": "https://onefootball.com/"
 }
 
-# Advanced wordlist based on OneFootball legacy structure
-FEED_ENDPOINTS = [
-    "teams", "fixtures", "matches", "results", "players", 
-    "top_scorers", "assists", "cards", "transfers", "news",
-    "stages", "groups", "overview", "calendar", "season_overview",
-    "fixtures-overview", "matchdays", "meta"
-]
+def load_links():
+    if not os.path.exists(INPUT_FILE):
+        print(f"[ERROR] Input file '{INPUT_FILE}' not found!")
+        return []
+    with open(INPUT_FILE, "`r`", encoding="`utf-8`") as f:
+        return json.load(f)
 
-API_ENDPOINTS = [
-    f"competitions/{COMPETITION_ID}",
-    f"competitions/{COMPETITION_ID}/matchdays",
-    "matchdays/today",
-    "matchdays/current",
-    "live-scores"
-]
+def save_working_links(working_links):
+    with open(OUTPUT_FILE, "`w`", encoding="`utf-8`") as f:
+        json.dump(working_links, f, indent=4, ensure_ascii=False)
+    print(f"\n[SUCCESS] Saved {len(working_links)} working links to '{OUTPUT_FILE}'")
 
-def scan_endpoints():
-    print(f"=== Starting Scan for Competition: {COMPETITION_ID}, Season: {SEASON_ID} ===")
-    print("Checking FeedMonster endpoints...")
-    
-    # 1. Scan Feedmonster (Static JSONs)
-    for endpoint in FEED_ENDPOINTS:
-        url = f"{BASE_URL_FEED}{endpoint}.json"
+def scan_links():
+    links = load_links()
+    if not links:
+        print("No links to scan. Exiting.")
+        return
+
+    print(f"=== Starting Scan of {len(links)} URLs from JSON ===")
+    working_links = []
+
+    for url in links:
         try:
+            # Send request using our headers
             response = requests.get(url, headers=HEADERS, timeout=5)
-            if response.status_code == 200:
-                print(f"[SUCCESS] [200 OK] -> {url}")
-            elif response.status_code == 403:
-                print(f"[FORBIDDEN] [403] -> {url} (Endpoint exists but requires extra headers/auth)")
-            # 404 is ignored to keep the output clean
             
-            # Tiny sleep to be polite to the server
-            time.sleep(0.2)
-        except requests.exceptions.RequestException as e:
-            print(f"[ERROR] Could not connect to {url}: {e}")
-
-    print("\nChecking API (Scores-Mixer) endpoints...")
-    # 2. Scan Live API
-    for endpoint in API_ENDPOINTS:
-        url = f"{BASE_URL_API}{endpoint}"
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=5)
             if response.status_code == 200:
-                print(f"[SUCCESS] [200 OK] -> {url}")
-            elif response.status_code == 403:
-                print(f"[FORBIDDEN] [403] -> {url}")
-            
+                print(f"[WORKING] [200 OK] -> {url}")
+                working_links.append(url)
+            else:
+                print(f"[FAILED] [{response.status_code}] -> {url}")
+                
+            # Sleep briefly to avoid hammering the server
             time.sleep(0.2)
+            
         except requests.exceptions.RequestException as e:
-            print(f"[ERROR] Could not connect to {url}: {e}")
+            print(f"[ERROR] Connection failed for {url}: {e}")
 
+    # Save results to a new JSON file
+    save_working_links(working_links)
     print("=== Scan completed ===")
 
 if __name__ == "__main__":
-    scan_endpoints()
+    scan_links()

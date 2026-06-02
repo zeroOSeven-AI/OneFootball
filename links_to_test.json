@@ -2,6 +2,20 @@
   "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/matchdaysOverview.json",
   "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/standings.json",
   "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/league_statistics.json",
-  "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/teams.json",
-  "https://feedmonster.onefootball.com/feeds/il/en/competitions/120/41642/fixtures.json"
+  "https://images.onefootball.com/icons/teams/164/9.png",
+  "https://api.sofascore.app/api/v1/sport/football/events/2026-06-02",
+  "https://api.sofascore.app/api/v1/sport/football/events/live",
+  "https://api.sofascore.app/api/v1/player/15512",
+  "https://api.sofascore.app/api/v1/player/15512/image",
+  "https://api.sofascore.app/api/v1/player/15512/events/last/0",
+  "https://api.sofascore.app/api/v1/unique-tournament/172/image",
+  "https://api.sofascore.app/api/v1/unique-tournament/172/season/63734/standings/total",
+  "https://api.sofascore.app/api/v1/unique-tournament/172/season/63734/statistics",
+  "https://api.sofascore.app/api/v1/unique-tournament/172/season/63734/events/round/1",
+  "https://api.sofascore.app/api/v1/unique-tournament/172/season/63734/team-of-the-week",
+  "https://api.sofascore.app/api/v1/team/2829",
+  "https://api.sofascore.app/api/v1/team/2829/image",
+  "https://api.sofascore.app/api/v1/team/4838/events/last/0",
+  "https://api.sofascore.app/api/v1/team/4838/performance",
+  "https://api.sofascore.app/api/v1/player/15512/unique-tournament/172/season/63734/statistics"
 ]

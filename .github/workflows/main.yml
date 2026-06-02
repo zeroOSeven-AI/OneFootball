@@ -1,0 +1,22 @@
+name: Run Endpoint Scanner
+
+on:
+  workflow_dispatch: # Omogućuje ti da ručno pokreneš skener jednim klikom na GitHubu
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Scanner
+        run: python endpoint_scanner.py

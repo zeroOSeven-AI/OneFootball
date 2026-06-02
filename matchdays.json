@@ -1,0 +1,44 @@
+{
+    "premier_league": {
+        "name": "Premier League",
+        "competition_id": 9,
+        "season_id": 39301,
+        "current_matchday_id": "7662010",
+        "mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7662010"
+    },
+    "bundesliga": {
+        "name": "Bundesliga",
+        "competition_id": 1,
+        "season_id": 39285,
+        "current_matchday_id": "7674697",
+        "mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7674697"
+    },
+    "serie_a": {
+        "name": "Serie A",
+        "competition_id": 13,
+        "season_id": 39325,
+        "current_matchday_id": "7641948",
+        "mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7641948"
+    },
+    "laliga": {
+        "name": "LaLiga",
+        "competition_id": 10,
+        "season_id": 39319,
+        "current_matchday_id": "7678322",
+        "mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7678322"
+    },
+    "ligue_1_uber_eats": {
+        "name": "Ligue 1 Uber Eats",
+        "competition_id": 23,
+        "season_id": 39245,
+        "current_matchday_id": "7674629",
+        "mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7674629"
+    },
+    "1._hnl": {
+        "name": "1. HNL",
+        "competition_id": 120,
+        "season_id": 39272,
+        "current_matchday_id": "7662171",
+        "mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7662171"
+    }
+}

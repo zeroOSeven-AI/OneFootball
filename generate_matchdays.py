@@ -2,7 +2,7 @@ import json
 import requests
 from datetime import datetime
 
-# ... tvoj uvodni kod za HEADERS i GITHUB_LEAGUES_URL ...
+https://raw.githubusercontent.com/zeroOSeven-AI/OneFootball/refs/heads/main/leagues.json%E2%81%A0
 
 def build_matchday_database():
     # Učitavamo staru (postojeću) bazu da ne izgubimo podatke za lige koje danas preskačemo

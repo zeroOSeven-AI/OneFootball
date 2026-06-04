@@ -1,4 +1,4 @@
-name: Pametni Generator Baze Kola
+name: Matchday Generator
 
 on:
   schedule:

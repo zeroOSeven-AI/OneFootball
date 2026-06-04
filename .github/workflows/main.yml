@@ -1,4 +1,4 @@
-name: Skener i Generator Baze Kola
+name: Matchday generator
 
 on:
   schedule:

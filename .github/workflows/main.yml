@@ -1,17 +1,17 @@
-name: Matchday generator
+name: Pametni Generator Baze Kola
 
 on:
   schedule:
-    # Pokreće se svaka 2 sata (Automatski mod)
-    - cron: '0 */2 * * *'
+    # Pokreće se svakih 4 sata, svaki dan (Inteligentno filtriranje radi u Pythonu)
+    - cron: '0 */4 * * *'
   workflow_dispatch:
-    # Omogućuje ti gumb "Run workflow" u GitHub Actions tabu (Ručni mod)
+    # Omogućuje ti gumb "Run workflow" za ručno pokretanje u Actions tabu
 
 permissions:
   contents: write
 
 jobs:
-  build-and-run:
+  calculate-matchdays:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,19 +28,21 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Pokreni bager za sakupljanje Matchday ID-ova
+    - name: Pokreni pametno računanje kola
       run: python generate_matchdays.py
 
     - name: Spremi izmjene i gurni ih natrag na GitHub
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
+        
+        # Dodajemo generirani matchdays.json u staging područje
         git add matchdays.json
         
-        # Provjera ima li uopće novih promjena da skripta ne baci grešku bezveze
+        # Provjera ima li uopće promjena kako skripta ne bi bacila grešku ako su ID-ovi isti
         if git diff --staged --quiet; then
-          echo "Nema promjena u bazi kola. Preskačem commit."
+          echo "Nema novih promjena u kolima. Preskačem commit."
         else
-          git commit -m "🤖 Automatski ažurirana baza kola (matchdays.json)"
+          git commit -m "🤖 Automatski ažurirana baza aktivnih kola (matchdays.json)"
           git push
         fi

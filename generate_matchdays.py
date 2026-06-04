@@ -1,29 +1,39 @@
 import json
 import requests
 
-# Tvoja masovna lista liga pretvorena u Python rječnik (skraćeni prikaz radi preglednosti)
-LEAGUES_DATA = [
-    {"name": "Premier League", "id": 9, "s": 39301},
-    {"name": "Bundesliga", "id": 1, "s": 39285},
-    {"name": "Serie A", "id": 13, "s": 39325},
-    {"name": "LaLiga", "id": 10, "s": 39319},
-    {"name": "Ligue 1 Uber Eats", "id": 23, "s": 39245},
-    {"name": "1. HNL", "id": 120, "s": 39272}
-    # Ovdje u skriptu na GitHubu slobodno ubaci apsolutno sve lige iz tvog popisa
-]
+# Tvoj GitHub link za leagues.json
+GITHUB_LEAGUES_URL = "https://raw.githubusercontent.com/zeroOSeven-AI/OneFootball/refs/heads/main/leagues.json?token=GHSAT0AAAAAAD7CHUMJZ4UZQ7JJYN7NXHYE2RB5DVQ"
+
+# Čišćenje URL-a od privremenih tokena ako repozitorij postane javan
+if "leagues.json" in GITHUB_LEAGUES_URL and "token=GHSAT" not in GITHUB_LEAGUES_URL:
+    GITHUB_LEAGUES_URL = GITHUB_LEAGUES_URL.split("?")[0]
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Origin": "https://onefootball.com"
 }
 
 def build_matchday_database():
     database = {}
     
-    print(f"🔄 Pokrećem bager za {len(LEAGUES_DATA)} liga...")
+    print("🌐 Dohvaćam tvoju listu liga s GitHuba...")
+    try:
+        res_leagues = requests.get(GITHUB_LEAGUES_URL, headers=HEADERS, timeout=10)
+        if res_leagues.status_code == 200:
+            leagues_data = res_leagues.json()
+            print(f"✅ Uspješno učitano {len(leagues_data)} liga s GitHuba.\n")
+        else:
+            print(f"❌ Ne mogu dohvatiti lige s GitHuba. Status kod: {res_leagues.status_code}")
+            return
+    except Exception as e:
+        print(f"💥 Greška pri dohvaćanju liga s GitHuba: {e}")
+        return
+
+    print(f"🔄 Pokrećem bager za dohvaćanje aktivnih kola s OneFootballa...")
     
-    for league in LEAGUES_DATA:
-        league_name = league["name"].lower().replace(" ", "_") # npr. "premier_league"
+    for league in leagues_data:
+        # Spremamo ključ u formatu "premier_league", "1._hnl" itd., ovisno o imenu s GitHuba
+        league_name = league["name"].lower().replace(" ", "_")
         comp_id = league["id"]
         season_id = league["s"]
         
@@ -50,16 +60,20 @@ def build_matchday_database():
                         "mixer_url": f"https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/{current_id}"
                     }
                     print(f"✅ {league['name']} -> Kolo ID: {current_id}")
+                else:
+                    print(f"⚠️ {league['name']} -> Nema aktivnog kola (isCurrentMatchday) u JSON-u.")
             else:
                 print(f"❌ {league['name']} -> Server vratio status {res.status_code}")
         except Exception as e:
             print(f"💥 Greška na ligi {league['name']}: {e}")
             
-    # Spremanje baze na GitHub Pages
-    with open("matchdays.json", "w", encoding="utf-8") as f:
-        json.dump(database, f, indent=4, ensure_ascii=False)
-        
-    print("🏁 Baza 'matchdays.json' je uspješno stvorena i spremna!")
+    # Spremanje baze u matchdays.json
+    try:
+        with open("matchdays.json", "w", encoding="utf-8") as f:
+            json.dump(database, f, indent=4, ensure_ascii=False)
+        print("\n🏁 Baza 'matchdays.json' je uspješno stvorena i spremna!")
+    except Exception as e:
+        print(f"💥 Greška pri zapisivanju datoteke: {e}")
 
 if __name__ == "__main__":
     build_matchday_database()

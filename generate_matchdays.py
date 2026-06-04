@@ -2,7 +2,7 @@ import json
 import requests
 
 # Tvoj GitHub link za leagues.json
-GITHUB_LEAGUES_URL = "https://raw.githubusercontent.com/zeroOSeven-AI/OneFootball/refs/heads/main/leagues.json?token=GHSAT0AAAAAAD7CHUMJZ4UZQ7JJYN7NXHYE2RB5DVQ"
+GITHUB_LEAGUES_URL = "https://raw.githubusercontent.com/zeroOSeven-AI/OneFootball/refs/heads/main/leagues.json%E2%81%A0"
 
 # Čišćenje URL-a od privremenih tokena ako repozitorij postane javan
 if "leagues.json" in GITHUB_LEAGUES_URL and "token=GHSAT" not in GITHUB_LEAGUES_URL:

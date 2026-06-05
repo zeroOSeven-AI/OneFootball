@@ -26,63 +26,25 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Debug repository structure
+    - name: Debug repo
       run: |
-        echo "======================"
-        echo "CURRENT DIRECTORY"
-        echo "======================"
-        pwd
+        echo "=== FILE TREE ==="
+        find . -type f | sort
 
-        echo ""
-        echo "======================"
-        echo "ROOT FILES"
-        echo "======================"
-        ls -la
+    - name: Run generator
+      run: python generate_matchdays.py
 
-        echo ""
-        echo "======================"
-        echo "ALL FILES IN REPO"
-        echo "======================"
-        find . -type f
-
-        echo ""
-        echo "======================"
-        echo "ALL DIRECTORIES"
-        echo "======================"
-        find . -type d
-
-    - name: Debug repository structure
-  run: |
-    echo "PWD:"
-    pwd
-
-    echo ""
-    echo "FILES:"
-    find . -type f | sort
-
-    echo ""
-    echo "DIRS:"
-    find . -type d | sort
-    
-
-    - name: Ensure matchdays.json exists
-      run: |
-        if [ ! -f matchdays.json ]; then
-          echo "{}" > matchdays.json
-          echo "Created empty matchdays.json"
-        fi
-
-    - name: Commit changes safely
+    - name: Commit changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
 
-        git add -A
+        git add matchdays.json
 
         if git diff --staged --quiet; then
-          echo "No changes detected"
+          echo "No changes"
           exit 0
         fi
 
-        git commit -m "🤖 Auto update matchdays"
+        git commit -m "🤖 Update matchdays"
         git push

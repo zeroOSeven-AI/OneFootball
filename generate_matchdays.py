@@ -10,7 +10,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1"
 }
 
-LEAGUES_URL = "https://raw.githubusercontent.com/zeroOSeven-AI/OneFootball/main/leagues.json"
+LEAGUES_URL = "https://raw.githubusercontent.com/zeroOSeven-AI/OneFootball/refs/heads/main/leagues.json%E2%81%A0"
 OUTPUT_FILE = "matchdays.json"
 
 

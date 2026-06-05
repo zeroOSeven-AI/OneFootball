@@ -1,5 +1,0 @@
-- name: List files
-  run: |
-    pwd
-    ls -la
-    find . -type f

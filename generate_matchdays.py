@@ -2,7 +2,12 @@ import json
 import requests
 from datetime import datetime
 
-# ... tvoj uvodni kod za HEADERS i GITHUB_LEAGUES_URL ...
+# --- DEFINICIJA KONSTANTI NA VRHU (OVDJE JE BIO PROBLEM) ---
+# Ako su u istom folderu, ne trebamo URL, već lokalni file
+LEAGUES_FILE = "leagues.json" 
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1'
+}
 
 def build_matchday_database():
     # Učitavamo staru (postojeću) bazu da ne izgubimo podatke za lige koje danas preskačemo

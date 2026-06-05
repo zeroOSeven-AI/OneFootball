@@ -51,8 +51,19 @@ jobs:
         echo "======================"
         find . -type d
 
-    - name: Run generator
-      run: python generate_matchdays.py
+    - name: Debug repository structure
+  run: |
+    echo "PWD:"
+    pwd
+
+    echo ""
+    echo "FILES:"
+    find . -type f | sort
+
+    echo ""
+    echo "DIRS:"
+    find . -type d | sort
+    
 
     - name: Ensure matchdays.json exists
       run: |

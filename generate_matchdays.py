@@ -3,96 +3,162 @@ import requests
 import os
 from datetime import datetime
 
-LEAGUES_FILE = "leagues.json"
+# -------------------------------------------------
+# KONFIG
+# -------------------------------------------------
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+LEAGUES_FILE = os.path.join(BASE_DIR, "leagues.json")
+MATCHDAYS_FILE = os.path.join(BASE_DIR, "matchdays.json")
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)'
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1"
 }
 
-OUTPUT_FILE = "matchdays.json"
+# -------------------------------------------------
+# BUILD
+# -------------------------------------------------
 
+def build_matchday_database():
 
-def fetch_matchdays(comp_id, season_id):
-    url = f"https://feedmonster.onefootball.com/feeds/il/en/competitions/{comp_id}/{season_id}/matchdaysOverview.json"
+    print("====================================")
+    print("CURRENT DIRECTORY:")
+    print(os.getcwd())
+    print("====================================")
+
+    print("FILES FOUND:")
+    for f in os.listdir(BASE_DIR):
+        print(repr(f))
+
+    print("====================================")
+    print("LEAGUES PATH:")
+    print(LEAGUES_FILE)
+    print("EXISTS:", os.path.exists(LEAGUES_FILE))
+    print("====================================")
+
+    # Kreiraj bazu ako ne postoji
+    if not os.path.exists(MATCHDAYS_FILE):
+        with open(MATCHDAYS_FILE, "w", encoding="utf-8") as f:
+            json.dump({}, f)
 
     try:
-        r = requests.get(url, headers=HEADERS, timeout=10)
-        if r.status_code != 200:
-            return None
+        with open(MATCHDAYS_FILE, "r", encoding="utf-8") as f:
+            database = json.load(f)
+    except:
+        database = {}
 
-        data = r.json()
-        matchdays = data.get("matchdays", [])
-
-        current_index = None
-
-        for i, md in enumerate(matchdays):
-            if md.get("isCurrentMatchday"):
-                current_index = i
-                break
-
-        if current_index is None:
-            return None
-
-        previous_md = matchdays[current_index - 1] if current_index - 1 >= 0 else None
-        current_md = matchdays[current_index]
-        next_md = matchdays[current_index + 1] if current_index + 1 < len(matchdays) else None
-
-        return {
-            "previous": str(previous_md["id"]) if previous_md else None,
-            "current": str(current_md["id"]),
-            "next": str(next_md["id"]) if next_md else None
-        }
-
+    try:
+        with open(LEAGUES_FILE, "r", encoding="utf-8") as f:
+            leagues_data = json.load(f)
     except Exception as e:
-        print("ERROR:", e)
-        return None
+        print(f"❌ GREŠKA LEAGUES.JSON: {e}")
+        return
 
+    sada = datetime.now()
+    trenutni_dan = sada.weekday()
+    trenutni_sat = sada.hour
 
-def build():
-    # =========================
-    # LOAD LEAGUES
-    # =========================
-    with open(LEAGUES_FILE, "r", encoding="utf-8") as f:
-        leagues = json.load(f)
+    print(f"\n⏰ Dan={trenutni_dan} Sat={trenutni_sat}\n")
 
-    database = {}
+    for league in leagues_data:
 
-    print("\n🚀 BUILD START\n")
+        league_name = league["name"].lower().replace(" ", "_")
 
-    for league in leagues:
-        key = league["name"].lower().replace(" ", "_")
+        aktivni_dani = league.get(
+            "days_active",
+            [0, 1, 2, 3, 4, 5, 6]
+        )
 
-        print("⚽", league["name"])
-
-        md = fetch_matchdays(league["id"], league["s"])
-
-        if not md:
-            print("   ❌ SKIP")
+        if trenutni_dan not in aktivni_dani:
+            print(f"💤 {league['name']} preskačem")
             continue
 
-        database[key] = {
-            "name": league["name"],
-            "competition_id": league["id"],
-            "season_id": league["s"],
-            "matchdays": md
-        }
+        print(f"🚀 {league['name']}")
 
-        print("   ✔", md)
+        comp_id = league["id"]
+        season_id = league["s"]
 
-    # =========================
-    # ALWAYS WRITE FILE (OVERWRITE SAFE)
-    # =========================
+        url = f"https://feedmonster.onefootball.com/feeds/il/en/competitions/{comp_id}/{season_id}/matchdaysOverview.json"
 
-    # 🔥 ključni FIX — file uvijek postoji
-    if not os.path.exists(OUTPUT_FILE):
-        open(OUTPUT_FILE, "w", encoding="utf-8").write("{}")
+        try:
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(database, f, indent=4, ensure_ascii=False)
+            r = requests.get(
+                url,
+                headers=HEADERS,
+                timeout=10
+            )
 
-    print("\n🏁 DONE → file written / overwritten safely")
-    print("📦 Exists:", os.path.exists(OUTPUT_FILE))
+            if r.status_code != 200:
+                print(f"❌ HTTP {r.status_code}")
+                continue
+
+            data = r.json()
+
+            current_idx = None
+
+            for i, md in enumerate(data.get("matchdays", [])):
+                if md.get("isCurrentMatchday"):
+                    current_idx = i
+                    break
+
+            if current_idx is None:
+                print("❌ Nema current matchday")
+                continue
+
+            matchdays = data["matchdays"]
+
+            previous_id = None
+            current_id = None
+            next_id = None
+
+            if current_idx > 0:
+                previous_id = matchdays[current_idx - 1]["id"]
+
+            current_id = matchdays[current_idx]["id"]
+
+            if current_idx + 1 < len(matchdays):
+                next_id = matchdays[current_idx + 1]["id"]
+
+            database[league_name] = {
+                "name": league["name"],
+                "competition_id": comp_id,
+                "season_id": season_id,
+
+                "previous_matchday_id": previous_id,
+                "current_matchday_id": current_id,
+                "next_matchday_id": next_id,
+
+                "previous_mixer_url":
+                    f"https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/{previous_id}"
+                    if previous_id else None,
+
+                "current_mixer_url":
+                    f"https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/{current_id}",
+
+                "next_mixer_url":
+                    f"https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/{next_id}"
+                    if next_id else None
+            }
+
+            print(
+                f"✅ PREV={previous_id} "
+                f"CUR={current_id} "
+                f"NEXT={next_id}"
+            )
+
+        except Exception as e:
+            print(f"💥 {e}")
+
+    with open(MATCHDAYS_FILE, "w", encoding="utf-8") as f:
+        json.dump(
+            database,
+            f,
+            indent=4,
+            ensure_ascii=False
+        )
+
+    print("\n🏁 GOTOVO")
 
 
 if __name__ == "__main__":
-    build()
+    build_matchday_database()

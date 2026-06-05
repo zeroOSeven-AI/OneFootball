@@ -1,143 +1,132 @@
 import json
 import requests
 from datetime import datetime
-from pathlib import Path
 
 # ==================================================
-# PATH SETUP (FIX ZA GITHUB ACTIONS)
+# MATCHDAY GENERATOR (CLEAN GITHUB VERSION)
 # ==================================================
-BASE_DIR = Path(__file__).resolve().parent
-LEAGUES_FILE = BASE_DIR / "leagues.json"
-MATCHDAYS_FILE = BASE_DIR / "matchdays.json"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1"
 }
 
-# ==================================================
-# LOAD LEAGUES
-# ==================================================
+LEAGUES_URL = "https://raw.githubusercontent.com/zeroOSeven-AI/OneFootball/main/leagues.json"
+OUTPUT_FILE = "matchdays.json"
+
+
 def load_leagues():
-    if not LEAGUES_FILE.exists():
-        raise FileNotFoundError(f"leagues.json NOT FOUND in {BASE_DIR}")
+    r = requests.get(LEAGUES_URL, timeout=15)
+    r.raise_for_status()
+    return r.json()
 
-    with open(LEAGUES_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
 
-# ==================================================
-# LOAD EXISTING DATABASE (SAFE)
-# ==================================================
-def load_database():
-    if not MATCHDAYS_FILE.exists():
-        return {}
-
+def load_existing():
     try:
-        with open(MATCHDAYS_FILE, "r", encoding="utf-8") as f:
+        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
     except:
         return {}
 
-# ==================================================
-# SAVE JSON SAFELY (ATOMIC WRITE)
-# ==================================================
-def save_database(data):
-    temp_file = MATCHDAYS_FILE.with_suffix(".tmp")
 
-    with open(temp_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+def get_matchdays(comp_id, season_id):
 
-    temp_file.replace(MATCHDAYS_FILE)
+    url = f"https://feedmonster.onefootball.com/feeds/il/en/competitions/{comp_id}/{season_id}/matchdaysOverview.json"
 
-# ==================================================
-# MAIN BUILDER
-# ==================================================
+    r = requests.get(url, headers=HEADERS, timeout=15)
+    r.raise_for_status()
+
+    data = r.json()
+    matchdays = data.get("matchdays", [])
+
+    if not matchdays:
+        return None
+
+    current_index = next(
+        (i for i, m in enumerate(matchdays) if m.get("isCurrentMatchday")),
+        -1
+    )
+
+    if current_index == -1:
+        return None
+
+    prev_id = matchdays[current_index - 1]["id"] if current_index > 0 else None
+    curr_id = matchdays[current_index]["id"]
+    next_id = matchdays[current_index + 1]["id"] if current_index < len(matchdays) - 1 else None
+
+    return {
+        "previous": prev_id,
+        "current": curr_id,
+        "next": next_id
+    }
+
+
 def build():
-    database = load_database()
+
     leagues = load_leagues()
+    db = load_existing()
 
     now = datetime.now()
-    today = now.weekday()
-    hour = now.hour
+    weekday = now.weekday()
 
-    print(f"⏰ Server time: day={today}, hour={hour}")
+    print(f"⏰ Weekday: {weekday}")
+    print("🚀 Starting generation...\n")
+
+    updated = 0
 
     for league in leagues:
-        name_key = league["name"].lower().replace(" ", "_")
 
-        active_days = league.get("days_active", [0,1,2,3,4,5,6])
-
-        # ==================================================
-        # DAY FILTER (ANTI API SPAM)
-        # ==================================================
-        if today not in active_days:
-            print(f"💤 {league['name']} skipped (inactive day)")
+        if weekday not in league.get("days_active", [0,1,2,3,4,5,6]):
+            print(f"💤 Skipping {league['name']} (inactive day)")
             continue
 
         comp_id = league["id"]
         season_id = league["s"]
 
-        url = f"https://feedmonster.onefootball.com/feeds/il/en/competitions/{comp_id}/{season_id}/matchdaysOverview.json"
+        print(f"⚽ {league['name']}")
 
         try:
-            res = requests.get(url, headers=HEADERS, timeout=10)
-            if res.status_code != 200:
-                print(f"❌ {league['name']} API error {res.status_code}")
+            md = get_matchdays(comp_id, season_id)
+
+            if not md:
+                print("   ❌ No matchday data")
                 continue
 
-            data = res.json()
-            matchdays = data.get("matchdays", [])
+            key = league["name"].lower().replace(" ", "_")
 
-            if not matchdays:
-                print(f"⚠️ No matchdays for {league['name']}")
-                continue
-
-            current_idx = next(
-                (i for i, m in enumerate(matchdays) if m.get("isCurrentMatchday")),
-                None
-            )
-
-            if current_idx is None:
-                print(f"⚠️ No current matchday found for {league['name']}")
-                continue
-
-            prev_md = matchdays[current_idx - 1] if current_idx - 1 >= 0 else None
-            curr_md = matchdays[current_idx]
-            next_md = matchdays[current_idx + 1] if current_idx + 1 < len(matchdays) else None
-
-            database[name_key] = {
+            db[key] = {
                 "name": league["name"],
                 "competition_id": comp_id,
                 "season_id": season_id,
 
-                # PREVIOUS
-                "previous_matchday_id": prev_md.get("id") if prev_md else None,
-                "previous_mixer_url": (
-                    f"https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/{prev_md.get('id')}"
-                    if prev_md else None
-                ),
+                "previous_matchday_id": md["previous"],
+                "current_matchday_id": md["current"],
+                "next_matchday_id": md["next"],
 
-                # CURRENT
-                "current_matchday_id": curr_md.get("id"),
-                "current_mixer_url": (
-                    f"https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/{curr_md.get('id')}"
-                ),
+                "previous_mixer_url":
+                    f"https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/{md['previous']}"
+                    if md["previous"] else None,
 
-                # NEXT
-                "next_matchday_id": next_md.get("id") if next_md else None,
-                "next_mixer_url": (
-                    f"https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/{next_md.get('id')}"
-                    if next_md else None
-                )
+                "current_mixer_url":
+                    f"https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/{md['current']}",
+
+                "next_mixer_url":
+                    f"https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/{md['next']}"
+                    if md["next"] else None
             }
 
-            print(f"✅ {league['name']} updated (prev/current/next)")
+            print(f"   ✅ PREV {md['previous']} | CUR {md['current']} | NEXT {md['next']}")
+            updated += 1
 
         except Exception as e:
-            print(f"💥 ERROR {league['name']}: {e}")
+            print(f"   ❌ ERROR: {e}")
 
-    save_database(database)
-    print("🏁 DONE - matchdays.json updated")
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(db, f, indent=4, ensure_ascii=False)
 
-# ==================================================
+    print("\n====================")
+    print(f"DONE: {updated} leagues updated")
+    print("====================")
+
+
 if __name__ == "__main__":
     build()

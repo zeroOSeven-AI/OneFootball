@@ -26,10 +26,30 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Debug files
+    - name: Debug repository structure
       run: |
-        echo "=== FILES IN REPO ==="
+        echo "======================"
+        echo "CURRENT DIRECTORY"
+        echo "======================"
+        pwd
+
+        echo ""
+        echo "======================"
+        echo "ROOT FILES"
+        echo "======================"
         ls -la
+
+        echo ""
+        echo "======================"
+        echo "ALL FILES IN REPO"
+        echo "======================"
+        find . -type f
+
+        echo ""
+        echo "======================"
+        echo "ALL DIRECTORIES"
+        echo "======================"
+        find . -type d
 
     - name: Run generator
       run: python generate_matchdays.py

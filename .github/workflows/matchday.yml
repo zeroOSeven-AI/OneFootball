@@ -2,10 +2,8 @@ name: Matchday Generator
 
 on:
   schedule:
-    # Pokreće se svakih 4 sata, svaki dan (Inteligentno filtriranje radi u Pythonu)
     - cron: '0 */4 * * *'
   workflow_dispatch:
-    # Omogućuje ti gumb "Run workflow" za ručno pokretanje u Actions tabu
 
 permissions:
   contents: write
@@ -15,34 +13,45 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Preuzmi kod iz repozitorija
+    - name: Checkout repo
       uses: actions/checkout@v4
 
-    - name: Postavi Python okruženje
+    - name: Setup Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.x'
 
-    - name: Instaliraj potrebne pakete
+    - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Pokreni pametno računanje kola
+    - name: Debug files
+      run: |
+        echo "=== FILES IN REPO ==="
+        ls -la
+
+    - name: Run generator
       run: python generate_matchdays.py
 
-    - name: Spremi izmjene i gurni ih natrag na GitHub
+    - name: Ensure matchdays.json exists
+      run: |
+        if [ ! -f matchdays.json ]; then
+          echo "{}" > matchdays.json
+          echo "Created empty matchdays.json"
+        fi
+
+    - name: Commit changes safely
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        
-        # Dodajemo generirani matchdays.json u staging područje
-        git add matchdays.json
-        
-        # Provjera ima li uopće promjena kako skripta ne bi bacila grešku ako su ID-ovi isti
+
+        git add -A
+
         if git diff --staged --quiet; then
-          echo "Nema novih promjena u kolima. Preskačem commit."
-        else
-          git commit -m "🤖 Automatski ažurirana baza aktivnih kola (matchdays.json)"
-          git push
+          echo "No changes detected"
+          exit 0
         fi
+
+        git commit -m "🤖 Auto update matchdays"
+        git push

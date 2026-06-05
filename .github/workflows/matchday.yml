@@ -1,7 +1,4 @@
 name: Matchday Generator
-      run: |
-        python generate_matchdays.py
-      working-directory: ./
 
 on:
   schedule:

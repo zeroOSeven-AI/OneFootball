@@ -1,45 +1,36 @@
 import json
 import requests
+import os
+from datetime import datetime
 
-# =========================
-# CONFIG
-# =========================
 LEAGUES_FILE = "leagues.json"
-OUTPUT_FILE = "matchdays.json"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1"
+    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X)'
 }
 
-# =========================
-# FETCH MATCHDAYS FROM ONEFOOTBALL
-# =========================
-def fetch_matchdays(comp_id, season_id):
+OUTPUT_FILE = "matchdays.json"
 
+
+def fetch_matchdays(comp_id, season_id):
     url = f"https://feedmonster.onefootball.com/feeds/il/en/competitions/{comp_id}/{season_id}/matchdaysOverview.json"
 
     try:
-        r = requests.get(url, headers=HEADERS, timeout=8)
-
+        r = requests.get(url, headers=HEADERS, timeout=10)
         if r.status_code != 200:
-            print(f"   ❌ HTTP ERROR {r.status_code}")
             return None
 
         data = r.json()
         matchdays = data.get("matchdays", [])
 
-        if not matchdays:
-            return None
-
         current_index = None
 
         for i, md in enumerate(matchdays):
-            if md.get("isCurrentMatchday") is True:
+            if md.get("isCurrentMatchday"):
                 current_index = i
                 break
 
         if current_index is None:
-            print("   ❌ No current matchday found")
             return None
 
         previous_md = matchdays[current_index - 1] if current_index - 1 >= 0 else None
@@ -53,61 +44,55 @@ def fetch_matchdays(comp_id, season_id):
         }
 
     except Exception as e:
-        print("   💥 Exception:", e)
+        print("ERROR:", e)
         return None
 
 
-# =========================
-# MAIN BUILDER
-# =========================
-def build_matchday_database():
-
-    try:
-        with open(LEAGUES_FILE, "r", encoding="utf-8") as f:
-            leagues = json.load(f)
-    except Exception as e:
-        print("❌ Cannot load leagues.json:", e)
-        return
+def build():
+    # =========================
+    # LOAD LEAGUES
+    # =========================
+    with open(LEAGUES_FILE, "r", encoding="utf-8") as f:
+        leagues = json.load(f)
 
     database = {}
 
-    print("\n🚀 STARTING MATCHDAY BUILD\n")
+    print("\n🚀 BUILD START\n")
 
     for league in leagues:
+        key = league["name"].lower().replace(" ", "_")
 
-        name_key = league["name"].lower().replace(" ", "_")
+        print("⚽", league["name"])
 
-        comp_id = league["id"]
-        season_id = league["s"]
-
-        print(f"⚽ {league['name']}")
-
-        md = fetch_matchdays(comp_id, season_id)
+        md = fetch_matchdays(league["id"], league["s"])
 
         if not md:
-            print("   ❌ SKIPPED\n")
+            print("   ❌ SKIP")
             continue
 
-        database[name_key] = {
+        database[key] = {
             "name": league["name"],
-            "competition_id": comp_id,
-            "season_id": season_id,
-            "matchdays": {
-                "previous": md["previous"],
-                "current": md["current"],
-                "next": md["next"]
-            }
+            "competition_id": league["id"],
+            "season_id": league["s"],
+            "matchdays": md
         }
 
-        print(f"   ✔ Previous: {md['previous']}")
-        print(f"   ✔ Current : {md['current']}")
-        print(f"   ✔ Next    : {md['next']}\n")
+        print("   ✔", md)
+
+    # =========================
+    # ALWAYS WRITE FILE (OVERWRITE SAFE)
+    # =========================
+
+    # 🔥 ključni FIX — file uvijek postoji
+    if not os.path.exists(OUTPUT_FILE):
+        open(OUTPUT_FILE, "w", encoding="utf-8").write("{}")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(database, f, indent=4, ensure_ascii=False)
 
-    print("🏁 DONE → matchdays.json updated successfully!\n")
+    print("\n🏁 DONE → file written / overwritten safely")
+    print("📦 Exists:", os.path.exists(OUTPUT_FILE))
 
 
 if __name__ == "__main__":
-    build_matchday_database()
+    build()

@@ -2,28 +2,31 @@ import json
 import requests
 from datetime import datetime
 
-# --- DEFINICIJA KONSTANTI NA VRHU (OVDJE JE BIO PROBLEM) ---
-# Ako su u istom folderu, ne trebamo URL, već lokalni file
+# --- DEFINICIJA KONSTANTI ---
 LEAGUES_FILE = "leagues.json" 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1'
 }
 
 def build_matchday_database():
-    # Učitavamo staru (postojeću) bazu da ne izgubimo podatke za lige koje danas preskačemo
+    # Učitavamo staru (postojeću) bazu da ne izgubimo podatke
     try:
         with open("matchdays.json", "r", encoding="utf-8") as f:
             database = json.load(f)
     except Exception:
         database = {}
 
-    # Dohvaćamo tvoj nadograđeni leagues.json s GitHuba
-    res_leagues = requests.get(GITHUB_LEAGUES_URL, headers=HEADERS, timeout=10)
-    leagues_data = res_leagues.json()
+    # UČITAVANJE LOKALNOG JSON-A (Popravljeno ovdje)
+    try:
+        with open(LEAGUES_FILE, "r", encoding="utf-8") as f:
+            leagues_data = json.load(f)
+    except Exception as e:
+        print(f"❌ Greška pri čitanju {LEAGUES_FILE}: {e}")
+        return
 
-    # Trenutno vrijeme na serveru (dan u tjednu i sat)
+    # Trenutno vrijeme
     sada = datetime.now()
-    trenutni_dan = sada.weekday() # 0=Ponedjeljak, 1=Utorak... 6=Nedjelja (PAŽNJA: Python broji od 0=Pon, prilagodi JSON po želji)
+    trenutni_dan = sada.weekday() 
     trenutni_sat = sada.hour
 
     print(f"⏰ Trenutno vrijeme na serveru: Dan {trenutni_dan}, Sat {trenutni_sat}:00")
@@ -32,20 +35,12 @@ def build_matchday_database():
     for league in leagues_data:
         league_name = league["name"].lower().replace(" ", "_")
         
-        # Čitanje pametnih pravila iz JSON-a (ako ih nema, stavi default da uvijek radi)
         aktivni_dani = league.get("days_active", [0, 1, 2, 3, 4, 5, 6])
-        sat_azuriranja = league.get("update_hour", 0)
-
-        # Ključni uvjet: Provjeri je li liga aktivna danas
-        # Ako nije njezin dan, potpuno je preskačemo i ostaje stari matchday ID u bazi
+        
         if trenutni_dan not in aktivni_dani:
             print(f"💤 {league['name']} -> Preskačem (nije dan za utakmice/izmjenu).")
             continue
             
-        # Možeš čak dodati i uvjet za sat ako želiš biti još precizniji
-        # if trenutni_sat < sat_azuriranja: ...
-
-        # Ako je prošla provjeru, idemo na OneFootball po svježi Matchday ID
         print(f"🚀 {league['name']} je AKTIVNA. Provjeravam kolo na OneFootballu...")
         
         comp_id = league["id"]
@@ -74,7 +69,7 @@ def build_matchday_database():
         except Exception as e:
             print(f"   💥 Greška: {e}")
 
-    # Spremanje osvježene kombinacije starih i novih podataka
+    # Spremanje osvježene kombinacije
     with open("matchdays.json", "w", encoding="utf-8") as f:
         json.dump(database, f, indent=4, ensure_ascii=False)
         

@@ -872,12 +872,12 @@
         "name": "Vysheyshaya Liga",
         "competition_id": 2688,
         "season_id": 39235,
-        "previous_matchday_id": "7911481",
-        "current_matchday_id": "7911482",
-        "next_matchday_id": "7911483",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911481",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911482",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911483"
+        "previous_matchday_id": "7911482",
+        "current_matchday_id": "7911483",
+        "next_matchday_id": "7911484",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911482",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911483",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911484"
     },
     "concacaf_nations_league": {
         "name": "CONCACAF Nations League",
@@ -916,12 +916,12 @@
         "name": "Virsliga",
         "competition_id": 2746,
         "season_id": 39227,
-        "previous_matchday_id": "7898493",
-        "current_matchday_id": "7898494",
-        "next_matchday_id": "7898495",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898493",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898494",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898495"
+        "previous_matchday_id": "7898494",
+        "current_matchday_id": "7898495",
+        "next_matchday_id": "7898496",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898494",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898495",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898496"
     },
     "club_friendly_games": {
         "name": "Club Friendly Games",
@@ -949,12 +949,12 @@
         "name": "Damallsvenskan",
         "competition_id": 2701,
         "season_id": 39168,
-        "previous_matchday_id": "7860518",
-        "current_matchday_id": "7860519",
-        "next_matchday_id": "7860520",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860518",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860519",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860520"
+        "previous_matchday_id": "7860519",
+        "current_matchday_id": "7860520",
+        "next_matchday_id": "7860521",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860519",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860520",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860521"
     },
     "2._liga": {
         "name": "2. Liga",

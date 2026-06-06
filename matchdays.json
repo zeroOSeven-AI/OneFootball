@@ -1499,12 +1499,12 @@
         "name": "A Lyga",
         "competition_id": 2748,
         "season_id": 39231,
-        "previous_matchday_id": "7908879",
-        "current_matchday_id": "7908880",
-        "next_matchday_id": "7908881",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7908879",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7908880",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7908881"
+        "previous_matchday_id": "7908880",
+        "current_matchday_id": "7908881",
+        "next_matchday_id": "7950483",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7908880",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7908881",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7950483"
     },
     "ligue_1_tunisia": {
         "name": "Ligue 1 Tunisia",
@@ -1972,12 +1972,12 @@
         "name": "Copa Verde",
         "competition_id": 1895,
         "season_id": 38914,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7961557",
-        "next_matchday_id": "7961558",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961557",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961558"
+        "previous_matchday_id": "7961557",
+        "current_matchday_id": "7961558",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961557",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961558",
+        "next_mixer_url": null
     },
     "amapaense": {
         "name": "Amapaense",

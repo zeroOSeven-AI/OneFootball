@@ -597,12 +597,12 @@
         "name": "Torneo Apertura",
         "competition_id": 177,
         "season_id": 39188,
-        "previous_matchday_id": "7932359",
-        "current_matchday_id": "7932360",
-        "next_matchday_id": "7932361",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932359",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932360",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932361"
+        "previous_matchday_id": "7932360",
+        "current_matchday_id": "7932361",
+        "next_matchday_id": "7953846",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932360",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932361",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7953846"
     },
     "regionalliga_südwest": {
         "name": "Regionalliga Südwest",
@@ -1125,12 +1125,12 @@
         "name": "USL Championship",
         "competition_id": 2750,
         "season_id": 39233,
-        "previous_matchday_id": "7858516",
-        "current_matchday_id": "7858517",
-        "next_matchday_id": "7858518",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858516",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858517",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858518"
+        "previous_matchday_id": "7858517",
+        "current_matchday_id": "7858518",
+        "next_matchday_id": "7858519",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858517",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858518",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858519"
     },
     "challenge_league": {
         "name": "Challenge League",

@@ -135,12 +135,12 @@
         "name": "Segunda División",
         "competition_id": 28,
         "season_id": 39320,
-        "previous_matchday_id": "7678394",
-        "current_matchday_id": "7961136",
-        "next_matchday_id": "7961137",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7678394",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961136",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961137"
+        "previous_matchday_id": "7961136",
+        "current_matchday_id": "7961137",
+        "next_matchday_id": "7961484",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961136",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961137",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961484"
     },
     "ligue_2": {
         "name": "Ligue 2",
@@ -1268,12 +1268,12 @@
         "name": "Canadian Premier League",
         "competition_id": 2705,
         "season_id": 39220,
-        "previous_matchday_id": "7900159",
-        "current_matchday_id": "7900160",
-        "next_matchday_id": "7900161",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900159",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900160",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900161"
+        "previous_matchday_id": "7900160",
+        "current_matchday_id": "7900161",
+        "next_matchday_id": "7900162",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900160",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900161",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900162"
     },
     "concacaf_gold_cup": {
         "name": "CONCACAF Gold Cup",

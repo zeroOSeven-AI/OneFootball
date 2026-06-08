@@ -25,12 +25,12 @@
         "name": "Serie A",
         "competition_id": 13,
         "season_id": 39325,
-        "previous_matchday_id": "7641947",
-        "current_matchday_id": "7641948",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7641947",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7641948",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7963611",
+        "next_matchday_id": "7963612",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963611",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963612"
     },
     "laliga": {
         "name": "LaLiga",
@@ -1356,12 +1356,12 @@
         "name": "1. HNL",
         "competition_id": 120,
         "season_id": 39272,
-        "previous_matchday_id": "7662170",
-        "current_matchday_id": "7662171",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7662170",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7662171",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7962981",
+        "next_matchday_id": "7962982",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7962981",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7962982"
     },
     "2020_nwsl_challenge_cup": {
         "name": "2020 NWSL Challenge Cup",

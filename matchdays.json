@@ -2616,5 +2616,71 @@
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949548",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949549",
         "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949550"
+    },
+    "uefa_women's_champions_league": {
+        "name": "UEFA Women's Champions League",
+        "competition_id": 2702,
+        "season_id": 39366,
+        "previous_matchday_id": "7860358",
+        "current_matchday_id": "7860359",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860358",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860359",
+        "next_mixer_url": null
+    },
+    "kupa_e_shqipërisë": {
+        "name": "Kupa e Shqipërisë",
+        "competition_id": 136,
+        "season_id": 39448,
+        "previous_matchday_id": "7921835",
+        "current_matchday_id": "7921836",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921835",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921836",
+        "next_mixer_url": null
+    },
+    "mls_all-star_game": {
+        "name": "MLS All-Star Game",
+        "competition_id": 2714,
+        "season_id": 38940,
+        "previous_matchday_id": null,
+        "current_matchday_id": "7921233",
+        "next_matchday_id": null,
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921233",
+        "next_mixer_url": null
+    },
+    "uefa_super_cup": {
+        "name": "UEFA Super Cup",
+        "competition_id": 68,
+        "season_id": 39308,
+        "previous_matchday_id": null,
+        "current_matchday_id": "7955974",
+        "next_matchday_id": null,
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7955974",
+        "next_mixer_url": null
+    },
+    "argentina_super_cup": {
+        "name": "Argentina Super Cup",
+        "competition_id": 194,
+        "season_id": 39148,
+        "previous_matchday_id": null,
+        "current_matchday_id": "7365140",
+        "next_matchday_id": null,
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7365140",
+        "next_mixer_url": null
+    },
+    "copa_rio": {
+        "name": "Copa Rio",
+        "competition_id": 213,
+        "season_id": 38863,
+        "previous_matchday_id": null,
+        "current_matchday_id": "7941647",
+        "next_matchday_id": "7941648",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7941647",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7941648"
     }
 }

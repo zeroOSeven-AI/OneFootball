@@ -817,12 +817,12 @@
         "name": "Ekstraklasa",
         "competition_id": 59,
         "season_id": 39267,
-        "previous_matchday_id": "7641705",
-        "current_matchday_id": "7641706",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7641705",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7641706",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7966653",
+        "next_matchday_id": "7966654",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966653",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966654"
     },
     "caf_champions_league": {
         "name": "CAF Champions League",

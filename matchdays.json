@@ -861,12 +861,12 @@
         "name": "Superettan",
         "competition_id": 181,
         "season_id": 39165,
-        "previous_matchday_id": "7868213",
-        "current_matchday_id": "7868214",
-        "next_matchday_id": "7868215",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868213",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868214",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868215"
+        "previous_matchday_id": "7868214",
+        "current_matchday_id": "7868215",
+        "next_matchday_id": "7868216",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868214",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868215",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868216"
     },
     "vysheyshaya_liga": {
         "name": "Vysheyshaya Liga",
@@ -1588,10 +1588,10 @@
         "competition_id": 65,
         "season_id": 39277,
         "previous_matchday_id": null,
-        "current_matchday_id": "7670381",
+        "current_matchday_id": "7964961",
         "next_matchday_id": null,
         "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7670381",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964961",
         "next_mixer_url": null
     },
     "division_1_féminine": {
@@ -1686,12 +1686,12 @@
         "name": "Segunda B",
         "competition_id": 150,
         "season_id": 39343,
-        "previous_matchday_id": "7957828",
-        "current_matchday_id": "7957829",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7957828",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7957829",
-        "next_mixer_url": null
+        "previous_matchday_id": "7957829",
+        "current_matchday_id": "7964847",
+        "next_matchday_id": "7964848",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7957829",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964847",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964848"
     },
     "brasileiro_women": {
         "name": "Brasileiro Women",
@@ -1719,12 +1719,12 @@
         "name": "Catarinense 2",
         "competition_id": 1888,
         "season_id": 39353,
-        "previous_matchday_id": "7921872",
-        "current_matchday_id": "7921873",
-        "next_matchday_id": "7921874",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921872",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921873",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921874"
+        "previous_matchday_id": "7921873",
+        "current_matchday_id": "7921874",
+        "next_matchday_id": "7921875",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921873",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921874",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921875"
     },
     "ligat_haal": {
         "name": "Ligat HaAl",
@@ -1785,12 +1785,12 @@
         "name": "Mineiro 2",
         "competition_id": 1905,
         "season_id": 39147,
-        "previous_matchday_id": "7906641",
-        "current_matchday_id": "7906642",
-        "next_matchday_id": "7906643",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7906641",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7906642",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7906643"
+        "previous_matchday_id": "7964789",
+        "current_matchday_id": "7964790",
+        "next_matchday_id": "7964791",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964789",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964790",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964791"
     },
     "championnat_national_3": {
         "name": "Championnat National 3",

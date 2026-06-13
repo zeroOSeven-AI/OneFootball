@@ -1070,12 +1070,12 @@
         "name": "Chinese Super League",
         "competition_id": 112,
         "season_id": 39198,
-        "previous_matchday_id": "7909325",
-        "current_matchday_id": "7909326",
-        "next_matchday_id": "7909327",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909325",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909326",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909327"
+        "previous_matchday_id": "7909326",
+        "current_matchday_id": "7909327",
+        "next_matchday_id": "7909328",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909326",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909327",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909328"
     },
     "liga_de_fútbol_de_primera_división": {
         "name": "Liga de Fútbol de Primera División",

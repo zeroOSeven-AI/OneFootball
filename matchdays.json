@@ -368,10 +368,10 @@
         "season_id": 39230,
         "previous_matchday_id": "7930601",
         "current_matchday_id": "7930602",
-        "next_matchday_id": null,
+        "next_matchday_id": "7967770",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7930601",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7930602",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7967770"
     },
     "eredivisie": {
         "name": "Eredivisie",

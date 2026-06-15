@@ -1004,12 +1004,12 @@
         "name": "Super Liga",
         "competition_id": 123,
         "season_id": 39247,
-        "previous_matchday_id": "7936583",
-        "current_matchday_id": "7949989",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7936583",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949989",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7968123",
+        "next_matchday_id": "7968124",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7968123",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7968124"
     },
     "1._snl": {
         "name": "1. SNL",
@@ -1444,12 +1444,12 @@
         "name": "Veikkausliiga",
         "competition_id": 680,
         "season_id": 39186,
-        "previous_matchday_id": "7861895",
-        "current_matchday_id": "7861896",
-        "next_matchday_id": "7861897",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861895",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861896",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861897"
+        "previous_matchday_id": "7861896",
+        "current_matchday_id": "7861897",
+        "next_matchday_id": "7861898",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861896",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861897",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861898"
     },
     "liga_mx_femenil": {
         "name": "Liga MX Femenil",

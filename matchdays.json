@@ -12,13 +12,13 @@
     },
     "bundesliga": {
         "name": "Bundesliga",
-        "competition_id": 26,
-        "season_id": 39297,
-        "previous_matchday_id": "7954280",
-        "current_matchday_id": "7954281",
+        "competition_id": 1,
+        "season_id": 39285,
+        "previous_matchday_id": "7674696",
+        "current_matchday_id": "7674697",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7954280",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7954281",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7674696",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7674697",
         "next_mixer_url": null
     },
     "serie_a": {
@@ -916,12 +916,12 @@
         "name": "Virsliga",
         "competition_id": 2746,
         "season_id": 39227,
-        "previous_matchday_id": "7898494",
-        "current_matchday_id": "7898495",
-        "next_matchday_id": "7898496",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898494",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898495",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898496"
+        "previous_matchday_id": "7898495",
+        "current_matchday_id": "7898496",
+        "next_matchday_id": "7898497",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898495",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898496",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898497"
     },
     "club_friendly_games": {
         "name": "Club Friendly Games",
@@ -1468,10 +1468,10 @@
         "season_id": 39083,
         "previous_matchday_id": "7962425",
         "current_matchday_id": "7965079",
-        "next_matchday_id": null,
+        "next_matchday_id": "7968300",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7962425",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965079",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7968300"
     },
     "k-league_2": {
         "name": "K-League 2",

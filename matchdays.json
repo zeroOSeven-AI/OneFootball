@@ -2401,11 +2401,11 @@
         "name": "EFL Cup",
         "competition_id": 41,
         "season_id": 39296,
-        "previous_matchday_id": "7859664",
-        "current_matchday_id": "7902205",
+        "previous_matchday_id": null,
+        "current_matchday_id": "7966534",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7859664",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7902205",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966534",
         "next_mixer_url": null
     },
     "copa_do_brasil": {
@@ -2456,11 +2456,11 @@
         "name": "Puchar Polski",
         "competition_id": 106,
         "season_id": 39266,
-        "previous_matchday_id": "7919496",
-        "current_matchday_id": "7919497",
+        "previous_matchday_id": null,
+        "current_matchday_id": "7967203",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7919496",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7919497",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7967203",
         "next_mixer_url": null
     },
     "dbu_pokalen": {

@@ -2612,10 +2612,10 @@
         "season_id": 39050,
         "previous_matchday_id": "7949549",
         "current_matchday_id": "7949550",
-        "next_matchday_id": null,
+        "next_matchday_id": "7969780",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949549",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949550",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969780"
     },
     "uefa_women's_champions_league": {
         "name": "UEFA Women's Champions League",
@@ -2687,11 +2687,11 @@
         "name": "Europa League",
         "competition_id": 7,
         "season_id": 39357,
-        "previous_matchday_id": "7916002",
-        "current_matchday_id": "7916003",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7916002",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7916003",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7969027",
+        "next_matchday_id": "7969028",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969027",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969028"
     }
 }

@@ -245,12 +245,12 @@
         "name": "FIFA World Cup",
         "competition_id": 12,
         "season_id": 7932,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7799166",
-        "next_matchday_id": "7799167",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7799166",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7799167"
+        "previous_matchday_id": "7799166",
+        "current_matchday_id": "7799167",
+        "next_matchday_id": "7799168",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7799166",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7799167",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7799168"
     },
     "coupe_de_france": {
         "name": "Coupe de France",
@@ -344,11 +344,11 @@
         "name": "International Friendlies",
         "competition_id": 24,
         "season_id": 39240,
-        "previous_matchday_id": "7896180",
-        "current_matchday_id": "7906410",
+        "previous_matchday_id": "7906410",
+        "current_matchday_id": "7970166",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7896180",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7906410",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7906410",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970166",
         "next_mixer_url": null
     },
     "brasileirão_série_c": {

@@ -3,12 +3,12 @@
         "name": "Premier League",
         "competition_id": 9,
         "season_id": 39301,
-        "previous_matchday_id": "7662009",
-        "current_matchday_id": "7662010",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7662009",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7662010",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7970651",
+        "next_matchday_id": "7970652",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970651",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970652"
     },
     "bundesliga": {
         "name": "Bundesliga",
@@ -454,12 +454,12 @@
         "name": "Scottish Premiership",
         "competition_id": 39,
         "season_id": 39242,
-        "previous_matchday_id": "7935515",
-        "current_matchday_id": "7935516",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7935515",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7935516",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7970131",
+        "next_matchday_id": "7970132",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970131",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970132"
     },
     "scottish_championship": {
         "name": "Scottish Championship",

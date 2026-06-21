@@ -949,12 +949,12 @@
         "name": "Damallsvenskan",
         "competition_id": 2701,
         "season_id": 39168,
-        "previous_matchday_id": "7860520",
-        "current_matchday_id": "7860521",
-        "next_matchday_id": "7860522",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860520",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860521",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860522"
+        "previous_matchday_id": "7860521",
+        "current_matchday_id": "7860522",
+        "next_matchday_id": "7860523",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860521",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860522",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860523"
     },
     "2._liga": {
         "name": "2. Liga",

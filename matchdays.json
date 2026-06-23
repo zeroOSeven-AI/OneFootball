@@ -2412,12 +2412,12 @@
         "name": "Copa do Brasil",
         "competition_id": 137,
         "season_id": 39179,
-        "previous_matchday_id": "7928946",
-        "current_matchday_id": "7928947",
-        "next_matchday_id": "7958711",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7928946",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7928947",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7958711"
+        "previous_matchday_id": "7928947",
+        "current_matchday_id": "7958711",
+        "next_matchday_id": "7958712",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7928947",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7958711",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7958712"
     },
     "kubok": {
         "name": "Kubok",

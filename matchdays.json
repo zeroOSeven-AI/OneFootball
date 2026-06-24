@@ -542,12 +542,12 @@
         "name": "Copa Chile",
         "competition_id": 171,
         "season_id": 38829,
-        "previous_matchday_id": "7892658",
-        "current_matchday_id": "7949369",
-        "next_matchday_id": "7949370",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7892658",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949369",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949370"
+        "previous_matchday_id": "7949369",
+        "current_matchday_id": "7949370",
+        "next_matchday_id": "7949371",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949369",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949370",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949371"
     },
     "super_league": {
         "name": "Super League",

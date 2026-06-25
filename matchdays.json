@@ -685,12 +685,12 @@
         "name": "Persian Gulf Pro League",
         "competition_id": 2690,
         "season_id": 39361,
-        "previous_matchday_id": "7901335",
-        "current_matchday_id": "7915002",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901335",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7915002",
-        "next_mixer_url": null
+        "previous_matchday_id": "7915002",
+        "current_matchday_id": "7973135",
+        "next_matchday_id": "7973136",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7915002",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973135",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973136"
     },
     "trofeo_joan_gamper": {
         "name": "Trofeo Joan Gamper",
@@ -2346,12 +2346,12 @@
         "name": "Copa Sudamericana",
         "competition_id": 102,
         "season_id": 39156,
-        "previous_matchday_id": "7926770",
-        "current_matchday_id": "7926771",
-        "next_matchday_id": "7959973",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7926770",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7926771",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7959973"
+        "previous_matchday_id": "7926771",
+        "current_matchday_id": "7959973",
+        "next_matchday_id": "7959974",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7926771",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7959973",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7959974"
     },
     "champions_league": {
         "name": "Champions League",

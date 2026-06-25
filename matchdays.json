@@ -214,10 +214,10 @@
         "season_id": 39328,
         "previous_matchday_id": "7921105",
         "current_matchday_id": "7921106",
-        "next_matchday_id": null,
+        "next_matchday_id": "7973647",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921105",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921106",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973647"
     },
     "euro_2020_qualifying": {
         "name": "Euro 2020 Qualifying",

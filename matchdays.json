@@ -531,12 +531,12 @@
         "name": "Primera B",
         "competition_id": 206,
         "season_id": 39180,
-        "previous_matchday_id": "7956627",
-        "current_matchday_id": "7956628",
-        "next_matchday_id": "7963112",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956627",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956628",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963112"
+        "previous_matchday_id": "7956628",
+        "current_matchday_id": "7963112",
+        "next_matchday_id": "7963113",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956628",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963112",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963113"
     },
     "copa_chile": {
         "name": "Copa Chile",
@@ -1466,12 +1466,12 @@
         "name": "Botola",
         "competition_id": 186,
         "season_id": 39083,
-        "previous_matchday_id": "7969902",
-        "current_matchday_id": "7969903",
-        "next_matchday_id": "7973656",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969902",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969903",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973656"
+        "previous_matchday_id": "7969903",
+        "current_matchday_id": "7973656",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969903",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973656",
+        "next_mixer_url": null
     },
     "k-league_2": {
         "name": "K-League 2",

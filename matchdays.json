@@ -1697,12 +1697,12 @@
         "name": "Brasileiro Women",
         "competition_id": 1882,
         "season_id": 39144,
-        "previous_matchday_id": "7894838",
-        "current_matchday_id": "7894839",
-        "next_matchday_id": "7894840",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7894838",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7894839",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7894840"
+        "previous_matchday_id": "7894839",
+        "current_matchday_id": "7894840",
+        "next_matchday_id": "7894841",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7894839",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7894840",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7894841"
     },
     "copa_do_nordeste": {
         "name": "Copa do Nordeste",
@@ -1719,12 +1719,12 @@
         "name": "Catarinense 2",
         "competition_id": 1888,
         "season_id": 39353,
-        "previous_matchday_id": "7921874",
-        "current_matchday_id": "7921875",
-        "next_matchday_id": "7921876",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921874",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921875",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921876"
+        "previous_matchday_id": "7921875",
+        "current_matchday_id": "7921876",
+        "next_matchday_id": "7921877",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921875",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921876",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921877"
     },
     "ligat_haal": {
         "name": "Ligat HaAl",
@@ -1785,12 +1785,12 @@
         "name": "Mineiro 2",
         "competition_id": 1905,
         "season_id": 39147,
-        "previous_matchday_id": "7964791",
-        "current_matchday_id": "7964792",
-        "next_matchday_id": "7964793",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964791",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964792",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964793"
+        "previous_matchday_id": "7964793",
+        "current_matchday_id": "7964794",
+        "next_matchday_id": "7964795",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964793",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964794",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964795"
     },
     "championnat_national_3": {
         "name": "Championnat National 3",

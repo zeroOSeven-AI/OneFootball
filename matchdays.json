@@ -916,12 +916,12 @@
         "name": "Virsliga",
         "competition_id": 2746,
         "season_id": 39227,
-        "previous_matchday_id": "7898497",
-        "current_matchday_id": "7898498",
-        "next_matchday_id": "7898499",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898497",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898498",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898499"
+        "previous_matchday_id": "7898498",
+        "current_matchday_id": "7898499",
+        "next_matchday_id": "7898500",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898498",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898499",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898500"
     },
     "club_friendly_games": {
         "name": "Club Friendly Games",

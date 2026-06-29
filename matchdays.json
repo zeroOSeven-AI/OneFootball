@@ -80,12 +80,12 @@
         "name": "Russian Premier League",
         "competition_id": 14,
         "season_id": 39268,
-        "previous_matchday_id": "7668163",
-        "current_matchday_id": "7668164",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7668163",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7668164",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7973511",
+        "next_matchday_id": "7973512",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973511",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973512"
     },
     "süper_lig": {
         "name": "Süper Lig",
@@ -674,12 +674,12 @@
         "name": "Division 1A",
         "competition_id": 58,
         "season_id": 39244,
-        "previous_matchday_id": "7949807",
-        "current_matchday_id": "7957899",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949807",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7957899",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7970308",
+        "next_matchday_id": "7970309",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970308",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970309"
     },
     "persian_gulf_pro_league": {
         "name": "Persian Gulf Pro League",
@@ -1202,12 +1202,12 @@
         "name": "I Liga",
         "competition_id": 132,
         "season_id": 39283,
-        "previous_matchday_id": "7954836",
-        "current_matchday_id": "7954837",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7954836",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7954837",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7970729",
+        "next_matchday_id": "7970730",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970729",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970730"
     },
     "championnat_national": {
         "name": "Championnat National",
@@ -2181,12 +2181,12 @@
         "name": "Liga Nacional de Guatemala",
         "competition_id": 2725,
         "season_id": 39241,
-        "previous_matchday_id": "7951820",
-        "current_matchday_id": "7951821",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7951820",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7951821",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7972387",
+        "next_matchday_id": "7972388",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972387",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972388"
     },
     "taça_da_liga": {
         "name": "Taça Da Liga",

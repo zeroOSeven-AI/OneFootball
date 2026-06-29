@@ -157,12 +157,12 @@
         "name": "Primera B Nacional",
         "competition_id": 164,
         "season_id": 39057,
-        "previous_matchday_id": "7866969",
-        "current_matchday_id": "7866970",
-        "next_matchday_id": "7866971",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866969",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866970",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866971"
+        "previous_matchday_id": "7866970",
+        "current_matchday_id": "7866971",
+        "next_matchday_id": "7866972",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866970",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866971",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866972"
     },
     "ledman_ligapro": {
         "name": "Ledman LigaPro",
@@ -346,10 +346,10 @@
         "season_id": 39240,
         "previous_matchday_id": "7906410",
         "current_matchday_id": "7970166",
-        "next_matchday_id": null,
+        "next_matchday_id": "7975655",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7906410",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970166",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975655"
     },
     "brasileirão_série_c": {
         "name": "Brasileirão Série C",
@@ -1468,10 +1468,10 @@
         "season_id": 39083,
         "previous_matchday_id": "7969903",
         "current_matchday_id": "7973656",
-        "next_matchday_id": null,
+        "next_matchday_id": "7975614",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969903",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973656",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975614"
     },
     "k-league_2": {
         "name": "K-League 2",

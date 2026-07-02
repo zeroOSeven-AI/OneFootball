@@ -2148,11 +2148,11 @@
         "name": "Swiss Cup",
         "competition_id": 32,
         "season_id": 39321,
-        "previous_matchday_id": "7901796",
-        "current_matchday_id": "7901797",
+        "previous_matchday_id": null,
+        "current_matchday_id": "7977101",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901796",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901797",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977101",
         "next_mixer_url": null
     },
     "copa_santa_catarina": {

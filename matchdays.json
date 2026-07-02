@@ -542,12 +542,12 @@
         "name": "Copa Chile",
         "competition_id": 171,
         "season_id": 38829,
-        "previous_matchday_id": "7949369",
-        "current_matchday_id": "7949370",
-        "next_matchday_id": "7949371",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949369",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949370",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949371"
+        "previous_matchday_id": "7949370",
+        "current_matchday_id": "7949371",
+        "next_matchday_id": "7974198",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949370",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949371",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974198"
     },
     "super_league": {
         "name": "Super League",
@@ -2544,12 +2544,12 @@
         "name": "Beker van België",
         "competition_id": 117,
         "season_id": 39280,
-        "previous_matchday_id": "7840078",
-        "current_matchday_id": "7887172",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7840078",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7887172",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7975779",
+        "next_matchday_id": "7975780",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975779",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975780"
     },
     "superliga_colombiana": {
         "name": "Superliga Colombiana",

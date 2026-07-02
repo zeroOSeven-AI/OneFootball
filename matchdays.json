@@ -685,12 +685,12 @@
         "name": "Persian Gulf Pro League",
         "competition_id": 2690,
         "season_id": 39361,
-        "previous_matchday_id": "7915002",
-        "current_matchday_id": "7973135",
-        "next_matchday_id": "7973136",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7915002",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973135",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973136"
+        "previous_matchday_id": "7973135",
+        "current_matchday_id": "7973136",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973135",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973136",
+        "next_mixer_url": null
     },
     "trofeo_joan_gamper": {
         "name": "Trofeo Joan Gamper",

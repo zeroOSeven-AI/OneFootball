@@ -1268,12 +1268,12 @@
         "name": "Canadian Premier League",
         "competition_id": 2705,
         "season_id": 39220,
-        "previous_matchday_id": "7900161",
-        "current_matchday_id": "7900162",
-        "next_matchday_id": "7900163",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900161",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900162",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900163"
+        "previous_matchday_id": "7900162",
+        "current_matchday_id": "7900163",
+        "next_matchday_id": "7900164",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900162",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900163",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900164"
     },
     "concacaf_gold_cup": {
         "name": "CONCACAF Gold Cup",

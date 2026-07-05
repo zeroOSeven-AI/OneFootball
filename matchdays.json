@@ -520,12 +520,12 @@
         "name": "Primera División",
         "competition_id": 82,
         "season_id": 39181,
-        "previous_matchday_id": "7883906",
-        "current_matchday_id": "7883907",
-        "next_matchday_id": "7883908",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7883906",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7883907",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7883908"
+        "previous_matchday_id": "7883907",
+        "current_matchday_id": "7883908",
+        "next_matchday_id": "7883909",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7883907",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7883908",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7883909"
     },
     "primera_b": {
         "name": "Primera B",

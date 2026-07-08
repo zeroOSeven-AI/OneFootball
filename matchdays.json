@@ -2434,11 +2434,11 @@
         "name": "Cupa Romaniei",
         "competition_id": 107,
         "season_id": 39084,
-        "previous_matchday_id": "7907560",
-        "current_matchday_id": "7907810",
+        "previous_matchday_id": null,
+        "current_matchday_id": "7979902",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907560",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907810",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979902",
         "next_mixer_url": null
     },
     "concacaf_champions_league": {
@@ -2467,11 +2467,11 @@
         "name": "DBU Pokalen",
         "competition_id": 182,
         "season_id": 39322,
-        "previous_matchday_id": "7855676",
-        "current_matchday_id": "7855677",
+        "previous_matchday_id": null,
+        "current_matchday_id": "7979896",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7855676",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7855677",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979896",
         "next_mixer_url": null
     },
     "knvb_beker": {

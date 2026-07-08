@@ -245,12 +245,12 @@
         "name": "FIFA World Cup",
         "competition_id": 12,
         "season_id": 7932,
-        "previous_matchday_id": "7799169",
-        "current_matchday_id": "7849260",
-        "next_matchday_id": "7849261",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7799169",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7849260",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7849261"
+        "previous_matchday_id": "7849260",
+        "current_matchday_id": "7849261",
+        "next_matchday_id": "7799172",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7849260",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7849261",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7799172"
     },
     "coupe_de_france": {
         "name": "Coupe de France",
@@ -2610,12 +2610,12 @@
         "name": "Copa Gaúcha",
         "competition_id": 1892,
         "season_id": 39050,
-        "previous_matchday_id": "7969780",
-        "current_matchday_id": "7969781",
-        "next_matchday_id": "7979891",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969780",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969781",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979891"
+        "previous_matchday_id": "7969781",
+        "current_matchday_id": "7979891",
+        "next_matchday_id": "7979892",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969781",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979891",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979892"
     },
     "uefa_women's_champions_league": {
         "name": "UEFA Women's Champions League",

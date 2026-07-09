@@ -1400,11 +1400,11 @@
         "name": "UAE Arabian Gulf League",
         "competition_id": 157,
         "season_id": 39279,
-        "previous_matchday_id": "7945052",
-        "current_matchday_id": "7951825",
+        "previous_matchday_id": null,
+        "current_matchday_id": "7977986",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7945052",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7951825",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977986",
         "next_mixer_url": null
     },
     "leagues_cup": {

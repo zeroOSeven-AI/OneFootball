@@ -91,12 +91,12 @@
         "name": "Süper Lig",
         "competition_id": 8,
         "season_id": 39311,
-        "previous_matchday_id": "7681174",
-        "current_matchday_id": "7681175",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7681174",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7681175",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7981052",
+        "next_matchday_id": "7981053",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981052",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981053"
     },
     "the_championship": {
         "name": "The Championship",

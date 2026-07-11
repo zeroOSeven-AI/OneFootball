@@ -1577,10 +1577,10 @@
         "competition_id": 149,
         "season_id": 39288,
         "previous_matchday_id": null,
-        "current_matchday_id": "7659139",
+        "current_matchday_id": "7977947",
         "next_matchday_id": null,
         "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7659139",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977947",
         "next_mixer_url": null
     },
     "fa_community_shield": {
@@ -1598,12 +1598,12 @@
         "name": "Division 1 Féminine",
         "competition_id": 2703,
         "season_id": 39254,
-        "previous_matchday_id": "7945692",
-        "current_matchday_id": "7949028",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7945692",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949028",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7978679",
+        "next_matchday_id": "7978680",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978679",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978680"
     },
     "k-league_promotion_playoff": {
         "name": "K-League Promotion Playoff",
@@ -1719,12 +1719,12 @@
         "name": "Catarinense 2",
         "competition_id": 1888,
         "season_id": 39353,
-        "previous_matchday_id": "7921876",
-        "current_matchday_id": "7921877",
-        "next_matchday_id": "7921878",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921876",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921877",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921878"
+        "previous_matchday_id": "7921877",
+        "current_matchday_id": "7921878",
+        "next_matchday_id": "7921879",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921877",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921878",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921879"
     },
     "ligat_haal": {
         "name": "Ligat HaAl",
@@ -1752,12 +1752,12 @@
         "name": "National League",
         "competition_id": 97,
         "season_id": 39334,
-        "previous_matchday_id": "7943670",
-        "current_matchday_id": "7943671",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7943670",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7943671",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7981506",
+        "next_matchday_id": "7981507",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981506",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981507"
     },
     "supercoppa_italiana": {
         "name": "Supercoppa Italiana",
@@ -1785,12 +1785,12 @@
         "name": "Mineiro 2",
         "competition_id": 1905,
         "season_id": 39147,
-        "previous_matchday_id": "7964795",
-        "current_matchday_id": "7964796",
-        "next_matchday_id": "7964797",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964795",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964796",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964797"
+        "previous_matchday_id": "7964796",
+        "current_matchday_id": "7964797",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964796",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964797",
+        "next_mixer_url": null
     },
     "championnat_national_3": {
         "name": "Championnat National 3",
@@ -1928,12 +1928,12 @@
         "name": "NWSL",
         "competition_id": 2700,
         "season_id": 39219,
-        "previous_matchday_id": "7886991",
-        "current_matchday_id": "7886992",
-        "next_matchday_id": "7886993",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886991",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886992",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886993"
+        "previous_matchday_id": "7886992",
+        "current_matchday_id": "7886993",
+        "next_matchday_id": "7886994",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886992",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886993",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886994"
     },
     "paranaense": {
         "name": "Paranaense",
@@ -2192,12 +2192,12 @@
         "name": "Taça Da Liga",
         "competition_id": 2697,
         "season_id": 38929,
-        "previous_matchday_id": "7671722",
-        "current_matchday_id": "7671723",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7671722",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7671723",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7981468",
+        "next_matchday_id": "7981469",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981468",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981469"
     },
     "sul-matogrossense": {
         "name": "Sul-Matogrossense",
@@ -2236,12 +2236,12 @@
         "name": "Gaúcho 2",
         "competition_id": 1899,
         "season_id": 39190,
-        "previous_matchday_id": "7729314",
-        "current_matchday_id": "7729315",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7729314",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7729315",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7980814",
+        "next_matchday_id": "7980815",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980814",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980815"
     },
     "fa_women's_super_league": {
         "name": "FA Women's Super League",

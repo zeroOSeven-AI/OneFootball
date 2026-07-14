@@ -2016,12 +2016,12 @@
         "name": "Scottish League Cup",
         "competition_id": 2712,
         "season_id": 39295,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7960208",
-        "next_matchday_id": "7960209",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960208",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960209"
+        "previous_matchday_id": "7960208",
+        "current_matchday_id": "7960209",
+        "next_matchday_id": "7960210",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960208",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960209",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960210"
     },
     "tocantinense": {
         "name": "Tocantinense",
@@ -2357,12 +2357,12 @@
         "name": "Champions League",
         "competition_id": 5,
         "season_id": 39356,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7969025",
-        "next_matchday_id": "7969026",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969025",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969026"
+        "previous_matchday_id": "7969025",
+        "current_matchday_id": "7969026",
+        "next_matchday_id": "7969488",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969025",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969026",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969488"
     },
     "dfb_pokal": {
         "name": "DFB Pokal",

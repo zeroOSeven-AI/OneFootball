@@ -2610,12 +2610,12 @@
         "name": "Copa Gaúcha",
         "competition_id": 1892,
         "season_id": 39050,
-        "previous_matchday_id": "7969781",
-        "current_matchday_id": "7979891",
-        "next_matchday_id": "7979892",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969781",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979891",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979892"
+        "previous_matchday_id": "7979891",
+        "current_matchday_id": "7979892",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979891",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979892",
+        "next_mixer_url": null
     },
     "uefa_women's_champions_league": {
         "name": "UEFA Women's Champions League",

@@ -1059,12 +1059,12 @@
         "name": "Premier Division",
         "competition_id": 191,
         "season_id": 39163,
-        "previous_matchday_id": "7857731",
-        "current_matchday_id": "7857732",
-        "next_matchday_id": "7857733",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857731",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857732",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857733"
+        "previous_matchday_id": "7857732",
+        "current_matchday_id": "7857733",
+        "next_matchday_id": "7857734",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857732",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857733",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857734"
     },
     "chinese_super_league": {
         "name": "Chinese Super League",

@@ -1719,12 +1719,12 @@
         "name": "Catarinense 2",
         "competition_id": 1888,
         "season_id": 39353,
-        "previous_matchday_id": "7921877",
-        "current_matchday_id": "7921878",
-        "next_matchday_id": "7921879",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921877",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921878",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921879"
+        "previous_matchday_id": "7921879",
+        "current_matchday_id": "7921880",
+        "next_matchday_id": "7921881",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921879",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921880",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921881"
     },
     "ligat_haal": {
         "name": "Ligat HaAl",
@@ -1774,23 +1774,23 @@
         "name": "Eliteserien",
         "competition_id": 67,
         "season_id": 39164,
-        "previous_matchday_id": "7863197",
-        "current_matchday_id": "7863198",
-        "next_matchday_id": "7863199",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863197",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863198",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863199"
+        "previous_matchday_id": "7863198",
+        "current_matchday_id": "7863199",
+        "next_matchday_id": "7863200",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863198",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863199",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863200"
     },
     "mineiro_2": {
         "name": "Mineiro 2",
         "competition_id": 1905,
         "season_id": 39147,
-        "previous_matchday_id": "7964796",
-        "current_matchday_id": "7964797",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964796",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964797",
-        "next_mixer_url": null
+        "previous_matchday_id": "7964797",
+        "current_matchday_id": "7983483",
+        "next_matchday_id": "7983484",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964797",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983483",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983484"
     },
     "championnat_national_3": {
         "name": "Championnat National 3",
@@ -1928,12 +1928,12 @@
         "name": "NWSL",
         "competition_id": 2700,
         "season_id": 39219,
-        "previous_matchday_id": "7886992",
-        "current_matchday_id": "7886993",
-        "next_matchday_id": "7886994",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886992",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886993",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886994"
+        "previous_matchday_id": "7886993",
+        "current_matchday_id": "7886994",
+        "next_matchday_id": "7886995",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886993",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886994",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886995"
     },
     "paranaense": {
         "name": "Paranaense",
@@ -2016,12 +2016,12 @@
         "name": "Scottish League Cup",
         "competition_id": 2712,
         "season_id": 39295,
-        "previous_matchday_id": "7960208",
-        "current_matchday_id": "7960209",
-        "next_matchday_id": "7960210",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960208",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960209",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960210"
+        "previous_matchday_id": "7960209",
+        "current_matchday_id": "7960210",
+        "next_matchday_id": "7960211",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960209",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960210",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960211"
     },
     "tocantinense": {
         "name": "Tocantinense",

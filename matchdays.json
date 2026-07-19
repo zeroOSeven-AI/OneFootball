@@ -245,12 +245,12 @@
         "name": "FIFA World Cup",
         "competition_id": 12,
         "season_id": 7932,
-        "previous_matchday_id": "7799172",
-        "current_matchday_id": "7850509",
-        "next_matchday_id": "7799174",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7799172",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7850509",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7799174"
+        "previous_matchday_id": "7850509",
+        "current_matchday_id": "7799174",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7850509",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7799174",
+        "next_mixer_url": null
     },
     "coupe_de_france": {
         "name": "Coupe de France",

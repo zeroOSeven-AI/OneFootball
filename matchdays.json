@@ -1378,12 +1378,12 @@
         "name": "Torneo Guardianes",
         "competition_id": 89,
         "season_id": 39248,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7966328",
-        "next_matchday_id": "7966329",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966328",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966329"
+        "previous_matchday_id": "7966328",
+        "current_matchday_id": "7966329",
+        "next_matchday_id": "7966330",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966328",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966329",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966330"
     },
     "regionalliga_bayern": {
         "name": "Regionalliga Bayern",

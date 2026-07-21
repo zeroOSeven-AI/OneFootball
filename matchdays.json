@@ -2016,12 +2016,12 @@
         "name": "Scottish League Cup",
         "competition_id": 2712,
         "season_id": 39295,
-        "previous_matchday_id": "7960209",
-        "current_matchday_id": "7960210",
-        "next_matchday_id": "7960211",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960209",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960210",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960211"
+        "previous_matchday_id": "7960210",
+        "current_matchday_id": "7960211",
+        "next_matchday_id": "7960212",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960210",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960211",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960212"
     },
     "tocantinense": {
         "name": "Tocantinense",
@@ -2357,12 +2357,12 @@
         "name": "Champions League",
         "competition_id": 5,
         "season_id": 39356,
-        "previous_matchday_id": "7969025",
-        "current_matchday_id": "7969026",
-        "next_matchday_id": "7969488",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969025",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969026",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969488"
+        "previous_matchday_id": "7969026",
+        "current_matchday_id": "7969488",
+        "next_matchday_id": "7969489",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969026",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969488",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969489"
     },
     "dfb_pokal": {
         "name": "DFB Pokal",
@@ -2610,12 +2610,12 @@
         "name": "Copa Gaúcha",
         "competition_id": 1892,
         "season_id": 39050,
-        "previous_matchday_id": "7969781",
-        "current_matchday_id": "7979891",
-        "next_matchday_id": "7979892",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969781",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979891",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979892"
+        "previous_matchday_id": "7979891",
+        "current_matchday_id": "7979892",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979891",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979892",
+        "next_mixer_url": null
     },
     "uefa_women's_champions_league": {
         "name": "UEFA Women's Champions League",

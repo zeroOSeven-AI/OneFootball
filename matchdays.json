@@ -740,11 +740,11 @@
         "name": "AFC Champions League",
         "competition_id": 155,
         "season_id": 39155,
-        "previous_matchday_id": "7936614",
-        "current_matchday_id": "7936657",
+        "previous_matchday_id": null,
+        "current_matchday_id": "7986828",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7936614",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7936657",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986828",
         "next_mixer_url": null
     },
     "primera_a_apertura": {

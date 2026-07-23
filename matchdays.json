@@ -1180,12 +1180,12 @@
         "name": "Qatar Stars League",
         "competition_id": 158,
         "season_id": 39318,
-        "previous_matchday_id": "7853120",
-        "current_matchday_id": "7853121",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7853120",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7853121",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7985867",
+        "next_matchday_id": "7985868",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985867",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985868"
     },
     "allsvenskan": {
         "name": "Allsvenskan",
@@ -1402,10 +1402,10 @@
         "season_id": 39279,
         "previous_matchday_id": null,
         "current_matchday_id": "7977986",
-        "next_matchday_id": null,
+        "next_matchday_id": "7986444",
         "previous_mixer_url": null,
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977986",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986444"
     },
     "leagues_cup": {
         "name": "Leagues Cup",
@@ -2687,11 +2687,11 @@
         "name": "Europa League",
         "competition_id": 7,
         "season_id": 39357,
-        "previous_matchday_id": "7969027",
-        "current_matchday_id": "7969028",
-        "next_matchday_id": "7969490",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969027",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969028",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969490"
+        "previous_matchday_id": "7969028",
+        "current_matchday_id": "7969490",
+        "next_matchday_id": "7969491",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969028",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969490",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969491"
     }
 }

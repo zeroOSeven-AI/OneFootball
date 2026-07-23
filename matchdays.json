@@ -927,11 +927,11 @@
         "name": "Club Friendly Games",
         "competition_id": 140,
         "season_id": 39117,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7874853",
+        "previous_matchday_id": "7874853",
+        "current_matchday_id": "7987956",
         "next_matchday_id": null,
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7874853",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7874853",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987956",
         "next_mixer_url": null
     },
     "campeonato_uruguayo_primera_apertura": {

@@ -12,14 +12,14 @@
     },
     "bundesliga": {
         "name": "Bundesliga",
-        "competition_id": 1,
-        "season_id": 39285,
+        "competition_id": 26,
+        "season_id": 39297,
         "previous_matchday_id": null,
-        "current_matchday_id": "7977441",
-        "next_matchday_id": "7977442",
+        "current_matchday_id": "7974236",
+        "next_matchday_id": "7974237",
         "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977441",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977442"
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974236",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974237"
     },
     "serie_a": {
         "name": "Serie A",
@@ -124,12 +124,12 @@
         "name": "Serie B",
         "competition_id": 30,
         "season_id": 39336,
-        "previous_matchday_id": "7955505",
-        "current_matchday_id": "7955506",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7955505",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7955506",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7987580",
+        "next_matchday_id": "7987581",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987580",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987581"
     },
     "segunda_división": {
         "name": "Segunda División",
@@ -157,12 +157,12 @@
         "name": "Primera B Nacional",
         "competition_id": 164,
         "season_id": 39057,
-        "previous_matchday_id": "7866972",
-        "current_matchday_id": "7866973",
-        "next_matchday_id": "7866974",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866972",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866973",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866974"
+        "previous_matchday_id": "7866973",
+        "current_matchday_id": "7866974",
+        "next_matchday_id": "7866975",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866973",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866974",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866975"
     },
     "ledman_ligapro": {
         "name": "Ledman LigaPro",
@@ -190,12 +190,12 @@
         "name": "1. Division",
         "competition_id": 127,
         "season_id": 39259,
-        "previous_matchday_id": "7977370",
-        "current_matchday_id": "7978506",
-        "next_matchday_id": "7978507",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977370",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978506",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978507"
+        "previous_matchday_id": "7978506",
+        "current_matchday_id": "7978507",
+        "next_matchday_id": "7978508",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978506",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978507",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978508"
     },
     "1._lig": {
         "name": "1. Lig",
@@ -366,12 +366,12 @@
         "name": "Brasileirão Série D",
         "competition_id": 216,
         "season_id": 39230,
-        "previous_matchday_id": "7975312",
-        "current_matchday_id": "7983333",
-        "next_matchday_id": "7983334",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975312",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983333",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983334"
+        "previous_matchday_id": "7983333",
+        "current_matchday_id": "7983334",
+        "next_matchday_id": "7985034",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983333",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983334",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985034"
     },
     "eredivisie": {
         "name": "Eredivisie",
@@ -597,12 +597,12 @@
         "name": "Torneo Apertura",
         "competition_id": 177,
         "season_id": 39188,
-        "previous_matchday_id": "7932360",
-        "current_matchday_id": "7932361",
-        "next_matchday_id": "7953846",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932360",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932361",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7953846"
+        "previous_matchday_id": "7932361",
+        "current_matchday_id": "7953846",
+        "next_matchday_id": "7953847",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932361",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7953846",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7953847"
     },
     "regionalliga_südwest": {
         "name": "Regionalliga Südwest",
@@ -707,12 +707,12 @@
         "name": "LigaPro Banco Pichincha",
         "competition_id": 172,
         "season_id": 39162,
-        "previous_matchday_id": "7901590",
-        "current_matchday_id": "7901591",
-        "next_matchday_id": "7901592",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901590",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901591",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901592"
+        "previous_matchday_id": "7901591",
+        "current_matchday_id": "7901592",
+        "next_matchday_id": "7901593",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901591",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901592",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901593"
     },
     "league_one": {
         "name": "League One",
@@ -861,23 +861,23 @@
         "name": "Superettan",
         "competition_id": 181,
         "season_id": 39165,
-        "previous_matchday_id": "7868217",
-        "current_matchday_id": "7868218",
-        "next_matchday_id": "7868219",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868217",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868218",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868219"
+        "previous_matchday_id": "7868218",
+        "current_matchday_id": "7868219",
+        "next_matchday_id": "7868220",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868218",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868219",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868220"
     },
     "vysheyshaya_liga": {
         "name": "Vysheyshaya Liga",
         "competition_id": 2688,
         "season_id": 39235,
-        "previous_matchday_id": "7911486",
-        "current_matchday_id": "7911487",
-        "next_matchday_id": "7911488",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911486",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911487",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911488"
+        "previous_matchday_id": "7911487",
+        "current_matchday_id": "7911488",
+        "next_matchday_id": "7911489",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911487",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911488",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7911489"
     },
     "concacaf_nations_league": {
         "name": "CONCACAF Nations League",
@@ -894,12 +894,12 @@
         "name": "Primera B Metropolitana",
         "competition_id": 165,
         "season_id": 39042,
-        "previous_matchday_id": "7932485",
-        "current_matchday_id": "7932486",
-        "next_matchday_id": "7932487",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932485",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932486",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932487"
+        "previous_matchday_id": "7932486",
+        "current_matchday_id": "7932487",
+        "next_matchday_id": "7932488",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932486",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932487",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7932488"
     },
     "uefa_women's_euro_qualifying": {
         "name": "UEFA Women's Euro Qualifying",
@@ -916,12 +916,12 @@
         "name": "Virsliga",
         "competition_id": 2746,
         "season_id": 39227,
-        "previous_matchday_id": "7898500",
-        "current_matchday_id": "7898501",
-        "next_matchday_id": "7898502",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898500",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898501",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898502"
+        "previous_matchday_id": "7898501",
+        "current_matchday_id": "7898502",
+        "next_matchday_id": "7898503",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898501",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898502",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898503"
     },
     "club_friendly_games": {
         "name": "Club Friendly Games",
@@ -1004,23 +1004,23 @@
         "name": "Super Liga",
         "competition_id": 123,
         "season_id": 39247,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7968123",
-        "next_matchday_id": "7968124",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7968123",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7968124"
+        "previous_matchday_id": "7968123",
+        "current_matchday_id": "7968124",
+        "next_matchday_id": "7968125",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7968123",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7968124",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7968125"
     },
     "1._snl": {
         "name": "1. SNL",
         "competition_id": 2728,
         "season_id": 39261,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7970877",
-        "next_matchday_id": "7970878",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970877",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970878"
+        "previous_matchday_id": "7970877",
+        "current_matchday_id": "7970878",
+        "next_matchday_id": "7970879",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970877",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970878",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970879"
     },
     "friendlies_women": {
         "name": "Friendlies Women",
@@ -1070,12 +1070,12 @@
         "name": "Chinese Super League",
         "competition_id": 112,
         "season_id": 39198,
-        "previous_matchday_id": "7909329",
-        "current_matchday_id": "7909330",
-        "next_matchday_id": "7909331",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909329",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909330",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909331"
+        "previous_matchday_id": "7909330",
+        "current_matchday_id": "7909331",
+        "next_matchday_id": "7909332",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909330",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909331",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909332"
     },
     "liga_de_fútbol_de_primera_división": {
         "name": "Liga de Fútbol de Primera División",
@@ -1092,12 +1092,12 @@
         "name": "Peru Liga 1",
         "competition_id": 176,
         "season_id": 39189,
-        "previous_matchday_id": "7891924",
-        "current_matchday_id": "7961945",
-        "next_matchday_id": "7970246",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7891924",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961945",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970246"
+        "previous_matchday_id": "7961945",
+        "current_matchday_id": "7970246",
+        "next_matchday_id": "7979352",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7961945",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970246",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979352"
     },
     "regionalliga_west": {
         "name": "Regionalliga West",
@@ -1114,23 +1114,23 @@
         "name": "Liga Super Malaysia",
         "competition_id": 147,
         "season_id": 39210,
-        "previous_matchday_id": "7686891",
-        "current_matchday_id": "7686892",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7686891",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7686892",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7987484",
+        "next_matchday_id": "7987485",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987484",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987485"
     },
     "usl_championship": {
         "name": "USL Championship",
         "competition_id": 2750,
         "season_id": 39233,
-        "previous_matchday_id": "7858522",
-        "current_matchday_id": "7858523",
-        "next_matchday_id": "7858524",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858522",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858523",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858524"
+        "previous_matchday_id": "7858523",
+        "current_matchday_id": "7858524",
+        "next_matchday_id": "7858525",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858523",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858524",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858525"
     },
     "challenge_league": {
         "name": "Challenge League",
@@ -1191,12 +1191,12 @@
         "name": "Allsvenskan",
         "competition_id": 62,
         "season_id": 39176,
-        "previous_matchday_id": "7860764",
-        "current_matchday_id": "7860765",
-        "next_matchday_id": "7860766",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860764",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860765",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860766"
+        "previous_matchday_id": "7860765",
+        "current_matchday_id": "7860766",
+        "next_matchday_id": "7860767",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860765",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860766",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860767"
     },
     "i_liga": {
         "name": "I Liga",
@@ -1268,12 +1268,12 @@
         "name": "Canadian Premier League",
         "competition_id": 2705,
         "season_id": 39220,
-        "previous_matchday_id": "7900163",
-        "current_matchday_id": "7900164",
-        "next_matchday_id": "7900165",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900163",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900164",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900165"
+        "previous_matchday_id": "7900164",
+        "current_matchday_id": "7900165",
+        "next_matchday_id": "7900166",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900164",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900165",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900166"
     },
     "concacaf_gold_cup": {
         "name": "CONCACAF Gold Cup",
@@ -1433,23 +1433,23 @@
         "name": "K League 1",
         "competition_id": 130,
         "season_id": 39182,
-        "previous_matchday_id": "7885450",
-        "current_matchday_id": "7885451",
-        "next_matchday_id": "7885452",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885450",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885451",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885452"
+        "previous_matchday_id": "7885451",
+        "current_matchday_id": "7885452",
+        "next_matchday_id": "7885453",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885451",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885452",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885453"
     },
     "veikkausliiga": {
         "name": "Veikkausliiga",
         "competition_id": 680,
         "season_id": 39186,
-        "previous_matchday_id": "7861899",
-        "current_matchday_id": "7861900",
-        "next_matchday_id": "7861901",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861899",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861900",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861901"
+        "previous_matchday_id": "7861900",
+        "current_matchday_id": "7861901",
+        "next_matchday_id": "7861902",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861900",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861901",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7861902"
     },
     "liga_mx_femenil": {
         "name": "Liga MX Femenil",
@@ -1477,12 +1477,12 @@
         "name": "K-League 2",
         "competition_id": 2736,
         "season_id": 39203,
-        "previous_matchday_id": "7890334",
-        "current_matchday_id": "7890335",
-        "next_matchday_id": "7890336",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7890334",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7890335",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7890336"
+        "previous_matchday_id": "7890335",
+        "current_matchday_id": "7890336",
+        "next_matchday_id": "7890337",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7890335",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7890336",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7890337"
     },
     "league_two": {
         "name": "League Two",
@@ -1499,12 +1499,12 @@
         "name": "A Lyga",
         "competition_id": 2748,
         "season_id": 39231,
-        "previous_matchday_id": "7960509",
-        "current_matchday_id": "7960510",
-        "next_matchday_id": "7960511",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960509",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960510",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960511"
+        "previous_matchday_id": "7960510",
+        "current_matchday_id": "7960511",
+        "next_matchday_id": "7960512",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960510",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960511",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960512"
     },
     "ligue_1_tunisia": {
         "name": "Ligue 1 Tunisia",

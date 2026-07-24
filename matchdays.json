@@ -509,12 +509,12 @@
         "name": "Major League Score",
         "competition_id": 15,
         "season_id": 39121,
-        "previous_matchday_id": "7905024",
-        "current_matchday_id": "7905025",
-        "next_matchday_id": "7905026",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905024",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905025",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905026"
+        "previous_matchday_id": "7905025",
+        "current_matchday_id": "7905026",
+        "next_matchday_id": "7905027",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905025",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905026",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905027"
     },
     "primera_división": {
         "name": "Primera División",

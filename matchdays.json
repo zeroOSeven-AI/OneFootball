@@ -69,12 +69,12 @@
         "name": "Brasileirão Série A",
         "competition_id": 16,
         "season_id": 39222,
-        "previous_matchday_id": "7858042",
-        "current_matchday_id": "7858043",
-        "next_matchday_id": "7858044",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858042",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858043",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858044"
+        "previous_matchday_id": "7858043",
+        "current_matchday_id": "7858044",
+        "next_matchday_id": "7858045",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858043",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858044",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858045"
     },
     "russian_premier_league": {
         "name": "Russian Premier League",
@@ -707,12 +707,12 @@
         "name": "LigaPro Banco Pichincha",
         "competition_id": 172,
         "season_id": 39162,
-        "previous_matchday_id": "7901591",
-        "current_matchday_id": "7901592",
-        "next_matchday_id": "7901593",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901591",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901592",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901593"
+        "previous_matchday_id": "7901592",
+        "current_matchday_id": "7901593",
+        "next_matchday_id": "7901594",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901592",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901593",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901594"
     },
     "league_one": {
         "name": "League One",
@@ -1565,12 +1565,12 @@
         "name": "Copa Paulista",
         "competition_id": 212,
         "season_id": 39368,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7956202",
-        "next_matchday_id": "7956203",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956202",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956203"
+        "previous_matchday_id": "7956202",
+        "current_matchday_id": "7956203",
+        "next_matchday_id": "7956204",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956202",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956203",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956204"
     },
     "supercup": {
         "name": "Supercup",
@@ -1719,12 +1719,12 @@
         "name": "Catarinense 2",
         "competition_id": 1888,
         "season_id": 39353,
-        "previous_matchday_id": "7921879",
-        "current_matchday_id": "7921880",
-        "next_matchday_id": "7921881",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921879",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921880",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921881"
+        "previous_matchday_id": "7921881",
+        "current_matchday_id": "7921882",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921881",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921882",
+        "next_mixer_url": null
     },
     "ligat_haal": {
         "name": "Ligat HaAl",
@@ -1785,12 +1785,12 @@
         "name": "Mineiro 2",
         "competition_id": 1905,
         "season_id": 39147,
-        "previous_matchday_id": "7964797",
-        "current_matchday_id": "7983483",
-        "next_matchday_id": "7983484",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964797",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983483",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983484"
+        "previous_matchday_id": "7983483",
+        "current_matchday_id": "7983484",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983483",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983484",
+        "next_mixer_url": null
     },
     "championnat_national_3": {
         "name": "Championnat National 3",
@@ -1818,12 +1818,12 @@
         "name": "Serie A Women",
         "competition_id": 2721,
         "season_id": 39281,
-        "previous_matchday_id": "7703808",
-        "current_matchday_id": "7703809",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7703808",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7703809",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7987462",
+        "next_matchday_id": "7987463",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987462",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987463"
     },
     "rondoniense": {
         "name": "Rondoniense",
@@ -1917,23 +1917,23 @@
         "name": "Championnat National 2",
         "competition_id": 1722,
         "season_id": 39257,
-        "previous_matchday_id": "7698416",
-        "current_matchday_id": "7698417",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7698416",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7698417",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7986871",
+        "next_matchday_id": "7986872",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986871",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986872"
     },
     "nwsl": {
         "name": "NWSL",
         "competition_id": 2700,
         "season_id": 39219,
-        "previous_matchday_id": "7886993",
-        "current_matchday_id": "7886994",
-        "next_matchday_id": "7886995",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886993",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886994",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886995"
+        "previous_matchday_id": "7886994",
+        "current_matchday_id": "7886995",
+        "next_matchday_id": "7886996",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886994",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886995",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7886996"
     },
     "paranaense": {
         "name": "Paranaense",
@@ -2005,23 +2005,23 @@
         "name": "Primera Division de El Salvador",
         "competition_id": 2726,
         "season_id": 39348,
-        "previous_matchday_id": "7951780",
-        "current_matchday_id": "7954712",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7951780",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7954712",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7987440",
+        "next_matchday_id": "7987441",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987440",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987441"
     },
     "scottish_league_cup": {
         "name": "Scottish League Cup",
         "competition_id": 2712,
         "season_id": 39295,
-        "previous_matchday_id": "7960210",
-        "current_matchday_id": "7960211",
-        "next_matchday_id": "7960212",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960210",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960211",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960212"
+        "previous_matchday_id": "7960211",
+        "current_matchday_id": "7960212",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960211",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960212",
+        "next_mixer_url": null
     },
     "tocantinense": {
         "name": "Tocantinense",

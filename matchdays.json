@@ -729,12 +729,12 @@
         "name": "Meistriliiga",
         "competition_id": 2747,
         "season_id": 39229,
-        "previous_matchday_id": "7895572",
-        "current_matchday_id": "7895573",
-        "next_matchday_id": "7895574",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895572",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895573",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895574"
+        "previous_matchday_id": "7895573",
+        "current_matchday_id": "7895574",
+        "next_matchday_id": "7895575",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895573",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895574",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895575"
     },
     "afc_champions_league": {
         "name": "AFC Champions League",

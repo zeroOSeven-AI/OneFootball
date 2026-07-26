@@ -2018,10 +2018,10 @@
         "season_id": 39295,
         "previous_matchday_id": "7960211",
         "current_matchday_id": "7960212",
-        "next_matchday_id": null,
+        "next_matchday_id": "7989396",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960211",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960212",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989396"
     },
     "tocantinense": {
         "name": "Tocantinense",

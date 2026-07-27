@@ -1147,12 +1147,12 @@
         "name": "Primera División Apertura",
         "competition_id": 174,
         "season_id": 39151,
-        "previous_matchday_id": "7881730",
-        "current_matchday_id": "7881731",
-        "next_matchday_id": "7981158",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7881730",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7881731",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981158"
+        "previous_matchday_id": "7881731",
+        "current_matchday_id": "7981158",
+        "next_matchday_id": "7981159",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7881731",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981158",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981159"
     },
     "africa_cup_of_nations": {
         "name": "Africa Cup of Nations",

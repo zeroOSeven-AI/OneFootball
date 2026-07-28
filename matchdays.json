@@ -697,10 +697,10 @@
         "competition_id": 2715,
         "season_id": 39340,
         "previous_matchday_id": null,
-        "current_matchday_id": "7698591",
+        "current_matchday_id": "7988512",
         "next_matchday_id": null,
         "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7698591",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988512",
         "next_mixer_url": null
     },
     "ligapro_banco_pichincha": {
@@ -883,12 +883,12 @@
         "name": "CONCACAF Nations League",
         "competition_id": 2730,
         "season_id": 39097,
-        "previous_matchday_id": "7850511",
-        "current_matchday_id": "7517620",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7850511",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7517620",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7988501",
+        "next_matchday_id": "7988502",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988501",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988502"
     },
     "primera_b_metropolitana": {
         "name": "Primera B Metropolitana",

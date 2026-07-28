@@ -763,10 +763,10 @@
         "competition_id": 118,
         "season_id": 39360,
         "previous_matchday_id": null,
-        "current_matchday_id": "7708248",
+        "current_matchday_id": "7989920",
         "next_matchday_id": null,
         "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7708248",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989920",
         "next_mixer_url": null
     },
     "slovak_super_liga": {

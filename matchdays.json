@@ -2621,12 +2621,12 @@
         "name": "UEFA Women's Champions League",
         "competition_id": 2702,
         "season_id": 39366,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7970240",
-        "next_matchday_id": "7970241",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970240",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970241"
+        "previous_matchday_id": "7970241",
+        "current_matchday_id": "7987579",
+        "next_matchday_id": "7970242",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970241",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987579",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970242"
     },
     "kupa_e_shqipërisë": {
         "name": "Kupa e Shqipërisë",
@@ -2678,10 +2678,10 @@
         "season_id": 38863,
         "previous_matchday_id": "7941649",
         "current_matchday_id": "7941650",
-        "next_matchday_id": null,
+        "next_matchday_id": "7988399",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7941649",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7941650",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988399"
     },
     "europa_league": {
         "name": "Europa League",

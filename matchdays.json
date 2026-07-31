@@ -1323,12 +1323,12 @@
         "name": "Serie C",
         "competition_id": 144,
         "season_id": 39345,
-        "previous_matchday_id": "7952939",
-        "current_matchday_id": "7952940",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7952939",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7952940",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7991200",
+        "next_matchday_id": "7991201",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991200",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991201"
     },
     "otp_bank_liga": {
         "name": "OTP Bank Liga",

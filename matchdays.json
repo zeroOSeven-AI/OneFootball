@@ -751,12 +751,12 @@
         "name": "Primera A Apertura",
         "competition_id": 109,
         "season_id": 39177,
-        "previous_matchday_id": "7963093",
-        "current_matchday_id": "7963094",
-        "next_matchday_id": "7963095",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963093",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963094",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963095"
+        "previous_matchday_id": "7963094",
+        "current_matchday_id": "7963095",
+        "next_matchday_id": "7963096",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963094",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963095",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963096"
     },
     "premier_soccer_league": {
         "name": "Premier Soccer League",
@@ -940,10 +940,10 @@
         "season_id": 39213,
         "previous_matchday_id": "7952689",
         "current_matchday_id": "7952690",
-        "next_matchday_id": null,
+        "next_matchday_id": "7992885",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7952689",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7952690",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992885"
     },
     "damallsvenskan": {
         "name": "Damallsvenskan",

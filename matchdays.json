@@ -12,14 +12,14 @@
     },
     "bundesliga": {
         "name": "Bundesliga",
-        "competition_id": 26,
-        "season_id": 39297,
+        "competition_id": 1,
+        "season_id": 39285,
         "previous_matchday_id": null,
-        "current_matchday_id": "7974236",
-        "next_matchday_id": "7974237",
+        "current_matchday_id": "7977441",
+        "next_matchday_id": "7977442",
         "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974236",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974237"
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977441",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977442"
     },
     "serie_a": {
         "name": "Serie A",
@@ -179,12 +179,12 @@
         "name": "Brasileirão Série B",
         "competition_id": 119,
         "season_id": 39223,
-        "previous_matchday_id": "7904211",
-        "current_matchday_id": "7904212",
-        "next_matchday_id": "7904213",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904211",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904212",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904213"
+        "previous_matchday_id": "7904212",
+        "current_matchday_id": "7904213",
+        "next_matchday_id": "7904214",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904212",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904213",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904214"
     },
     "1._division": {
         "name": "1. Division",
@@ -355,12 +355,12 @@
         "name": "Brasileirão Série C",
         "competition_id": 195,
         "season_id": 39226,
-        "previous_matchday_id": "7914437",
-        "current_matchday_id": "7914438",
-        "next_matchday_id": "7914439",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7914437",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7914438",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7914439"
+        "previous_matchday_id": "7914438",
+        "current_matchday_id": "7914439",
+        "next_matchday_id": "7914440",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7914438",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7914439",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7914440"
     },
     "brasileirão_série_d": {
         "name": "Brasileirão Série D",

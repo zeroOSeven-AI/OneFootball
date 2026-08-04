@@ -2357,12 +2357,12 @@
         "name": "Champions League",
         "competition_id": 5,
         "season_id": 39356,
-        "previous_matchday_id": "7969488",
-        "current_matchday_id": "7969489",
-        "next_matchday_id": "7986397",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969488",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969489",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986397"
+        "previous_matchday_id": "7969489",
+        "current_matchday_id": "7986397",
+        "next_matchday_id": "7986398",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969489",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986397",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986398"
     },
     "dfb_pokal": {
         "name": "DFB Pokal",
@@ -2434,11 +2434,11 @@
         "name": "Cupa Romaniei",
         "competition_id": 107,
         "season_id": 39084,
-        "previous_matchday_id": "7979902",
-        "current_matchday_id": "7988509",
+        "previous_matchday_id": "7988509",
+        "current_matchday_id": "7992526",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979902",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988509",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988509",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992526",
         "next_mixer_url": null
     },
     "concacaf_champions_league": {
@@ -2566,12 +2566,12 @@
         "name": "FFA Cup",
         "competition_id": 2722,
         "season_id": 39089,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7972207",
-        "next_matchday_id": "7991059",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972207",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991059"
+        "previous_matchday_id": "7972207",
+        "current_matchday_id": "7991059",
+        "next_matchday_id": "7991060",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972207",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991059",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991060"
     },
     "copa_colombia": {
         "name": "Copa Colombia",

@@ -2623,10 +2623,10 @@
         "season_id": 39366,
         "previous_matchday_id": "7987579",
         "current_matchday_id": "7970242",
-        "next_matchday_id": null,
+        "next_matchday_id": "7993326",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987579",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970242",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993326"
     },
     "kupa_e_shqipërisë": {
         "name": "Kupa e Shqipërisë",

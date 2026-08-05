@@ -278,12 +278,12 @@
         "name": "Taça de Portugal",
         "competition_id": 77,
         "season_id": 39099,
-        "previous_matchday_id": "7887058",
-        "current_matchday_id": "7887059",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7887058",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7887059",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7993368",
+        "next_matchday_id": "7993369",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993368",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993369"
     },
     "türkiye_kupasi": {
         "name": "Türkiye Kupasi",
@@ -2401,12 +2401,12 @@
         "name": "EFL Cup",
         "competition_id": 41,
         "season_id": 39296,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7966534",
-        "next_matchday_id": "7974301",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966534",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974301"
+        "previous_matchday_id": "7966534",
+        "current_matchday_id": "7974301",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966534",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974301",
+        "next_mixer_url": null
     },
     "copa_do_brasil": {
         "name": "Copa do Brasil",

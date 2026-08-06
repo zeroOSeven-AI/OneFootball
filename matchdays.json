@@ -2577,12 +2577,12 @@
         "name": "Copa Colombia",
         "competition_id": 168,
         "season_id": 39205,
-        "previous_matchday_id": "7948662",
-        "current_matchday_id": "7948663",
-        "next_matchday_id": "7948664",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7948662",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7948663",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7948664"
+        "previous_matchday_id": "7948663",
+        "current_matchday_id": "7948664",
+        "next_matchday_id": "7948665",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7948663",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7948664",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7948665"
     },
     "uefa_youth_league": {
         "name": "UEFA Youth League",

@@ -267,12 +267,12 @@
         "name": "Copa Argentina",
         "competition_id": 193,
         "season_id": 39166,
-        "previous_matchday_id": "7879783",
-        "current_matchday_id": "7908847",
-        "next_matchday_id": "7951084",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7879783",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7908847",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7951084"
+        "previous_matchday_id": "7908847",
+        "current_matchday_id": "7951084",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7908847",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7951084",
+        "next_mixer_url": null
     },
     "taça_de_portugal": {
         "name": "Taça de Portugal",
@@ -685,12 +685,12 @@
         "name": "Persian Gulf Pro League",
         "competition_id": 2690,
         "season_id": 39361,
-        "previous_matchday_id": "7973135",
-        "current_matchday_id": "7973136",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973135",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973136",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7991804",
+        "next_matchday_id": "7991805",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991804",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991805"
     },
     "trofeo_joan_gamper": {
         "name": "Trofeo Joan Gamper",
@@ -2346,12 +2346,12 @@
         "name": "Copa Sudamericana",
         "competition_id": 102,
         "season_id": 39156,
-        "previous_matchday_id": "7959973",
-        "current_matchday_id": "7959974",
-        "next_matchday_id": "7960168",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7959973",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7959974",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960168"
+        "previous_matchday_id": "7959974",
+        "current_matchday_id": "7960168",
+        "next_matchday_id": "7960169",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7959974",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960168",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960169"
     },
     "champions_league": {
         "name": "Champions League",
@@ -2687,11 +2687,11 @@
         "name": "Europa League",
         "competition_id": 7,
         "season_id": 39357,
-        "previous_matchday_id": "7969490",
-        "current_matchday_id": "7969491",
-        "next_matchday_id": "7986401",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969490",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969491",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986401"
+        "previous_matchday_id": "7969491",
+        "current_matchday_id": "7986401",
+        "next_matchday_id": "7986402",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969491",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986401",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986402"
     }
 }

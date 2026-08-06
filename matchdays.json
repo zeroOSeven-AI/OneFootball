@@ -1565,12 +1565,12 @@
         "name": "Copa Paulista",
         "competition_id": 212,
         "season_id": 39368,
-        "previous_matchday_id": "7956203",
-        "current_matchday_id": "7956204",
-        "next_matchday_id": "7956205",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956203",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956204",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956205"
+        "previous_matchday_id": "7956204",
+        "current_matchday_id": "7956205",
+        "next_matchday_id": "7956206",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956204",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956205",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7956206"
     },
     "supercup": {
         "name": "Supercup",

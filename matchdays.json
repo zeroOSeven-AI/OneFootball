@@ -795,12 +795,12 @@
         "name": "Regionalliga Nordost",
         "competition_id": 50,
         "season_id": 39262,
-        "previous_matchday_id": "7980985",
-        "current_matchday_id": "7980986",
-        "next_matchday_id": "7980987",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980985",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980986",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980987"
+        "previous_matchday_id": "7980986",
+        "current_matchday_id": "7980987",
+        "next_matchday_id": "7980988",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980986",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980987",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980988"
     },
     "afc_asian_cup": {
         "name": "AFC Asian Cup",

@@ -940,10 +940,10 @@
         "season_id": 39213,
         "previous_matchday_id": "7992885",
         "current_matchday_id": "7993330",
-        "next_matchday_id": null,
+        "next_matchday_id": "7994585",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992885",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993330",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994585"
     },
     "damallsvenskan": {
         "name": "Damallsvenskan",

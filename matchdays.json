@@ -599,10 +599,10 @@
         "season_id": 39188,
         "previous_matchday_id": "7953848",
         "current_matchday_id": "7973689",
-        "next_matchday_id": null,
+        "next_matchday_id": "7994648",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7953848",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973689",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994648"
     },
     "regionalliga_südwest": {
         "name": "Regionalliga Südwest",

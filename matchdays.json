@@ -531,12 +531,12 @@
         "name": "Primera B",
         "competition_id": 206,
         "season_id": 39180,
-        "previous_matchday_id": "7963113",
-        "current_matchday_id": "7963114",
-        "next_matchday_id": "7963115",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963113",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963114",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963115"
+        "previous_matchday_id": "7963114",
+        "current_matchday_id": "7963115",
+        "next_matchday_id": "7963116",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963114",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963115",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963116"
     },
     "copa_chile": {
         "name": "Copa Chile",
@@ -1378,12 +1378,12 @@
         "name": "Torneo Guardianes",
         "competition_id": 89,
         "season_id": 39248,
-        "previous_matchday_id": "7966329",
-        "current_matchday_id": "7966330",
-        "next_matchday_id": "7966331",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966329",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966330",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966331"
+        "previous_matchday_id": "7966330",
+        "current_matchday_id": "7966331",
+        "next_matchday_id": "7966332",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966330",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966331",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966332"
     },
     "regionalliga_bayern": {
         "name": "Regionalliga Bayern",

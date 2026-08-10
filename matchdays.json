@@ -432,12 +432,12 @@
         "name": "Liga 1",
         "competition_id": 148,
         "season_id": 39218,
-        "previous_matchday_id": "7692013",
-        "current_matchday_id": "7692014",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7692013",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7692014",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7995150",
+        "next_matchday_id": "7995151",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995150",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995151"
     },
     "professional_football_league": {
         "name": "Professional Football League",

@@ -212,12 +212,12 @@
         "name": "FA Cup",
         "competition_id": 129,
         "season_id": 39328,
-        "previous_matchday_id": "7921106",
-        "current_matchday_id": "7973647",
-        "next_matchday_id": "7973648",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921106",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973647",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973648"
+        "previous_matchday_id": "7973647",
+        "current_matchday_id": "7973648",
+        "next_matchday_id": "7973649",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973647",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973648",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973649"
     },
     "euro_2020_qualifying": {
         "name": "Euro 2020 Qualifying",
@@ -2621,12 +2621,12 @@
         "name": "UEFA Women's Champions League",
         "competition_id": 2702,
         "season_id": 39366,
-        "previous_matchday_id": "7987579",
-        "current_matchday_id": "7970242",
-        "next_matchday_id": "7993326",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987579",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970242",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993326"
+        "previous_matchday_id": "7993326",
+        "current_matchday_id": "7993327",
+        "next_matchday_id": "7995950",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993326",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993327",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995950"
     },
     "kupa_e_shqipërisë": {
         "name": "Kupa e Shqipërisë",
@@ -2676,12 +2676,12 @@
         "name": "Copa Rio",
         "competition_id": 213,
         "season_id": 38863,
-        "previous_matchday_id": "7941650",
-        "current_matchday_id": "7988399",
-        "next_matchday_id": "7988400",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7941650",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988399",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988400"
+        "previous_matchday_id": "7988399",
+        "current_matchday_id": "7988400",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988399",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988400",
+        "next_mixer_url": null
     },
     "europa_league": {
         "name": "Europa League",

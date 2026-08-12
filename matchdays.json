@@ -2379,12 +2379,12 @@
         "name": "Coppa Italia",
         "competition_id": 19,
         "season_id": 39335,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7974302",
-        "next_matchday_id": "7974303",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974302",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974303"
+        "previous_matchday_id": "7974302",
+        "current_matchday_id": "7974303",
+        "next_matchday_id": "7974304",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974302",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974303",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974304"
     },
     "copa_del_rey": {
         "name": "Copa del Rey",

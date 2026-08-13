@@ -2436,10 +2436,10 @@
         "season_id": 39084,
         "previous_matchday_id": "7992526",
         "current_matchday_id": "7994364",
-        "next_matchday_id": null,
+        "next_matchday_id": "7996687",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992526",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994364",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996687"
     },
     "concacaf_champions_league": {
         "name": "CONCACAF Champions League",
@@ -2678,10 +2678,10 @@
         "season_id": 38863,
         "previous_matchday_id": "7988399",
         "current_matchday_id": "7988400",
-        "next_matchday_id": null,
+        "next_matchday_id": "7996678",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988399",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988400",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996678"
     },
     "europa_league": {
         "name": "Europa League",

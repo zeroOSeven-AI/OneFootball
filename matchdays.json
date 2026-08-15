@@ -465,12 +465,12 @@
         "name": "Scottish Championship",
         "competition_id": 98,
         "season_id": 39270,
-        "previous_matchday_id": "7970023",
-        "current_matchday_id": "7970024",
-        "next_matchday_id": "7970025",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970023",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970024",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970025"
+        "previous_matchday_id": "7970024",
+        "current_matchday_id": "7970025",
+        "next_matchday_id": "7970026",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970024",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970025",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970026"
     },
     "scottish_league_one": {
         "name": "Scottish League One",

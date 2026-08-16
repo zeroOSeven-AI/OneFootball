@@ -1389,12 +1389,12 @@
         "name": "Regionalliga Bayern",
         "competition_id": 52,
         "season_id": 38884,
-        "previous_matchday_id": "7981639",
-        "current_matchday_id": "7981640",
-        "next_matchday_id": "7981641",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981639",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981640",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981641"
+        "previous_matchday_id": "7981640",
+        "current_matchday_id": "7981641",
+        "next_matchday_id": "7981642",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981640",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981641",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981642"
     },
     "uae_arabian_gulf_league": {
         "name": "UAE Arabian Gulf League",
@@ -2018,10 +2018,10 @@
         "season_id": 39295,
         "previous_matchday_id": "7960212",
         "current_matchday_id": "7989396",
-        "next_matchday_id": null,
+        "next_matchday_id": "7998093",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960212",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989396",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998093"
     },
     "tocantinense": {
         "name": "Tocantinense",
@@ -2150,10 +2150,10 @@
         "season_id": 39321,
         "previous_matchday_id": null,
         "current_matchday_id": "7977101",
-        "next_matchday_id": null,
+        "next_matchday_id": "7998133",
         "previous_mixer_url": null,
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977101",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998133"
     },
     "copa_santa_catarina": {
         "name": "Copa Santa Catarina",

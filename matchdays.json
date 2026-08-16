@@ -454,12 +454,12 @@
         "name": "Scottish Premiership",
         "competition_id": 39,
         "season_id": 39242,
-        "previous_matchday_id": "7970131",
-        "current_matchday_id": "7970132",
-        "next_matchday_id": "7970133",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970131",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970132",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970133"
+        "previous_matchday_id": "7970132",
+        "current_matchday_id": "7970133",
+        "next_matchday_id": "7970134",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970132",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970133",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970134"
     },
     "scottish_championship": {
         "name": "Scottish Championship",
@@ -553,12 +553,12 @@
         "name": "Super League",
         "competition_id": 25,
         "season_id": 39324,
-        "previous_matchday_id": "7969128",
-        "current_matchday_id": "7969129",
-        "next_matchday_id": "7969130",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969128",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969129",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969130"
+        "previous_matchday_id": "7969129",
+        "current_matchday_id": "7969130",
+        "next_matchday_id": "7969131",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969129",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969130",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969131"
     },
     "pernambucano": {
         "name": "Pernambucano",
@@ -916,12 +916,12 @@
         "name": "Virsliga",
         "competition_id": 2746,
         "season_id": 39227,
-        "previous_matchday_id": "7898503",
-        "current_matchday_id": "7898504",
-        "next_matchday_id": "7898505",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898503",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898504",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898505"
+        "previous_matchday_id": "7898504",
+        "current_matchday_id": "7898505",
+        "next_matchday_id": "7898506",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898504",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898505",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7898506"
     },
     "club_friendly_games": {
         "name": "Club Friendly Games",
@@ -1774,12 +1774,12 @@
         "name": "Eliteserien",
         "competition_id": 67,
         "season_id": 39164,
-        "previous_matchday_id": "7863199",
-        "current_matchday_id": "7863200",
-        "next_matchday_id": "7863201",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863199",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863200",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863201"
+        "previous_matchday_id": "7863200",
+        "current_matchday_id": "7863201",
+        "next_matchday_id": "7863202",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863200",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863201",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863202"
     },
     "mineiro_2": {
         "name": "Mineiro 2",

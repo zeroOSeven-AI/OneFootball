@@ -1301,12 +1301,12 @@
         "name": "FIFA Club World Cup",
         "competition_id": 75,
         "season_id": 39085,
-        "previous_matchday_id": "7756125",
-        "current_matchday_id": "7849361",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7756125",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7849361",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "7998473",
+        "next_matchday_id": "7998474",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998473",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998474"
     },
     "regionalliga_nord": {
         "name": "Regionalliga Nord",

@@ -2401,12 +2401,12 @@
         "name": "EFL Cup",
         "competition_id": 41,
         "season_id": 39296,
-        "previous_matchday_id": "7966534",
-        "current_matchday_id": "7974301",
-        "next_matchday_id": "7995725",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966534",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974301",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995725"
+        "previous_matchday_id": "7974301",
+        "current_matchday_id": "7995725",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974301",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995725",
+        "next_mixer_url": null
     },
     "copa_do_brasil": {
         "name": "Copa do Brasil",

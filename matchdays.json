@@ -718,12 +718,12 @@
         "name": "League One",
         "competition_id": 42,
         "season_id": 39304,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7973741",
-        "next_matchday_id": "7973742",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973741",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973742"
+        "previous_matchday_id": "7973741",
+        "current_matchday_id": "7973742",
+        "next_matchday_id": "7973743",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973741",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973742",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973743"
     },
     "meistriliiga": {
         "name": "Meistriliiga",

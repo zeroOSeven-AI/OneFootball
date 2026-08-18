@@ -2522,12 +2522,12 @@
         "name": "EFL Trophy",
         "competition_id": 143,
         "season_id": 39299,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7994555",
-        "next_matchday_id": "7994556",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994555",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994556"
+        "previous_matchday_id": "7994555",
+        "current_matchday_id": "7994556",
+        "next_matchday_id": "7994557",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994555",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994556",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994557"
     },
     "greek_cup": {
         "name": "Greek Cup",

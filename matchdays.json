@@ -2456,12 +2456,12 @@
         "name": "Puchar Polski",
         "competition_id": 106,
         "season_id": 39266,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7967203",
-        "next_matchday_id": "7994306",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7967203",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994306"
+        "previous_matchday_id": "7967203",
+        "current_matchday_id": "7994306",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7967203",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994306",
+        "next_mixer_url": null
     },
     "dbu_pokalen": {
         "name": "DBU Pokalen",
@@ -2544,12 +2544,12 @@
         "name": "Beker van België",
         "competition_id": 117,
         "season_id": 39280,
-        "previous_matchday_id": "7975781",
-        "current_matchday_id": "7975782",
-        "next_matchday_id": "7995282",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975781",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975782",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995282"
+        "previous_matchday_id": "7975782",
+        "current_matchday_id": "7995282",
+        "next_matchday_id": "7997695",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975782",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995282",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7997695"
     },
     "superliga_colombiana": {
         "name": "Superliga Colombiana",

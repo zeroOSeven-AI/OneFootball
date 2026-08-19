@@ -742,10 +742,10 @@
         "season_id": 39155,
         "previous_matchday_id": null,
         "current_matchday_id": "7986828",
-        "next_matchday_id": null,
+        "next_matchday_id": "7999138",
         "previous_mixer_url": null,
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986828",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999138"
     },
     "primera_a_apertura": {
         "name": "Primera A Apertura",
@@ -2621,12 +2621,12 @@
         "name": "UEFA Women's Champions League",
         "competition_id": 2702,
         "season_id": 39366,
-        "previous_matchday_id": "7993326",
-        "current_matchday_id": "7993327",
-        "next_matchday_id": "7995950",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993326",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993327",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995950"
+        "previous_matchday_id": "7993327",
+        "current_matchday_id": "7995950",
+        "next_matchday_id": "7995951",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993327",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995950",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995951"
     },
     "kupa_e_shqipërisë": {
         "name": "Kupa e Shqipërisë",

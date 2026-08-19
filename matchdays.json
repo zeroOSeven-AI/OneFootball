@@ -2348,10 +2348,10 @@
         "season_id": 39156,
         "previous_matchday_id": "7960168",
         "current_matchday_id": "7960169",
-        "next_matchday_id": null,
+        "next_matchday_id": "7999354",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960168",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960169",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999354"
     },
     "champions_league": {
         "name": "Champions League",

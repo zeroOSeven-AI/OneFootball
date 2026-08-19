@@ -2676,12 +2676,12 @@
         "name": "Copa Rio",
         "competition_id": 213,
         "season_id": 38863,
-        "previous_matchday_id": "7988399",
-        "current_matchday_id": "7988400",
-        "next_matchday_id": "7996678",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988399",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988400",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996678"
+        "previous_matchday_id": "7988400",
+        "current_matchday_id": "7996678",
+        "next_matchday_id": "7996679",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988400",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996678",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996679"
     },
     "europa_league": {
         "name": "Europa League",

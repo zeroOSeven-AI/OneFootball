@@ -269,10 +269,10 @@
         "season_id": 39166,
         "previous_matchday_id": "7908847",
         "current_matchday_id": "7951084",
-        "next_matchday_id": null,
+        "next_matchday_id": "7999825",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7908847",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7951084",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999825"
     },
     "taça_de_portugal": {
         "name": "Taça de Portugal",

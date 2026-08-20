@@ -1411,12 +1411,12 @@
         "name": "Leagues Cup",
         "competition_id": 2717,
         "season_id": 39008,
-        "previous_matchday_id": "7919494",
-        "current_matchday_id": "7919495",
-        "next_matchday_id": "7997289",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7919494",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7919495",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7997289"
+        "previous_matchday_id": "7919495",
+        "current_matchday_id": "7997289",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7919495",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7997289",
+        "next_mixer_url": null
     },
     "premjer-liha": {
         "name": "Premjer-Liha",

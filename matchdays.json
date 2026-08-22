@@ -113,12 +113,12 @@
         "name": "2. Bundesliga",
         "competition_id": 2,
         "season_id": 39286,
-        "previous_matchday_id": "7977407",
-        "current_matchday_id": "7977408",
-        "next_matchday_id": "7977409",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977407",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977408",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977409"
+        "previous_matchday_id": "7977408",
+        "current_matchday_id": "7977409",
+        "next_matchday_id": "7977410",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977408",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977409",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977410"
     },
     "serie_b": {
         "name": "Serie B",

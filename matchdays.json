@@ -1257,12 +1257,12 @@
         "name": "Saudi Professional League",
         "competition_id": 111,
         "season_id": 39355,
-        "previous_matchday_id": "7988423",
-        "current_matchday_id": "7988424",
-        "next_matchday_id": "7988425",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988423",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988424",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988425"
+        "previous_matchday_id": "7988424",
+        "current_matchday_id": "7988425",
+        "next_matchday_id": "7988426",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988424",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988425",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988426"
     },
     "canadian_premier_league": {
         "name": "Canadian Premier League",

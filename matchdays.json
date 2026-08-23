@@ -1422,12 +1422,12 @@
         "name": "Premjer-Liha",
         "competition_id": 61,
         "season_id": 39293,
-        "previous_matchday_id": "7974548",
-        "current_matchday_id": "7974549",
-        "next_matchday_id": "7974550",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974548",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974549",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974550"
+        "previous_matchday_id": "7974549",
+        "current_matchday_id": "7974550",
+        "next_matchday_id": "7974551",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974549",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974550",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974551"
     },
     "k_league_1": {
         "name": "K League 1",

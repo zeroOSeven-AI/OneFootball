@@ -652,12 +652,12 @@
         "name": "Liga Premier",
         "competition_id": 219,
         "season_id": 39337,
-        "previous_matchday_id": "7947324",
-        "current_matchday_id": "7947325",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7947324",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7947325",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "8001762",
+        "next_matchday_id": "8001763",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001762",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001763"
     },
     "egyptian_premier_league": {
         "name": "Egyptian Premier League",
@@ -1433,12 +1433,12 @@
         "name": "K League 1",
         "competition_id": 130,
         "season_id": 39182,
-        "previous_matchday_id": "7885455",
-        "current_matchday_id": "7885456",
-        "next_matchday_id": "7885457",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885455",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885456",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885457"
+        "previous_matchday_id": "7885456",
+        "current_matchday_id": "7885457",
+        "next_matchday_id": "7885458",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885456",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885457",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885458"
     },
     "veikkausliiga": {
         "name": "Veikkausliiga",

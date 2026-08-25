@@ -2357,12 +2357,12 @@
         "name": "Champions League",
         "competition_id": 5,
         "season_id": 39356,
-        "previous_matchday_id": "7986398",
-        "current_matchday_id": "7992837",
-        "next_matchday_id": "7992838",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986398",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992837",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992838"
+        "previous_matchday_id": "7992837",
+        "current_matchday_id": "7992838",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992837",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992838",
+        "next_mixer_url": null
     },
     "dfb_pokal": {
         "name": "DFB Pokal",
@@ -2436,10 +2436,10 @@
         "season_id": 39084,
         "previous_matchday_id": "7994364",
         "current_matchday_id": "7996687",
-        "next_matchday_id": null,
+        "next_matchday_id": "8000537",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994364",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996687",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8000537"
     },
     "concacaf_champions_league": {
         "name": "CONCACAF Champions League",
@@ -2489,11 +2489,11 @@
         "name": "Copa de la Reina",
         "competition_id": 2742,
         "season_id": 39206,
-        "previous_matchday_id": "7902906",
-        "current_matchday_id": "7902907",
+        "previous_matchday_id": null,
+        "current_matchday_id": "7999856",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7902906",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7902907",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999856",
         "next_mixer_url": null
     },
     "copa_do_brasil_u20": {
@@ -2522,12 +2522,12 @@
         "name": "EFL Trophy",
         "competition_id": 143,
         "season_id": 39299,
-        "previous_matchday_id": "7994555",
-        "current_matchday_id": "7994556",
-        "next_matchday_id": "7994557",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994555",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994556",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994557"
+        "previous_matchday_id": "7994557",
+        "current_matchday_id": "8000534",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994557",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8000534",
+        "next_mixer_url": null
     },
     "greek_cup": {
         "name": "Greek Cup",

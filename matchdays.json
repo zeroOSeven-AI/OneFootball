@@ -2535,10 +2535,10 @@
         "season_id": 39107,
         "previous_matchday_id": "7993808",
         "current_matchday_id": "7993809",
-        "next_matchday_id": null,
+        "next_matchday_id": "8002549",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993808",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993809",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002549"
     },
     "beker_van_belgië": {
         "name": "Beker van België",
@@ -2632,11 +2632,11 @@
         "name": "Kupa e Shqipërisë",
         "competition_id": 136,
         "season_id": 39448,
-        "previous_matchday_id": "7921835",
-        "current_matchday_id": "7921836",
+        "previous_matchday_id": null,
+        "current_matchday_id": "7999908",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921835",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7921836",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999908",
         "next_mixer_url": null
     },
     "mls_all-star_game": {

@@ -2434,12 +2434,12 @@
         "name": "Cupa Romaniei",
         "competition_id": 107,
         "season_id": 39084,
-        "previous_matchday_id": "7994364",
-        "current_matchday_id": "7996687",
-        "next_matchday_id": "8000537",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994364",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996687",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8000537"
+        "previous_matchday_id": "7996687",
+        "current_matchday_id": "8000537",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996687",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8000537",
+        "next_mixer_url": null
     },
     "concacaf_champions_league": {
         "name": "CONCACAF Champions League",

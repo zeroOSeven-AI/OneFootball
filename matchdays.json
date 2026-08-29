@@ -1523,10 +1523,10 @@
         "season_id": 39342,
         "previous_matchday_id": "7984801",
         "current_matchday_id": "7984802",
-        "next_matchday_id": null,
+        "next_matchday_id": "8004240",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984801",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984802",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004240"
     },
     "sergipano": {
         "name": "Sergipano",
@@ -2115,12 +2115,12 @@
         "name": "Campeonato de Portugal",
         "competition_id": 2698,
         "season_id": 39330,
-        "previous_matchday_id": "7990459",
-        "current_matchday_id": "7990460",
-        "next_matchday_id": "7990461",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990459",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990460",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990461"
+        "previous_matchday_id": "7990460",
+        "current_matchday_id": "7990461",
+        "next_matchday_id": "7990462",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990460",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990461",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990462"
     },
     "mineiro": {
         "name": "Mineiro",

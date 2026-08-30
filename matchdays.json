@@ -1136,12 +1136,12 @@
         "name": "Challenge League",
         "competition_id": 207,
         "season_id": 39326,
-        "previous_matchday_id": "7969112",
-        "current_matchday_id": "7969113",
-        "next_matchday_id": "7969114",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969112",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969113",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969114"
+        "previous_matchday_id": "7969113",
+        "current_matchday_id": "7969114",
+        "next_matchday_id": "7969115",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969113",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969114",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969115"
     },
     "primera_división_apertura": {
         "name": "Primera División Apertura",
@@ -1752,12 +1752,12 @@
         "name": "National League",
         "competition_id": 97,
         "season_id": 39334,
-        "previous_matchday_id": "7981508",
-        "current_matchday_id": "7981509",
-        "next_matchday_id": "7981510",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981508",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981509",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981510"
+        "previous_matchday_id": "7981509",
+        "current_matchday_id": "7981510",
+        "next_matchday_id": "7981511",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981509",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981510",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981511"
     },
     "supercoppa_italiana": {
         "name": "Supercoppa Italiana",

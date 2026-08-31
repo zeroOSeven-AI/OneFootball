@@ -388,23 +388,23 @@
         "name": "Eerste Divisie",
         "competition_id": 101,
         "season_id": 39256,
-        "previous_matchday_id": "7965784",
-        "current_matchday_id": "7965785",
-        "next_matchday_id": "7965786",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965784",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965785",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965786"
+        "previous_matchday_id": "7965785",
+        "current_matchday_id": "7965786",
+        "next_matchday_id": "7965787",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965785",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965786",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965787"
     },
     "j.league": {
         "name": "J.League",
         "competition_id": 38,
         "season_id": 39195,
-        "previous_matchday_id": "7969186",
-        "current_matchday_id": "7969187",
-        "next_matchday_id": "7969188",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969186",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969187",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969188"
+        "previous_matchday_id": "7969187",
+        "current_matchday_id": "7969188",
+        "next_matchday_id": "7969189",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969187",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969188",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969189"
     },
     "j.league_2": {
         "name": "J.League 2",

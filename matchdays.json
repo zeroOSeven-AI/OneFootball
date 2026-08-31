@@ -12,14 +12,14 @@
     },
     "bundesliga": {
         "name": "Bundesliga",
-        "competition_id": 26,
-        "season_id": 39297,
-        "previous_matchday_id": "7974239",
-        "current_matchday_id": "7974240",
-        "next_matchday_id": "7974241",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974239",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974240",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974241"
+        "competition_id": 1,
+        "season_id": 39285,
+        "previous_matchday_id": null,
+        "current_matchday_id": "7977441",
+        "next_matchday_id": "7977442",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977441",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977442"
     },
     "serie_a": {
         "name": "Serie A",

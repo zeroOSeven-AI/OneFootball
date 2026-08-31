@@ -388,12 +388,12 @@
         "name": "Eerste Divisie",
         "competition_id": 101,
         "season_id": 39256,
-        "previous_matchday_id": "7965785",
-        "current_matchday_id": "7965786",
-        "next_matchday_id": "7965787",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965785",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965786",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965787"
+        "previous_matchday_id": "7965784",
+        "current_matchday_id": "7965785",
+        "next_matchday_id": "7965786",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965784",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965785",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965786"
     },
     "j.league": {
         "name": "J.League",
@@ -553,12 +553,12 @@
         "name": "Super League",
         "competition_id": 25,
         "season_id": 39324,
-        "previous_matchday_id": "7969130",
-        "current_matchday_id": "7969131",
-        "next_matchday_id": "7969132",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969130",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969131",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969132"
+        "previous_matchday_id": "7969131",
+        "current_matchday_id": "7969132",
+        "next_matchday_id": "7969133",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969131",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969132",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969133"
     },
     "pernambucano": {
         "name": "Pernambucano",
@@ -1114,23 +1114,23 @@
         "name": "Liga Super Malaysia",
         "competition_id": 147,
         "season_id": 39210,
-        "previous_matchday_id": "7987485",
-        "current_matchday_id": "7987486",
-        "next_matchday_id": "7987487",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987485",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987486",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987487"
+        "previous_matchday_id": "7987484",
+        "current_matchday_id": "7987485",
+        "next_matchday_id": "7987486",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987484",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987485",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987486"
     },
     "usl_championship": {
         "name": "USL Championship",
         "competition_id": 2750,
         "season_id": 39233,
-        "previous_matchday_id": "7858528",
-        "current_matchday_id": "7858529",
-        "next_matchday_id": "7858530",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858528",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858529",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858530"
+        "previous_matchday_id": "7858527",
+        "current_matchday_id": "7858528",
+        "next_matchday_id": "7858529",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858527",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858528",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858529"
     },
     "challenge_league": {
         "name": "Challenge League",
@@ -1499,12 +1499,12 @@
         "name": "A Lyga",
         "competition_id": 2748,
         "season_id": 39231,
-        "previous_matchday_id": "7960515",
-        "current_matchday_id": "7960516",
-        "next_matchday_id": "7960517",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960515",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960516",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960517"
+        "previous_matchday_id": "7960514",
+        "current_matchday_id": "7960515",
+        "next_matchday_id": "7960516",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960514",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960515",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960516"
     },
     "ligue_1_tunisia": {
         "name": "Ligue 1 Tunisia",
@@ -1774,12 +1774,12 @@
         "name": "Eliteserien",
         "competition_id": 67,
         "season_id": 39164,
-        "previous_matchday_id": "7863200",
-        "current_matchday_id": "7863201",
-        "next_matchday_id": "7863202",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863200",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863201",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863202"
+        "previous_matchday_id": "7863193",
+        "current_matchday_id": "7863194",
+        "next_matchday_id": "7863195",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863193",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863194",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863195"
     },
     "mineiro_2": {
         "name": "Mineiro 2",

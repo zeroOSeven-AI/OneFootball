@@ -597,12 +597,12 @@
         "name": "Torneo Apertura",
         "competition_id": 177,
         "season_id": 39188,
-        "previous_matchday_id": "7994649",
-        "current_matchday_id": "7994650",
-        "next_matchday_id": "7994651",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994649",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994650",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994651"
+        "previous_matchday_id": "7994650",
+        "current_matchday_id": "7994651",
+        "next_matchday_id": "7994652",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994650",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994651",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994652"
     },
     "regionalliga_südwest": {
         "name": "Regionalliga Südwest",
@@ -707,12 +707,12 @@
         "name": "LigaPro Banco Pichincha",
         "competition_id": 172,
         "season_id": 39162,
-        "previous_matchday_id": "7901597",
-        "current_matchday_id": "7901598",
-        "next_matchday_id": "7901599",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901597",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901598",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901599"
+        "previous_matchday_id": "7901598",
+        "current_matchday_id": "7901599",
+        "next_matchday_id": "7901600",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901598",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901599",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7901600"
     },
     "league_one": {
         "name": "League One",
@@ -1147,12 +1147,12 @@
         "name": "Primera División Apertura",
         "competition_id": 174,
         "season_id": 39151,
-        "previous_matchday_id": "7981162",
-        "current_matchday_id": "7981163",
-        "next_matchday_id": "7981164",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981162",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981163",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981164"
+        "previous_matchday_id": "7981163",
+        "current_matchday_id": "7981164",
+        "next_matchday_id": "7981165",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981163",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981164",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981165"
     },
     "africa_cup_of_nations": {
         "name": "Africa Cup of Nations",

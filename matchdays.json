@@ -102,12 +102,12 @@
         "name": "The Championship",
         "competition_id": 27,
         "season_id": 39305,
-        "previous_matchday_id": "7973696",
-        "current_matchday_id": "7973697",
-        "next_matchday_id": "7973698",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973696",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973697",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973698"
+        "previous_matchday_id": "7973697",
+        "current_matchday_id": "7973698",
+        "next_matchday_id": "7973699",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973697",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973698",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973699"
     },
     "2._bundesliga": {
         "name": "2. Bundesliga",
@@ -718,12 +718,12 @@
         "name": "League One",
         "competition_id": 42,
         "season_id": 39304,
-        "previous_matchday_id": "7973742",
-        "current_matchday_id": "7973743",
-        "next_matchday_id": "7973744",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973742",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973743",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973744"
+        "previous_matchday_id": "7973743",
+        "current_matchday_id": "7973744",
+        "next_matchday_id": "7973745",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973743",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973744",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973745"
     },
     "meistriliiga": {
         "name": "Meistriliiga",
@@ -1488,12 +1488,12 @@
         "name": "League Two",
         "competition_id": 43,
         "season_id": 39303,
-        "previous_matchday_id": "7973788",
-        "current_matchday_id": "7973789",
-        "next_matchday_id": "7973790",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973788",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973789",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973790"
+        "previous_matchday_id": "7973789",
+        "current_matchday_id": "7973790",
+        "next_matchday_id": "7973791",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973789",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973790",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973791"
     },
     "a_lyga": {
         "name": "A Lyga",
@@ -2359,10 +2359,10 @@
         "season_id": 39356,
         "previous_matchday_id": "7992837",
         "current_matchday_id": "7992838",
-        "next_matchday_id": null,
+        "next_matchday_id": "8004232",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992837",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992838",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004232"
     },
     "dfb_pokal": {
         "name": "DFB Pokal",
@@ -2412,12 +2412,12 @@
         "name": "Copa do Brasil",
         "competition_id": 137,
         "season_id": 39179,
-        "previous_matchday_id": "7958712",
-        "current_matchday_id": "7996001",
-        "next_matchday_id": "7996002",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7958712",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996001",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996002"
+        "previous_matchday_id": "7996001",
+        "current_matchday_id": "7996002",
+        "next_matchday_id": "7996003",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996001",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996002",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996003"
     },
     "kubok": {
         "name": "Kubok",
@@ -2469,10 +2469,10 @@
         "season_id": 39322,
         "previous_matchday_id": "7979896",
         "current_matchday_id": "7994606",
-        "next_matchday_id": null,
+        "next_matchday_id": "8003574",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979896",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994606",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8003574"
     },
     "knvb_beker": {
         "name": "KNVB Beker",
@@ -2522,23 +2522,23 @@
         "name": "EFL Trophy",
         "competition_id": 143,
         "season_id": 39299,
-        "previous_matchday_id": "7994557",
-        "current_matchday_id": "8000534",
+        "previous_matchday_id": "7994556",
+        "current_matchday_id": "7994557",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994557",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8000534",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994556",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994557",
         "next_mixer_url": null
     },
     "greek_cup": {
         "name": "Greek Cup",
         "competition_id": 126,
         "season_id": 39107,
-        "previous_matchday_id": "7993808",
-        "current_matchday_id": "7993809",
-        "next_matchday_id": "8002549",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993808",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993809",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002549"
+        "previous_matchday_id": "7993809",
+        "current_matchday_id": "8002549",
+        "next_matchday_id": "8002550",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993809",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002549",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002550"
     },
     "beker_van_belgië": {
         "name": "Beker van België",

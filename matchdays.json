@@ -2590,10 +2590,10 @@
         "season_id": 39080,
         "previous_matchday_id": null,
         "current_matchday_id": "8004714",
-        "next_matchday_id": "8004715",
+        "next_matchday_id": "8005730",
         "previous_mixer_url": null,
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004714",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004715"
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005730"
     },
     "öfb-cup": {
         "name": "ÖFB-Cup",

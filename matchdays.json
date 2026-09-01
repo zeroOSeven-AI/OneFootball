@@ -289,11 +289,11 @@
         "name": "Türkiye Kupasi",
         "competition_id": 78,
         "season_id": 39369,
-        "previous_matchday_id": "7922468",
-        "current_matchday_id": "7922469",
+        "previous_matchday_id": null,
+        "current_matchday_id": "8005611",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7922468",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7922469",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005611",
         "next_mixer_url": null
     },
     "conmebol_world_cup_qualifying": {
@@ -2500,11 +2500,11 @@
         "name": "Copa do Brasil U20",
         "competition_id": 1898,
         "season_id": 39207,
-        "previous_matchday_id": "7819512",
-        "current_matchday_id": "7819513",
+        "previous_matchday_id": null,
+        "current_matchday_id": "8005164",
         "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7819512",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7819513",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005164",
         "next_mixer_url": null
     },
     "recopa_sudamericana": {
@@ -2588,12 +2588,12 @@
         "name": "UEFA Youth League",
         "competition_id": 189,
         "season_id": 39080,
-        "previous_matchday_id": "7902902",
-        "current_matchday_id": "7902903",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7902902",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7902903",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "8004714",
+        "next_matchday_id": "8004715",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004714",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004715"
     },
     "öfb-cup": {
         "name": "ÖFB-Cup",

@@ -2357,12 +2357,12 @@
         "name": "Champions League",
         "competition_id": 5,
         "season_id": 39356,
-        "previous_matchday_id": "7992837",
-        "current_matchday_id": "7992838",
-        "next_matchday_id": "8004232",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992837",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992838",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004232"
+        "previous_matchday_id": "7992838",
+        "current_matchday_id": "8004232",
+        "next_matchday_id": "8004233",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992838",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004232",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004233"
     },
     "dfb_pokal": {
         "name": "DFB Pokal",

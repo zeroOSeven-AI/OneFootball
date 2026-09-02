@@ -2346,12 +2346,12 @@
         "name": "Copa Sudamericana",
         "competition_id": 102,
         "season_id": 39156,
-        "previous_matchday_id": "7960168",
-        "current_matchday_id": "7960169",
-        "next_matchday_id": "7999354",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960168",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960169",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999354"
+        "previous_matchday_id": "7960169",
+        "current_matchday_id": "7999354",
+        "next_matchday_id": "7999355",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960169",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999354",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999355"
     },
     "champions_league": {
         "name": "Champions League",
@@ -2423,12 +2423,12 @@
         "name": "Kubok",
         "competition_id": 108,
         "season_id": 39331,
-        "previous_matchday_id": "7973509",
-        "current_matchday_id": "7973510",
-        "next_matchday_id": "7974264",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973509",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973510",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974264"
+        "previous_matchday_id": "7973510",
+        "current_matchday_id": "7974264",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973510",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974264",
+        "next_mixer_url": null
     },
     "cupa_romaniei": {
         "name": "Cupa Romaniei",
@@ -2566,12 +2566,12 @@
         "name": "FFA Cup",
         "competition_id": 2722,
         "season_id": 39089,
-        "previous_matchday_id": "7991059",
-        "current_matchday_id": "7991060",
-        "next_matchday_id": "7991061",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991059",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991060",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991061"
+        "previous_matchday_id": "7991060",
+        "current_matchday_id": "7991061",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991060",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991061",
+        "next_mixer_url": null
     },
     "copa_colombia": {
         "name": "Copa Colombia",

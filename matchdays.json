@@ -544,10 +544,10 @@
         "season_id": 38829,
         "previous_matchday_id": "7949371",
         "current_matchday_id": "7974198",
-        "next_matchday_id": "8006668",
+        "next_matchday_id": "8006711",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949371",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974198",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006668"
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006711"
     },
     "super_league": {
         "name": "Super League",

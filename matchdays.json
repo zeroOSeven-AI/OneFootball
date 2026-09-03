@@ -544,10 +544,10 @@
         "season_id": 38829,
         "previous_matchday_id": "7949371",
         "current_matchday_id": "7974198",
-        "next_matchday_id": null,
+        "next_matchday_id": "8006668",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7949371",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974198",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006668"
     },
     "super_league": {
         "name": "Super League",
@@ -1413,10 +1413,10 @@
         "season_id": 39008,
         "previous_matchday_id": "7997289",
         "current_matchday_id": "8003244",
-        "next_matchday_id": "8003245",
+        "next_matchday_id": "8006554",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7997289",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8003244",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8003245"
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006554"
     },
     "premjer-liha": {
         "name": "Premjer-Liha",

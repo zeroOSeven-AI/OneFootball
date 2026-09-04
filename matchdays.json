@@ -575,12 +575,12 @@
         "name": "Africa Cup Of Nations Qualifiers",
         "competition_id": 2695,
         "season_id": 39111,
-        "previous_matchday_id": "7885929",
-        "current_matchday_id": "7885930",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885929",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885930",
-        "next_mixer_url": null
+        "previous_matchday_id": "7885930",
+        "current_matchday_id": "8007200",
+        "next_matchday_id": "8007201",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885930",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007200",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007201"
     },
     "a-league": {
         "name": "A-League",
@@ -1147,12 +1147,12 @@
         "name": "Primera División Apertura",
         "competition_id": 174,
         "season_id": 39151,
-        "previous_matchday_id": "7981163",
-        "current_matchday_id": "7981164",
-        "next_matchday_id": "7981165",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981163",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981164",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981165"
+        "previous_matchday_id": "7981164",
+        "current_matchday_id": "7981165",
+        "next_matchday_id": "7981166",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981164",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981165",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981166"
     },
     "africa_cup_of_nations": {
         "name": "Africa Cup of Nations",

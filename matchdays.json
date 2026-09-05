@@ -366,12 +366,12 @@
         "name": "Brasileirão Série D",
         "competition_id": 216,
         "season_id": 39230,
-        "previous_matchday_id": "7998910",
-        "current_matchday_id": "7998911",
-        "next_matchday_id": "8004896",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998910",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998911",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004896"
+        "previous_matchday_id": "7998911",
+        "current_matchday_id": "8004896",
+        "next_matchday_id": "8004897",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998911",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004896",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004897"
     },
     "eredivisie": {
         "name": "Eredivisie",
@@ -960,12 +960,12 @@
         "name": "2. Liga",
         "competition_id": 116,
         "season_id": 39306,
-        "previous_matchday_id": "7976288",
-        "current_matchday_id": "7976289",
-        "next_matchday_id": "7976290",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976288",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976289",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976290"
+        "previous_matchday_id": "7976289",
+        "current_matchday_id": "7976290",
+        "next_matchday_id": "7976291",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976289",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976290",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976291"
     },
     "copa_américa": {
         "name": "Copa América",

@@ -14,12 +14,12 @@
         "name": "Bundesliga",
         "competition_id": 26,
         "season_id": 39297,
-        "previous_matchday_id": "7974239",
-        "current_matchday_id": "7974240",
-        "next_matchday_id": "7974241",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974239",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974240",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974241"
+        "previous_matchday_id": "7974240",
+        "current_matchday_id": "7974241",
+        "next_matchday_id": "7974242",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974240",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974241",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974242"
     },
     "serie_a": {
         "name": "Serie A",
@@ -663,12 +663,12 @@
         "name": "Egyptian Premier League",
         "competition_id": 2732,
         "season_id": 39100,
-        "previous_matchday_id": "7994021",
-        "current_matchday_id": "7994022",
-        "next_matchday_id": "7994023",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994021",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994022",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994023"
+        "previous_matchday_id": "7994022",
+        "current_matchday_id": "7994023",
+        "next_matchday_id": "7994024",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994022",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994023",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994024"
     },
     "division_1a": {
         "name": "Division 1A",

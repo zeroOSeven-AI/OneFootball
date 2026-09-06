@@ -1664,12 +1664,12 @@
         "name": "DFB-Pokal Frauen",
         "competition_id": 2743,
         "season_id": 39309,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7975788",
-        "next_matchday_id": "7998509",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975788",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998509"
+        "previous_matchday_id": "7975788",
+        "current_matchday_id": "7998509",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975788",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998509",
+        "next_mixer_url": null
     },
     "roraimense": {
         "name": "Roraimense",

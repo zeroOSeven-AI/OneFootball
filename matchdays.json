@@ -12,14 +12,14 @@
     },
     "bundesliga": {
         "name": "Bundesliga",
-        "competition_id": 26,
-        "season_id": 39297,
-        "previous_matchday_id": "7974240",
-        "current_matchday_id": "7974241",
-        "next_matchday_id": "7974242",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974240",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974241",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974242"
+        "competition_id": 1,
+        "season_id": 39285,
+        "previous_matchday_id": "7977441",
+        "current_matchday_id": "7977442",
+        "next_matchday_id": "7977443",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977441",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977442",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977443"
     },
     "serie_a": {
         "name": "Serie A",
@@ -751,12 +751,12 @@
         "name": "Primera A Apertura",
         "competition_id": 109,
         "season_id": 39177,
-        "previous_matchday_id": "7963101",
-        "current_matchday_id": "7963102",
-        "next_matchday_id": "7963103",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963101",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963102",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963103"
+        "previous_matchday_id": "7963100",
+        "current_matchday_id": "7963101",
+        "next_matchday_id": "7963102",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963100",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963101",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963102"
     },
     "premier_soccer_league": {
         "name": "Premier Soccer League",
@@ -1411,12 +1411,12 @@
         "name": "Leagues Cup",
         "competition_id": 2717,
         "season_id": 39008,
-        "previous_matchday_id": "8003244",
-        "current_matchday_id": "8006554",
-        "next_matchday_id": "8006555",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8003244",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006554",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006555"
+        "previous_matchday_id": "8006554",
+        "current_matchday_id": "8006555",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006554",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006555",
+        "next_mixer_url": null
     },
     "premjer-liha": {
         "name": "Premjer-Liha",

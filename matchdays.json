@@ -1402,10 +1402,10 @@
         "season_id": 39279,
         "previous_matchday_id": "7986446",
         "current_matchday_id": "8000421",
-        "next_matchday_id": null,
+        "next_matchday_id": "8010011",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986446",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8000421",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010011"
     },
     "leagues_cup": {
         "name": "Leagues Cup",
@@ -2390,12 +2390,12 @@
         "name": "Copa del Rey",
         "competition_id": 18,
         "season_id": 39106,
-        "previous_matchday_id": "7902909",
-        "current_matchday_id": "7902910",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7902909",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7902910",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "8010052",
+        "next_matchday_id": "8010053",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010052",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010053"
     },
     "efl_cup": {
         "name": "EFL Cup",
@@ -2425,10 +2425,10 @@
         "season_id": 39331,
         "previous_matchday_id": "7973510",
         "current_matchday_id": "7974264",
-        "next_matchday_id": null,
+        "next_matchday_id": "8009969",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973510",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974264",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8009969"
     },
     "cupa_romaniei": {
         "name": "Cupa Romaniei",

@@ -1565,12 +1565,12 @@
         "name": "Copa Paulista",
         "competition_id": 212,
         "season_id": 39368,
-        "previous_matchday_id": "8001135",
-        "current_matchday_id": "8001136",
-        "next_matchday_id": "8001137",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001135",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001136",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001137"
+        "previous_matchday_id": "8001136",
+        "current_matchday_id": "8001137",
+        "next_matchday_id": "8001138",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001136",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001137",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001138"
     },
     "supercup": {
         "name": "Supercup",
@@ -2159,12 +2159,12 @@
         "name": "Copa Santa Catarina",
         "competition_id": 1894,
         "season_id": 38571,
-        "previous_matchday_id": "7984986",
-        "current_matchday_id": "7984987",
-        "next_matchday_id": "7984988",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984986",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984987",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984988"
+        "previous_matchday_id": "7984987",
+        "current_matchday_id": "7984988",
+        "next_matchday_id": "7984989",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984987",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984988",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984989"
     },
     "alagoano": {
         "name": "Alagoano",
@@ -2502,10 +2502,10 @@
         "season_id": 39207,
         "previous_matchday_id": null,
         "current_matchday_id": "8005164",
-        "next_matchday_id": null,
+        "next_matchday_id": "8009832",
         "previous_mixer_url": null,
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005164",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8009832"
     },
     "recopa_sudamericana": {
         "name": "Recopa Sudamericana",

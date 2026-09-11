@@ -36,12 +36,12 @@
         "name": "LaLiga",
         "competition_id": 10,
         "season_id": 39319,
-        "previous_matchday_id": "7976509",
-        "current_matchday_id": "7976510",
-        "next_matchday_id": "7976511",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976509",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976510",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976511"
+        "previous_matchday_id": "7976510",
+        "current_matchday_id": "7976511",
+        "next_matchday_id": "7976512",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976510",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976511",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976512"
     },
     "ligue_1_uber_eats": {
         "name": "Ligue 1 Uber Eats",

@@ -773,12 +773,12 @@
         "name": "Slovak Super Liga",
         "competition_id": 2723,
         "season_id": 39260,
-        "previous_matchday_id": "7966035",
-        "current_matchday_id": "7966036",
-        "next_matchday_id": "7966037",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966035",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966036",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966037"
+        "previous_matchday_id": "7966036",
+        "current_matchday_id": "7966037",
+        "next_matchday_id": "7966038",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966036",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966037",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966038"
     },
     "são_paulo_youth_cup": {
         "name": "São Paulo Youth Cup",
@@ -1444,12 +1444,12 @@
         "name": "Veikkausliiga",
         "competition_id": 680,
         "season_id": 39186,
-        "previous_matchday_id": "8006093",
-        "current_matchday_id": "8006266",
-        "next_matchday_id": "8006267",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006093",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006266",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006267"
+        "previous_matchday_id": "8006266",
+        "current_matchday_id": "8006267",
+        "next_matchday_id": "8006094",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006266",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006267",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006094"
     },
     "liga_mx_femenil": {
         "name": "Liga MX Femenil",

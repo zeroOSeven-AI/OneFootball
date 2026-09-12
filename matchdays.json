@@ -278,12 +278,12 @@
         "name": "Taça de Portugal",
         "competition_id": 77,
         "season_id": 39099,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7993368",
-        "next_matchday_id": "7993369",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993368",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993369"
+        "previous_matchday_id": "7993368",
+        "current_matchday_id": "7993369",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993368",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993369",
+        "next_mixer_url": null
     },
     "türkiye_kupasi": {
         "name": "Türkiye Kupasi",
@@ -1334,12 +1334,12 @@
         "name": "OTP Bank Liga",
         "competition_id": 2749,
         "season_id": 39249,
-        "previous_matchday_id": "7972255",
-        "current_matchday_id": "7972256",
-        "next_matchday_id": "7972257",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972255",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972256",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972257"
+        "previous_matchday_id": "7972256",
+        "current_matchday_id": "7972257",
+        "next_matchday_id": "7972258",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972256",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972257",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972258"
     },
     "liga_de_ascenso": {
         "name": "Liga de Ascenso",
@@ -1444,12 +1444,12 @@
         "name": "Veikkausliiga",
         "competition_id": 680,
         "season_id": 39186,
-        "previous_matchday_id": "8006266",
-        "current_matchday_id": "8006267",
-        "next_matchday_id": "8006094",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006266",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006267",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006094"
+        "previous_matchday_id": "8006267",
+        "current_matchday_id": "8006094",
+        "next_matchday_id": "8006095",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006267",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006094",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006095"
     },
     "liga_mx_femenil": {
         "name": "Liga MX Femenil",

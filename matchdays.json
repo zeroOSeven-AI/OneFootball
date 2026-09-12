@@ -179,12 +179,12 @@
         "name": "Brasileirão Série B",
         "competition_id": 119,
         "season_id": 39223,
-        "previous_matchday_id": "7904218",
-        "current_matchday_id": "7904219",
-        "next_matchday_id": "7904220",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904218",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904219",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904220"
+        "previous_matchday_id": "7904219",
+        "current_matchday_id": "7904220",
+        "next_matchday_id": "7904221",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904219",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904220",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7904221"
     },
     "1._division": {
         "name": "1. Division",
@@ -1510,12 +1510,12 @@
         "name": "Ligue 1 Tunisia",
         "competition_id": 2687,
         "season_id": 39405,
-        "previous_matchday_id": "7991521",
-        "current_matchday_id": "7991522",
-        "next_matchday_id": "7991523",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991521",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991522",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991523"
+        "previous_matchday_id": "7991522",
+        "current_matchday_id": "7991523",
+        "next_matchday_id": "7991524",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991522",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991523",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991524"
     },
     "honduran_liga_nacional": {
         "name": "Honduran Liga Nacional",

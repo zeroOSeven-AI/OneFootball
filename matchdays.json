@@ -443,12 +443,12 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "7931985",
-        "current_matchday_id": "8007071",
-        "next_matchday_id": "7931986",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931985",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007071",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931986"
+        "previous_matchday_id": "8007071",
+        "current_matchday_id": "7931986",
+        "next_matchday_id": "7931987",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007071",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931986",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931987"
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",
@@ -1499,23 +1499,23 @@
         "name": "A Lyga",
         "competition_id": 2748,
         "season_id": 39231,
-        "previous_matchday_id": "7960516",
-        "current_matchday_id": "7960517",
-        "next_matchday_id": "7960518",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960516",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960517",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960518"
+        "previous_matchday_id": "7960517",
+        "current_matchday_id": "7960518",
+        "next_matchday_id": "7960519",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960517",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960518",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960519"
     },
     "ligue_1_tunisia": {
         "name": "Ligue 1 Tunisia",
         "competition_id": 2687,
         "season_id": 39405,
-        "previous_matchday_id": "7991522",
-        "current_matchday_id": "7991523",
-        "next_matchday_id": "7991524",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991522",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991523",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991524"
+        "previous_matchday_id": "7991523",
+        "current_matchday_id": "7991524",
+        "next_matchday_id": "7991525",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991523",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991524",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991525"
     },
     "honduran_liga_nacional": {
         "name": "Honduran Liga Nacional",
@@ -2018,10 +2018,10 @@
         "season_id": 39295,
         "previous_matchday_id": "7989396",
         "current_matchday_id": "7998093",
-        "next_matchday_id": null,
+        "next_matchday_id": "8011566",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989396",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998093",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011566"
     },
     "tocantinense": {
         "name": "Tocantinense",

@@ -500,10 +500,10 @@
         "season_id": 39075,
         "previous_matchday_id": "7976958",
         "current_matchday_id": "8002071",
-        "next_matchday_id": null,
+        "next_matchday_id": "8011648",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7976958",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002071",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011648"
     },
     "major_league_score": {
         "name": "Major League Score",

@@ -443,23 +443,23 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "8002312",
-        "current_matchday_id": "7931985",
-        "next_matchday_id": "8007071",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002312",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931985",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007071"
+        "previous_matchday_id": "7931985",
+        "current_matchday_id": "8007071",
+        "next_matchday_id": "7931986",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931985",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007071",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931986"
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",
         "competition_id": 39,
         "season_id": 39242,
-        "previous_matchday_id": "7970135",
-        "current_matchday_id": "7970136",
-        "next_matchday_id": "7970137",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970135",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970136",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970137"
+        "previous_matchday_id": "7970136",
+        "current_matchday_id": "7970137",
+        "next_matchday_id": "7970138",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970136",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970137",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970138"
     },
     "scottish_championship": {
         "name": "Scottish Championship",
@@ -1796,12 +1796,12 @@
         "name": "Championnat National 3",
         "competition_id": 1723,
         "season_id": 39258,
-        "previous_matchday_id": "7989727",
-        "current_matchday_id": "7989728",
-        "next_matchday_id": "7989729",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989727",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989728",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989729"
+        "previous_matchday_id": "7989728",
+        "current_matchday_id": "7989729",
+        "next_matchday_id": "7989730",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989728",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989729",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989730"
     },
     "paulista_série_a2": {
         "name": "Paulista Série A2",

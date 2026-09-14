@@ -597,12 +597,12 @@
         "name": "Torneo Apertura",
         "competition_id": 177,
         "season_id": 39188,
-        "previous_matchday_id": "7994651",
-        "current_matchday_id": "7994652",
-        "next_matchday_id": "7994653",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994651",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994652",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994653"
+        "previous_matchday_id": "7994652",
+        "current_matchday_id": "7994653",
+        "next_matchday_id": "7994654",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994652",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994653",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994654"
     },
     "regionalliga_südwest": {
         "name": "Regionalliga Südwest",
@@ -1059,12 +1059,12 @@
         "name": "Premier Division",
         "competition_id": 191,
         "season_id": 39163,
-        "previous_matchday_id": "7857736",
-        "current_matchday_id": "7857737",
-        "next_matchday_id": "7857738",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857736",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857737",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857738"
+        "previous_matchday_id": "7857737",
+        "current_matchday_id": "7857738",
+        "next_matchday_id": "7857739",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857737",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857738",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857739"
     },
     "chinese_super_league": {
         "name": "Chinese Super League",

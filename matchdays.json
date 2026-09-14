@@ -1235,12 +1235,12 @@
         "name": "3. Liga",
         "competition_id": 3,
         "season_id": 39302,
-        "previous_matchday_id": "7980946",
-        "current_matchday_id": "7980947",
-        "next_matchday_id": "7980948",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980946",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980947",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980948"
+        "previous_matchday_id": "7980947",
+        "current_matchday_id": "7980948",
+        "next_matchday_id": "7980949",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980947",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980948",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980949"
     },
     "i-league": {
         "name": "I-League",
@@ -1323,12 +1323,12 @@
         "name": "Serie C",
         "competition_id": 144,
         "season_id": 39345,
-        "previous_matchday_id": "7991202",
-        "current_matchday_id": "7991203",
-        "next_matchday_id": "7991204",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991202",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991203",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991204"
+        "previous_matchday_id": "7991203",
+        "current_matchday_id": "7991204",
+        "next_matchday_id": "7991205",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991203",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991204",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991205"
     },
     "otp_bank_liga": {
         "name": "OTP Bank Liga",

@@ -2403,10 +2403,10 @@
         "season_id": 39296,
         "previous_matchday_id": "7995725",
         "current_matchday_id": "8003011",
-        "next_matchday_id": null,
+        "next_matchday_id": "8013229",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995725",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8003011",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013229"
     },
     "copa_do_brasil": {
         "name": "Copa do Brasil",

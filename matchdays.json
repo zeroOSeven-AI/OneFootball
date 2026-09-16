@@ -2621,12 +2621,12 @@
         "name": "UEFA Women's Champions League",
         "competition_id": 2702,
         "season_id": 39366,
-        "previous_matchday_id": "7995950",
-        "current_matchday_id": "7995951",
-        "next_matchday_id": "8007623",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995950",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995951",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007623"
+        "previous_matchday_id": "7995951",
+        "current_matchday_id": "8007623",
+        "next_matchday_id": "8007624",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995951",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007623",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007624"
     },
     "kupa_e_shqipërisë": {
         "name": "Kupa e Shqipërisë",
@@ -2676,12 +2676,12 @@
         "name": "Copa Rio",
         "competition_id": 213,
         "season_id": 38863,
-        "previous_matchday_id": "7996678",
-        "current_matchday_id": "7996679",
-        "next_matchday_id": "8006379",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996678",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996679",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006379"
+        "previous_matchday_id": "7996679",
+        "current_matchday_id": "8012208",
+        "next_matchday_id": "8012209",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996679",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012208",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012209"
     },
     "europa_league": {
         "name": "Europa League",

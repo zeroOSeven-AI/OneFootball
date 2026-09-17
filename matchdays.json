@@ -2568,10 +2568,10 @@
         "season_id": 39089,
         "previous_matchday_id": "7991060",
         "current_matchday_id": "7991061",
-        "next_matchday_id": null,
+        "next_matchday_id": "8013420",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991060",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991061",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013420"
     },
     "copa_colombia": {
         "name": "Copa Colombia",

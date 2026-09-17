@@ -2458,10 +2458,10 @@
         "season_id": 39266,
         "previous_matchday_id": "7967203",
         "current_matchday_id": "7994306",
-        "next_matchday_id": null,
+        "next_matchday_id": "8013557",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7967203",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994306",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013557"
     },
     "dbu_pokalen": {
         "name": "DBU Pokalen",

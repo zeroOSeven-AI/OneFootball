@@ -291,10 +291,10 @@
         "season_id": 39369,
         "previous_matchday_id": null,
         "current_matchday_id": "8005611",
-        "next_matchday_id": null,
+        "next_matchday_id": "8014084",
         "previous_mixer_url": null,
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005611",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8014084"
     },
     "conmebol_world_cup_qualifying": {
         "name": "CONMEBOL World Cup Qualifying",
@@ -388,12 +388,12 @@
         "name": "Eerste Divisie",
         "competition_id": 101,
         "season_id": 39256,
-        "previous_matchday_id": "7965787",
-        "current_matchday_id": "7965788",
-        "next_matchday_id": "7965789",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965787",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965788",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965789"
+        "previous_matchday_id": "7965789",
+        "current_matchday_id": "7965790",
+        "next_matchday_id": "7965791",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965789",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965790",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7965791"
     },
     "j.league": {
         "name": "J.League",

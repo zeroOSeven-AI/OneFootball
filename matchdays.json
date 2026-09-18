@@ -1323,12 +1323,12 @@
         "name": "Serie C",
         "competition_id": 144,
         "season_id": 39345,
-        "previous_matchday_id": "7991203",
-        "current_matchday_id": "7991204",
-        "next_matchday_id": "7991205",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991203",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991204",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991205"
+        "previous_matchday_id": "7991204",
+        "current_matchday_id": "7991205",
+        "next_matchday_id": "7991206",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991204",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991205",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991206"
     },
     "otp_bank_liga": {
         "name": "OTP Bank Liga",
@@ -1444,12 +1444,12 @@
         "name": "Veikkausliiga",
         "competition_id": 680,
         "season_id": 39186,
-        "previous_matchday_id": "8006094",
-        "current_matchday_id": "8006095",
-        "next_matchday_id": "8006268",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006094",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006095",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006268"
+        "previous_matchday_id": "8006095",
+        "current_matchday_id": "8006268",
+        "next_matchday_id": "8006096",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006095",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006268",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006096"
     },
     "liga_mx_femenil": {
         "name": "Liga MX Femenil",

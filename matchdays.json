@@ -1699,10 +1699,10 @@
         "season_id": 39144,
         "previous_matchday_id": "8008497",
         "current_matchday_id": "8008498",
-        "next_matchday_id": null,
+        "next_matchday_id": "8014715",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8008497",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8008498",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8014715"
     },
     "copa_do_nordeste": {
         "name": "Copa do Nordeste",

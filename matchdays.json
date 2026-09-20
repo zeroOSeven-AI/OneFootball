@@ -443,12 +443,12 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "7931987",
-        "current_matchday_id": "7931988",
-        "next_matchday_id": "8002314",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931987",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931988",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002314"
+        "previous_matchday_id": "7931988",
+        "current_matchday_id": "8002314",
+        "next_matchday_id": "7931989",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931988",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002314",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931989"
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",
@@ -1510,12 +1510,12 @@
         "name": "Ligue 1 Tunisia",
         "competition_id": 2687,
         "season_id": 39405,
-        "previous_matchday_id": "7991523",
-        "current_matchday_id": "7991524",
-        "next_matchday_id": "7991525",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991523",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991524",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991525"
+        "previous_matchday_id": "7991524",
+        "current_matchday_id": "7991525",
+        "next_matchday_id": "7991526",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991524",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991525",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991526"
     },
     "honduran_liga_nacional": {
         "name": "Honduran Liga Nacional",

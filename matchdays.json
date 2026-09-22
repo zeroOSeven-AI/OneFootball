@@ -2469,10 +2469,10 @@
         "season_id": 39322,
         "previous_matchday_id": "7994606",
         "current_matchday_id": "8003574",
-        "next_matchday_id": null,
+        "next_matchday_id": "8013794",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994606",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8003574",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013794"
     },
     "knvb_beker": {
         "name": "KNVB Beker",
@@ -2489,12 +2489,12 @@
         "name": "Copa de la Reina",
         "competition_id": 2742,
         "season_id": 39206,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7999856",
-        "next_matchday_id": "8010523",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999856",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010523"
+        "previous_matchday_id": "7999856",
+        "current_matchday_id": "8010523",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999856",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010523",
+        "next_mixer_url": null
     },
     "copa_do_brasil_u20": {
         "name": "Copa do Brasil U20",

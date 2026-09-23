@@ -280,10 +280,10 @@
         "season_id": 39099,
         "previous_matchday_id": "7993368",
         "current_matchday_id": "7993369",
-        "next_matchday_id": null,
+        "next_matchday_id": "8016602",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993368",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993369",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016602"
     },
     "türkiye_kupasi": {
         "name": "Türkiye Kupasi",
@@ -2159,12 +2159,12 @@
         "name": "Copa Santa Catarina",
         "competition_id": 1894,
         "season_id": 38571,
-        "previous_matchday_id": "7984988",
-        "current_matchday_id": "7984989",
-        "next_matchday_id": "7984990",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984988",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984989",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984990"
+        "previous_matchday_id": "7984989",
+        "current_matchday_id": "7984990",
+        "next_matchday_id": "7984991",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984989",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984990",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984991"
     },
     "alagoano": {
         "name": "Alagoano",
@@ -2634,10 +2634,10 @@
         "season_id": 39448,
         "previous_matchday_id": null,
         "current_matchday_id": "7999908",
-        "next_matchday_id": null,
+        "next_matchday_id": "8016613",
         "previous_mixer_url": null,
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999908",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016613"
     },
     "mls_all-star_game": {
         "name": "MLS All-Star Game",

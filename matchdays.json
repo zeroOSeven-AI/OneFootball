@@ -344,12 +344,12 @@
         "name": "International Friendlies",
         "competition_id": 24,
         "season_id": 39240,
-        "previous_matchday_id": "7975656",
-        "current_matchday_id": "7983452",
-        "next_matchday_id": "7983453",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975656",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983452",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983453"
+        "previous_matchday_id": "7983452",
+        "current_matchday_id": "7983453",
+        "next_matchday_id": "8013600",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983452",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983453",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013600"
     },
     "brasileirão_série_c": {
         "name": "Brasileirão Série C",
@@ -1059,12 +1059,12 @@
         "name": "Premier Division",
         "competition_id": 191,
         "season_id": 39163,
-        "previous_matchday_id": "7857738",
-        "current_matchday_id": "7857739",
-        "next_matchday_id": "7857740",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857738",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857739",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857740"
+        "previous_matchday_id": "7857739",
+        "current_matchday_id": "7857740",
+        "next_matchday_id": "7857741",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857739",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857740",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7857741"
     },
     "chinese_super_league": {
         "name": "Chinese Super League",
@@ -1917,12 +1917,12 @@
         "name": "Championnat National 2",
         "competition_id": 1722,
         "season_id": 39257,
-        "previous_matchday_id": "7986874",
-        "current_matchday_id": "7986875",
-        "next_matchday_id": "7986876",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986874",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986875",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986876"
+        "previous_matchday_id": "7986875",
+        "current_matchday_id": "7986876",
+        "next_matchday_id": "7986877",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986875",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986876",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986877"
     },
     "nwsl": {
         "name": "NWSL",

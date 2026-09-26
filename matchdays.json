@@ -1257,12 +1257,12 @@
         "name": "Saudi Professional League",
         "competition_id": 111,
         "season_id": 39355,
-        "previous_matchday_id": "7988428",
-        "current_matchday_id": "7988717",
-        "next_matchday_id": "7988718",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988428",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988717",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988718"
+        "previous_matchday_id": "7988717",
+        "current_matchday_id": "7988718",
+        "next_matchday_id": "7988719",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988717",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988718",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988719"
     },
     "canadian_premier_league": {
         "name": "Canadian Premier League",
@@ -1598,12 +1598,12 @@
         "name": "Division 1 Féminine",
         "competition_id": 2703,
         "season_id": 39254,
-        "previous_matchday_id": "7978680",
-        "current_matchday_id": "7978681",
-        "next_matchday_id": "7978682",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978680",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978681",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978682"
+        "previous_matchday_id": "7978681",
+        "current_matchday_id": "7978682",
+        "next_matchday_id": "7978683",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978681",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978682",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978683"
     },
     "k-league_promotion_playoff": {
         "name": "K-League Promotion Playoff",

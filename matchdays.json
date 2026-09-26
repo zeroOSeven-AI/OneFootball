@@ -476,23 +476,23 @@
         "name": "Scottish League One",
         "competition_id": 99,
         "season_id": 39269,
-        "previous_matchday_id": "7970065",
-        "current_matchday_id": "7970066",
-        "next_matchday_id": "7970067",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970065",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970066",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970067"
+        "previous_matchday_id": "7970066",
+        "current_matchday_id": "7970067",
+        "next_matchday_id": "7970068",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970066",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970067",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970068"
     },
     "scottish_league_two": {
         "name": "Scottish League Two",
         "competition_id": 100,
         "season_id": 39271,
-        "previous_matchday_id": "7970101",
-        "current_matchday_id": "7970102",
-        "next_matchday_id": "7970103",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970101",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970102",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970103"
+        "previous_matchday_id": "7970102",
+        "current_matchday_id": "7970103",
+        "next_matchday_id": "7970104",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970102",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970103",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970104"
     },
     "scottish_cup": {
         "name": "Scottish Cup",
@@ -883,12 +883,12 @@
         "name": "CONCACAF Nations League",
         "competition_id": 2730,
         "season_id": 39097,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7988501",
-        "next_matchday_id": "7988502",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988501",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988502"
+        "previous_matchday_id": "7988501",
+        "current_matchday_id": "7988502",
+        "next_matchday_id": "7988503",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988501",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988502",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988503"
     },
     "primera_b_metropolitana": {
         "name": "Primera B Metropolitana",

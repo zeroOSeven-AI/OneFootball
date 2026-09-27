@@ -1796,12 +1796,12 @@
         "name": "Championnat National 3",
         "competition_id": 1723,
         "season_id": 39258,
-        "previous_matchday_id": "7989728",
-        "current_matchday_id": "7989729",
-        "next_matchday_id": "7989730",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989728",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989729",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989730"
+        "previous_matchday_id": "7989729",
+        "current_matchday_id": "7989730",
+        "next_matchday_id": "7989731",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989729",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989730",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989731"
     },
     "paulista_série_a2": {
         "name": "Paulista Série A2",

@@ -443,12 +443,12 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "8002314",
-        "current_matchday_id": "7931989",
-        "next_matchday_id": "8002315",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002314",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931989",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002315"
+        "previous_matchday_id": "7931989",
+        "current_matchday_id": "8002315",
+        "next_matchday_id": "8002262",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7931989",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002315",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002262"
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",
@@ -575,12 +575,12 @@
         "name": "Africa Cup Of Nations Qualifiers",
         "competition_id": 2695,
         "season_id": 39111,
-        "previous_matchday_id": "7885930",
-        "current_matchday_id": "8007200",
-        "next_matchday_id": "8007201",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885930",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007200",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007201"
+        "previous_matchday_id": "8007200",
+        "current_matchday_id": "8007201",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007200",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007201",
+        "next_mixer_url": null
     },
     "a-league": {
         "name": "A-League",

@@ -544,10 +544,10 @@
         "season_id": 38829,
         "previous_matchday_id": "8006711",
         "current_matchday_id": "8006712",
-        "next_matchday_id": null,
+        "next_matchday_id": "8018571",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006711",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006712",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8018571"
     },
     "super_league": {
         "name": "Super League",
@@ -1666,10 +1666,10 @@
         "season_id": 39309,
         "previous_matchday_id": "7975788",
         "current_matchday_id": "7998509",
-        "next_matchday_id": null,
+        "next_matchday_id": "8018534",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7975788",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998509",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8018534"
     },
     "roraimense": {
         "name": "Roraimense",

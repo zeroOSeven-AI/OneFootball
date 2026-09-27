@@ -168,12 +168,12 @@
         "name": "Ledman LigaPro",
         "competition_id": 142,
         "season_id": 39317,
-        "previous_matchday_id": "7977732",
-        "current_matchday_id": "7977733",
-        "next_matchday_id": "7977734",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977732",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977733",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977734"
+        "previous_matchday_id": "7977733",
+        "current_matchday_id": "7977734",
+        "next_matchday_id": "7977735",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977733",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977734",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977735"
     },
     "brasileirão_série_b": {
         "name": "Brasileirão Série B",
@@ -234,12 +234,12 @@
         "name": "UEFAd Nations League",
         "competition_id": 2349,
         "season_id": 39228,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7907850",
-        "next_matchday_id": "7907851",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907850",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907851"
+        "previous_matchday_id": "7907850",
+        "current_matchday_id": "7907851",
+        "next_matchday_id": "7907852",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907850",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907851",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907852"
     },
     "fifa_world_cup": {
         "name": "FIFA World Cup",
@@ -982,12 +982,12 @@
         "name": "Frauenbundesliga",
         "competition_id": 47,
         "season_id": 39265,
-        "previous_matchday_id": "7984527",
-        "current_matchday_id": "7984528",
-        "next_matchday_id": "7984529",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984527",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984528",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984529"
+        "previous_matchday_id": "7984528",
+        "current_matchday_id": "7984529",
+        "next_matchday_id": "7984530",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984528",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984529",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984530"
     },
     "fortuna_liga": {
         "name": "Fortuna liga",

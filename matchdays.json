@@ -80,12 +80,12 @@
         "name": "Russian Premier League",
         "competition_id": 14,
         "season_id": 39268,
-        "previous_matchday_id": "7973518",
-        "current_matchday_id": "7973519",
-        "next_matchday_id": "7973520",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973518",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973519",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973520"
+        "previous_matchday_id": "7973519",
+        "current_matchday_id": "7973520",
+        "next_matchday_id": "7973521",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973519",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973520",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973521"
     },
     "süper_lig": {
         "name": "Süper Lig",

@@ -663,12 +663,12 @@
         "name": "Egyptian Premier League",
         "competition_id": 2732,
         "season_id": 39100,
-        "previous_matchday_id": "7994023",
-        "current_matchday_id": "7994024",
-        "next_matchday_id": "7994025",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994023",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994024",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994025"
+        "previous_matchday_id": "7994024",
+        "current_matchday_id": "7994025",
+        "next_matchday_id": "7994026",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994024",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994025",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994026"
     },
     "division_1a": {
         "name": "Division 1A",
@@ -740,12 +740,12 @@
         "name": "AFC Champions League",
         "competition_id": 155,
         "season_id": 39155,
-        "previous_matchday_id": "7986828",
-        "current_matchday_id": "7999138",
-        "next_matchday_id": "7999139",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986828",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999138",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999139"
+        "previous_matchday_id": "7999138",
+        "current_matchday_id": "7999139",
+        "next_matchday_id": "7999140",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999138",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999139",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999140"
     },
     "primera_a_apertura": {
         "name": "Primera A Apertura",
@@ -883,12 +883,12 @@
         "name": "CONCACAF Nations League",
         "competition_id": 2730,
         "season_id": 39097,
-        "previous_matchday_id": "7988501",
-        "current_matchday_id": "7988502",
-        "next_matchday_id": "7988503",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988501",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988502",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988503"
+        "previous_matchday_id": "7988502",
+        "current_matchday_id": "7988503",
+        "next_matchday_id": "7988504",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988502",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988503",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988504"
     },
     "primera_b_metropolitana": {
         "name": "Primera B Metropolitana",

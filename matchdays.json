@@ -1631,12 +1631,12 @@
         "name": "Copa Fares Lopes",
         "competition_id": 1891,
         "season_id": 38901,
-        "previous_matchday_id": "7741283",
-        "current_matchday_id": "7767680",
-        "next_matchday_id": null,
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7741283",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7767680",
-        "next_mixer_url": null
+        "previous_matchday_id": null,
+        "current_matchday_id": "8012037",
+        "next_matchday_id": "8012038",
+        "previous_mixer_url": null,
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012037",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012038"
     },
     "süper_kupa": {
         "name": "Süper Kupa",
@@ -2621,23 +2621,23 @@
         "name": "UEFA Women's Champions League",
         "competition_id": 2702,
         "season_id": 39366,
-        "previous_matchday_id": "7995951",
-        "current_matchday_id": "8007623",
-        "next_matchday_id": "8007624",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995951",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007623",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007624"
+        "previous_matchday_id": "8007623",
+        "current_matchday_id": "8007624",
+        "next_matchday_id": "8007625",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007623",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007624",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007625"
     },
     "kupa_e_shqipërisë": {
         "name": "Kupa e Shqipërisë",
         "competition_id": 136,
         "season_id": 39448,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7999908",
-        "next_matchday_id": "8016613",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999908",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016613"
+        "previous_matchday_id": "7999908",
+        "current_matchday_id": "8016613",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999908",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016613",
+        "next_mixer_url": null
     },
     "mls_all-star_game": {
         "name": "MLS All-Star Game",
@@ -2676,12 +2676,12 @@
         "name": "Copa Rio",
         "competition_id": 213,
         "season_id": 38863,
-        "previous_matchday_id": "8012209",
-        "current_matchday_id": "8012210",
-        "next_matchday_id": "8012211",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012209",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012210",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012211"
+        "previous_matchday_id": "8012210",
+        "current_matchday_id": "8012211",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012210",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012211",
+        "next_mixer_url": null
     },
     "europa_league": {
         "name": "Europa League",

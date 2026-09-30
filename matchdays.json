@@ -2368,12 +2368,12 @@
         "name": "DFB Pokal",
         "competition_id": 4,
         "season_id": 39263,
-        "previous_matchday_id": null,
-        "current_matchday_id": "7964067",
-        "next_matchday_id": "8007668",
-        "previous_mixer_url": null,
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964067",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007668"
+        "previous_matchday_id": "7964067",
+        "current_matchday_id": "8007668",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7964067",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007668",
+        "next_mixer_url": null
     },
     "coppa_italia": {
         "name": "Coppa Italia",

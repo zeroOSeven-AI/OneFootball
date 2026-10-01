@@ -2335,12 +2335,12 @@
         "name": "CONMEBOL Libertadores",
         "competition_id": 76,
         "season_id": 39157,
-        "previous_matchday_id": "7996688",
-        "current_matchday_id": "7996689",
-        "next_matchday_id": "7996690",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996688",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996689",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996690"
+        "previous_matchday_id": "7996689",
+        "current_matchday_id": "7996690",
+        "next_matchday_id": "7996691",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996689",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996690",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996691"
     },
     "copa_sudamericana": {
         "name": "Copa Sudamericana",

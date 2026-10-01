@@ -2687,11 +2687,11 @@
         "name": "Europa League",
         "competition_id": 7,
         "season_id": 39357,
-        "previous_matchday_id": "7992840",
-        "current_matchday_id": "8004396",
-        "next_matchday_id": "8004397",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7992840",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004396",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004397"
+        "previous_matchday_id": "8004396",
+        "current_matchday_id": "8004397",
+        "next_matchday_id": "8004398",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004396",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004397",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004398"
     }
 }

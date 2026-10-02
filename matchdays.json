@@ -1125,12 +1125,12 @@
         "name": "USL Championship",
         "competition_id": 2750,
         "season_id": 39233,
-        "previous_matchday_id": "7858532",
-        "current_matchday_id": "7858533",
-        "next_matchday_id": "7858534",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858532",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858533",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858534"
+        "previous_matchday_id": "7858533",
+        "current_matchday_id": "7858534",
+        "next_matchday_id": "7858535",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858533",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858534",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858535"
     },
     "challenge_league": {
         "name": "Challenge League",
@@ -1268,12 +1268,12 @@
         "name": "Canadian Premier League",
         "competition_id": 2705,
         "season_id": 39220,
-        "previous_matchday_id": "7900174",
-        "current_matchday_id": "7900175",
-        "next_matchday_id": "7900176",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900174",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900175",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900176"
+        "previous_matchday_id": "7900175",
+        "current_matchday_id": "7900176",
+        "next_matchday_id": "7900177",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900175",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900176",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900177"
     },
     "concacaf_gold_cup": {
         "name": "CONCACAF Gold Cup",

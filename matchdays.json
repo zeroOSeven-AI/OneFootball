@@ -2159,12 +2159,12 @@
         "name": "Copa Santa Catarina",
         "competition_id": 1894,
         "season_id": 38571,
-        "previous_matchday_id": "7984989",
-        "current_matchday_id": "7984990",
-        "next_matchday_id": "7984991",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984989",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984990",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984991"
+        "previous_matchday_id": "7984990",
+        "current_matchday_id": "7984991",
+        "next_matchday_id": "7984992",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984990",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984991",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984992"
     },
     "alagoano": {
         "name": "Alagoano",

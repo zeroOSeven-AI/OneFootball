@@ -500,10 +500,10 @@
         "season_id": 39075,
         "previous_matchday_id": "8002071",
         "current_matchday_id": "8011648",
-        "next_matchday_id": null,
+        "next_matchday_id": "8022551",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002071",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011648",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022551"
     },
     "major_league_score": {
         "name": "Major League Score",
@@ -883,12 +883,12 @@
         "name": "CONCACAF Nations League",
         "competition_id": 2730,
         "season_id": 39097,
-        "previous_matchday_id": "7988503",
-        "current_matchday_id": "7988504",
-        "next_matchday_id": "7988505",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988503",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988504",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988505"
+        "previous_matchday_id": "7988504",
+        "current_matchday_id": "7988505",
+        "next_matchday_id": "7988506",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988504",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988505",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988506"
     },
     "primera_b_metropolitana": {
         "name": "Primera B Metropolitana",

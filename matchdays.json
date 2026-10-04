@@ -234,12 +234,12 @@
         "name": "UEFAd Nations League",
         "competition_id": 2349,
         "season_id": 39228,
-        "previous_matchday_id": "7907851",
-        "current_matchday_id": "7907852",
-        "next_matchday_id": "7907853",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907851",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907852",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907853"
+        "previous_matchday_id": "7907852",
+        "current_matchday_id": "7907853",
+        "next_matchday_id": "7907854",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907852",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907853",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907854"
     },
     "fifa_world_cup": {
         "name": "FIFA World Cup",
@@ -1378,12 +1378,12 @@
         "name": "Torneo Guardianes",
         "competition_id": 89,
         "season_id": 39248,
-        "previous_matchday_id": "7966336",
-        "current_matchday_id": "7966337",
-        "next_matchday_id": "7966338",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966336",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966337",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966338"
+        "previous_matchday_id": "7966337",
+        "current_matchday_id": "7966338",
+        "next_matchday_id": "7966339",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966337",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966338",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966339"
     },
     "regionalliga_bayern": {
         "name": "Regionalliga Bayern",
@@ -1499,12 +1499,12 @@
         "name": "A Lyga",
         "competition_id": 2748,
         "season_id": 39231,
-        "previous_matchday_id": "7960517",
-        "current_matchday_id": "7960518",
-        "next_matchday_id": "7960519",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960517",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960518",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960519"
+        "previous_matchday_id": "7960518",
+        "current_matchday_id": "7960519",
+        "next_matchday_id": "7960520",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960518",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960519",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7960520"
     },
     "ligue_1_tunisia": {
         "name": "Ligue 1 Tunisia",
@@ -2115,12 +2115,12 @@
         "name": "Campeonato de Portugal",
         "competition_id": 2698,
         "season_id": 39330,
-        "previous_matchday_id": "7990462",
-        "current_matchday_id": "7990463",
-        "next_matchday_id": "7990464",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990462",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990463",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990464"
+        "previous_matchday_id": "7990463",
+        "current_matchday_id": "7990464",
+        "next_matchday_id": "7990465",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990463",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990464",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990465"
     },
     "mineiro": {
         "name": "Mineiro",

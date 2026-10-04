@@ -1092,12 +1092,12 @@
         "name": "Peru Liga 1",
         "competition_id": 176,
         "season_id": 39189,
-        "previous_matchday_id": "7979432",
-        "current_matchday_id": "7979433",
-        "next_matchday_id": "7979434",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979432",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979433",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979434"
+        "previous_matchday_id": "7979433",
+        "current_matchday_id": "7979434",
+        "next_matchday_id": "7979435",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979433",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979434",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979435"
     },
     "regionalliga_west": {
         "name": "Regionalliga West",

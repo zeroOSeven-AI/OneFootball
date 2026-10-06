@@ -1752,12 +1752,12 @@
         "name": "National League",
         "competition_id": 97,
         "season_id": 39334,
-        "previous_matchday_id": "7981516",
-        "current_matchday_id": "7981517",
-        "next_matchday_id": "7981518",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981516",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981517",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981518"
+        "previous_matchday_id": "7981517",
+        "current_matchday_id": "7981518",
+        "next_matchday_id": "7981519",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981517",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981518",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981519"
     },
     "supercoppa_italiana": {
         "name": "Supercoppa Italiana",
@@ -2456,12 +2456,12 @@
         "name": "Puchar Polski",
         "competition_id": 106,
         "season_id": 39266,
-        "previous_matchday_id": "7967203",
-        "current_matchday_id": "7994306",
-        "next_matchday_id": "8013557",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7967203",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994306",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013557"
+        "previous_matchday_id": "7994306",
+        "current_matchday_id": "8013557",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994306",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013557",
+        "next_mixer_url": null
     },
     "dbu_pokalen": {
         "name": "DBU Pokalen",

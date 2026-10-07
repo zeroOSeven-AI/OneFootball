@@ -2016,12 +2016,12 @@
         "name": "Scottish League Cup",
         "competition_id": 2712,
         "season_id": 39295,
-        "previous_matchday_id": "7989396",
-        "current_matchday_id": "7998093",
-        "next_matchday_id": "8011566",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989396",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998093",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011566"
+        "previous_matchday_id": "7998093",
+        "current_matchday_id": "8011566",
+        "next_matchday_id": "8011567",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998093",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011566",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011567"
     },
     "tocantinense": {
         "name": "Tocantinense",
@@ -2533,12 +2533,12 @@
         "name": "Greek Cup",
         "competition_id": 126,
         "season_id": 39107,
-        "previous_matchday_id": "8002550",
-        "current_matchday_id": "8002551",
-        "next_matchday_id": "8002552",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002550",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002551",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002552"
+        "previous_matchday_id": "8002551",
+        "current_matchday_id": "8002552",
+        "next_matchday_id": "8002553",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002551",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002552",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002553"
     },
     "beker_van_belgië": {
         "name": "Beker van België",

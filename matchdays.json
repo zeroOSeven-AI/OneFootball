@@ -2634,10 +2634,10 @@
         "season_id": 39448,
         "previous_matchday_id": "7999908",
         "current_matchday_id": "8016613",
-        "next_matchday_id": null,
+        "next_matchday_id": "8024057",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999908",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016613",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024057"
     },
     "mls_all-star_game": {
         "name": "MLS All-Star Game",

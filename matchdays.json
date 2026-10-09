@@ -432,12 +432,12 @@
         "name": "Liga 1",
         "competition_id": 148,
         "season_id": 39218,
-        "previous_matchday_id": "7995754",
-        "current_matchday_id": "7995755",
-        "next_matchday_id": "7995756",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995754",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995755",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995756"
+        "previous_matchday_id": "7995755",
+        "current_matchday_id": "7995756",
+        "next_matchday_id": "7995757",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995755",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995756",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995757"
     },
     "professional_football_league": {
         "name": "Professional Football League",
@@ -1268,12 +1268,12 @@
         "name": "Canadian Premier League",
         "competition_id": 2705,
         "season_id": 39220,
-        "previous_matchday_id": "7900175",
-        "current_matchday_id": "7900176",
-        "next_matchday_id": "7900177",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900175",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900176",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900177"
+        "previous_matchday_id": "7900176",
+        "current_matchday_id": "7900177",
+        "next_matchday_id": "7900178",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900176",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900177",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900178"
     },
     "concacaf_gold_cup": {
         "name": "CONCACAF Gold Cup",

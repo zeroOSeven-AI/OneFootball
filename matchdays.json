@@ -291,10 +291,10 @@
         "season_id": 39369,
         "previous_matchday_id": "8005611",
         "current_matchday_id": "8014084",
-        "next_matchday_id": null,
+        "next_matchday_id": "8024915",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005611",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8014084",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024915"
     },
     "conmebol_world_cup_qualifying": {
         "name": "CONMEBOL World Cup Qualifying",
@@ -885,10 +885,10 @@
         "season_id": 39097,
         "previous_matchday_id": "7988505",
         "current_matchday_id": "7988506",
-        "next_matchday_id": null,
+        "next_matchday_id": "8024955",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988505",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988506",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024955"
     },
     "primera_b_metropolitana": {
         "name": "Primera B Metropolitana",
@@ -1213,12 +1213,12 @@
         "name": "Championnat National",
         "competition_id": 1721,
         "season_id": 39252,
-        "previous_matchday_id": "7977304",
-        "current_matchday_id": "7977305",
-        "next_matchday_id": "7977306",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977304",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977305",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977306"
+        "previous_matchday_id": "7977305",
+        "current_matchday_id": "7977306",
+        "next_matchday_id": "7977307",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977305",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977306",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977307"
     },
     "uefa_european_under-21_championship": {
         "name": "UEFA European Under-21 Championship",
@@ -1444,12 +1444,12 @@
         "name": "Veikkausliiga",
         "competition_id": 680,
         "season_id": 39186,
-        "previous_matchday_id": "8006268",
-        "current_matchday_id": "8006096",
-        "next_matchday_id": "8006269",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006268",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006096",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006269"
+        "previous_matchday_id": "8006096",
+        "current_matchday_id": "8006269",
+        "next_matchday_id": "8006097",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006096",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006269",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006097"
     },
     "liga_mx_femenil": {
         "name": "Liga MX Femenil",

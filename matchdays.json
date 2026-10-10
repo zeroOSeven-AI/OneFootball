@@ -982,12 +982,12 @@
         "name": "Frauenbundesliga",
         "competition_id": 47,
         "season_id": 39265,
-        "previous_matchday_id": "7984528",
-        "current_matchday_id": "7984529",
-        "next_matchday_id": "7984530",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984528",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984529",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984530"
+        "previous_matchday_id": "7984529",
+        "current_matchday_id": "7984530",
+        "next_matchday_id": "7984531",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984529",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984530",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984531"
     },
     "fortuna_liga": {
         "name": "Fortuna liga",
@@ -1796,12 +1796,12 @@
         "name": "Championnat National 3",
         "competition_id": 1723,
         "season_id": 39258,
-        "previous_matchday_id": "7989729",
-        "current_matchday_id": "7989730",
-        "next_matchday_id": "7989731",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989729",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989730",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989731"
+        "previous_matchday_id": "7989730",
+        "current_matchday_id": "7989731",
+        "next_matchday_id": "7989732",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989730",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989731",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989732"
     },
     "paulista_série_a2": {
         "name": "Paulista Série A2",

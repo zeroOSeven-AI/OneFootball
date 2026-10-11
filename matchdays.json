@@ -443,12 +443,12 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "8002316",
-        "current_matchday_id": "8002264",
-        "next_matchday_id": "8002265",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002316",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002264",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002265"
+        "previous_matchday_id": "8002264",
+        "current_matchday_id": "8002265",
+        "next_matchday_id": "8002317",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002264",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002265",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002317"
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",
@@ -949,12 +949,12 @@
         "name": "Damallsvenskan",
         "competition_id": 2701,
         "season_id": 39168,
-        "previous_matchday_id": "7860531",
-        "current_matchday_id": "7860532",
-        "next_matchday_id": "7860533",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860531",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860532",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860533"
+        "previous_matchday_id": "7860532",
+        "current_matchday_id": "7860533",
+        "next_matchday_id": "7860534",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860532",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860533",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860534"
     },
     "2._liga": {
         "name": "2. Liga",
@@ -1598,12 +1598,12 @@
         "name": "Division 1 Féminine",
         "competition_id": 2703,
         "season_id": 39254,
-        "previous_matchday_id": "7978681",
-        "current_matchday_id": "7978682",
-        "next_matchday_id": "7978683",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978681",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978682",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978683"
+        "previous_matchday_id": "7978682",
+        "current_matchday_id": "7978683",
+        "next_matchday_id": "7978684",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978682",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978683",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978684"
     },
     "k-league_promotion_playoff": {
         "name": "K-League Promotion Playoff",
@@ -1818,12 +1818,12 @@
         "name": "Serie A Women",
         "competition_id": 2721,
         "season_id": 39281,
-        "previous_matchday_id": "7987462",
-        "current_matchday_id": "7987463",
-        "next_matchday_id": "7987464",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987462",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987463",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987464"
+        "previous_matchday_id": "7987463",
+        "current_matchday_id": "7987464",
+        "next_matchday_id": "7987465",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987463",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987464",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987465"
     },
     "rondoniense": {
         "name": "Rondoniense",
@@ -1928,12 +1928,12 @@
         "name": "NWSL",
         "competition_id": 2700,
         "season_id": 39219,
-        "previous_matchday_id": "7887004",
-        "current_matchday_id": "7887005",
-        "next_matchday_id": "7887006",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7887004",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7887005",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7887006"
+        "previous_matchday_id": "7887005",
+        "current_matchday_id": "7887006",
+        "next_matchday_id": "7887007",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7887005",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7887006",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7887007"
     },
     "paranaense": {
         "name": "Paranaense",
@@ -2238,21 +2238,21 @@
         "season_id": 39190,
         "previous_matchday_id": "8018646",
         "current_matchday_id": "8018647",
-        "next_matchday_id": null,
+        "next_matchday_id": "8025582",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8018646",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8018647",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8025582"
     },
     "fa_women's_super_league": {
         "name": "FA Women's Super League",
         "competition_id": 2696,
         "season_id": 39287,
-        "previous_matchday_id": "7990950",
-        "current_matchday_id": "7990951",
-        "next_matchday_id": "7990952",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990950",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990951",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990952"
+        "previous_matchday_id": "7990951",
+        "current_matchday_id": "7990952",
+        "next_matchday_id": "7990953",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990951",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990952",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7990953"
     },
     "trophée_des_champions": {
         "name": "Trophée des Champions",
@@ -2280,12 +2280,12 @@
         "name": "Primera Division Women",
         "competition_id": 2704,
         "season_id": 39344,
-        "previous_matchday_id": "7977037",
-        "current_matchday_id": "7977038",
-        "next_matchday_id": "7977039",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977037",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977038",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977039"
+        "previous_matchday_id": "7977038",
+        "current_matchday_id": "7977039",
+        "next_matchday_id": "7977040",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977038",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977039",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977040"
     },
     "pernambucano_2": {
         "name": "Pernambucano 2",

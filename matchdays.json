@@ -443,12 +443,12 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "8002264",
-        "current_matchday_id": "8002265",
-        "next_matchday_id": "8002317",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002264",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002265",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002317"
+        "previous_matchday_id": "8002265",
+        "current_matchday_id": "8002317",
+        "next_matchday_id": "8002266",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002265",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002317",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002266"
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",
@@ -1455,12 +1455,12 @@
         "name": "Liga MX Femenil",
         "competition_id": 2733,
         "season_id": 39282,
-        "previous_matchday_id": "7988415",
-        "current_matchday_id": "7988416",
-        "next_matchday_id": "7988417",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988415",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988416",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988417"
+        "previous_matchday_id": "7988416",
+        "current_matchday_id": "7988417",
+        "next_matchday_id": "7988418",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988416",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988417",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988418"
     },
     "botola": {
         "name": "Botola",

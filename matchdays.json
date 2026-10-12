@@ -212,12 +212,12 @@
         "name": "FA Cup",
         "competition_id": 129,
         "season_id": 39328,
-        "previous_matchday_id": "7973647",
-        "current_matchday_id": "7973648",
-        "next_matchday_id": "7973649",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973647",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973648",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973649"
+        "previous_matchday_id": "7973648",
+        "current_matchday_id": "7973649",
+        "next_matchday_id": "7973650",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973648",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973649",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973650"
     },
     "euro_2020_qualifying": {
         "name": "Euro 2020 Qualifying",
@@ -357,10 +357,10 @@
         "season_id": 39226,
         "previous_matchday_id": "7914447",
         "current_matchday_id": "7914448",
-        "next_matchday_id": null,
+        "next_matchday_id": "8026283",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7914447",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7914448",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8026283"
     },
     "brasileirão_série_d": {
         "name": "Brasileirão Série D",
@@ -1235,12 +1235,12 @@
         "name": "3. Liga",
         "competition_id": 3,
         "season_id": 39302,
-        "previous_matchday_id": "7980949",
-        "current_matchday_id": "7980950",
-        "next_matchday_id": "7980951",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980949",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980950",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980951"
+        "previous_matchday_id": "7980950",
+        "current_matchday_id": "7980951",
+        "next_matchday_id": "7980952",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980950",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980951",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7980952"
     },
     "i-league": {
         "name": "I-League",
@@ -1466,12 +1466,12 @@
         "name": "Botola",
         "competition_id": 186,
         "season_id": 39083,
-        "previous_matchday_id": "8014527",
-        "current_matchday_id": "8022927",
-        "next_matchday_id": "8022928",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8014527",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022927",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022928"
+        "previous_matchday_id": "8022927",
+        "current_matchday_id": "8022928",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022927",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022928",
+        "next_mixer_url": null
     },
     "k-league_2": {
         "name": "K-League 2",

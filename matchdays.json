@@ -102,12 +102,12 @@
         "name": "The Championship",
         "competition_id": 27,
         "season_id": 39305,
-        "previous_matchday_id": "7973702",
-        "current_matchday_id": "7973703",
-        "next_matchday_id": "7973704",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973702",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973703",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973704"
+        "previous_matchday_id": "7973703",
+        "current_matchday_id": "7973704",
+        "next_matchday_id": "7973705",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973703",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973704",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973705"
     },
     "2._bundesliga": {
         "name": "2. Bundesliga",
@@ -2478,12 +2478,12 @@
         "name": "KNVB Beker",
         "competition_id": 105,
         "season_id": 39358,
-        "previous_matchday_id": "7995342",
-        "current_matchday_id": "8007309",
-        "next_matchday_id": "8017547",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995342",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007309",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8017547"
+        "previous_matchday_id": "8007309",
+        "current_matchday_id": "8017547",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007309",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8017547",
+        "next_mixer_url": null
     },
     "copa_de_la_reina": {
         "name": "Copa de la Reina",
@@ -2500,12 +2500,12 @@
         "name": "Copa do Brasil U20",
         "competition_id": 1898,
         "season_id": 39207,
-        "previous_matchday_id": "8005164",
-        "current_matchday_id": "8009832",
-        "next_matchday_id": "8016462",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005164",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8009832",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016462"
+        "previous_matchday_id": "8009832",
+        "current_matchday_id": "8016462",
+        "next_matchday_id": "8016463",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8009832",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016462",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016463"
     },
     "recopa_sudamericana": {
         "name": "Recopa Sudamericana",
@@ -2588,12 +2588,12 @@
         "name": "UEFA Youth League",
         "competition_id": 189,
         "season_id": 39080,
-        "previous_matchday_id": "8004714",
-        "current_matchday_id": "8005730",
-        "next_matchday_id": "8004716",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004714",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005730",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004716"
+        "previous_matchday_id": "8005730",
+        "current_matchday_id": "8004716",
+        "next_matchday_id": "8005731",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005730",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004716",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005731"
     },
     "öfb-cup": {
         "name": "ÖFB-Cup",

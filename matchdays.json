@@ -267,12 +267,12 @@
         "name": "Copa Argentina",
         "competition_id": 193,
         "season_id": 39166,
-        "previous_matchday_id": "7951084",
-        "current_matchday_id": "7999825",
-        "next_matchday_id": "8018837",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7951084",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999825",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8018837"
+        "previous_matchday_id": "7999825",
+        "current_matchday_id": "8018837",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999825",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8018837",
+        "next_mixer_url": null
     },
     "taça_de_portugal": {
         "name": "Taça de Portugal",
@@ -2621,12 +2621,12 @@
         "name": "UEFA Women's Champions League",
         "competition_id": 2702,
         "season_id": 39366,
-        "previous_matchday_id": "8007623",
-        "current_matchday_id": "8007624",
-        "next_matchday_id": "8007625",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007623",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007624",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007625"
+        "previous_matchday_id": "8007624",
+        "current_matchday_id": "8007625",
+        "next_matchday_id": "8007626",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007624",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007625",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007626"
     },
     "kupa_e_shqipërisë": {
         "name": "Kupa e Shqipërisë",

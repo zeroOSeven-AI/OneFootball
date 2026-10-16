@@ -201,12 +201,12 @@
         "name": "1. Lig",
         "competition_id": 121,
         "season_id": 39313,
-        "previous_matchday_id": "7981897",
-        "current_matchday_id": "7981898",
-        "next_matchday_id": "7981899",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981897",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981898",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981899"
+        "previous_matchday_id": "7981898",
+        "current_matchday_id": "7981899",
+        "next_matchday_id": "7981900",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981898",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981899",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981900"
     },
     "fa_cup": {
         "name": "FA Cup",
@@ -509,12 +509,12 @@
         "name": "Major League Score",
         "competition_id": 15,
         "season_id": 39121,
-        "previous_matchday_id": "7905037",
-        "current_matchday_id": "7905038",
-        "next_matchday_id": "7905039",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905037",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905038",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905039"
+        "previous_matchday_id": "7905038",
+        "current_matchday_id": "7905039",
+        "next_matchday_id": "7905040",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905038",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905039",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905040"
     },
     "primera_división": {
         "name": "Primera División",
@@ -663,12 +663,12 @@
         "name": "Egyptian Premier League",
         "competition_id": 2732,
         "season_id": 39100,
-        "previous_matchday_id": "7994024",
-        "current_matchday_id": "7994025",
-        "next_matchday_id": "7994026",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994024",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994025",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994026"
+        "previous_matchday_id": "7994025",
+        "current_matchday_id": "7994026",
+        "next_matchday_id": "7994027",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994025",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994026",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994027"
     },
     "division_1a": {
         "name": "Division 1A",
@@ -729,12 +729,12 @@
         "name": "Meistriliiga",
         "competition_id": 2747,
         "season_id": 39229,
-        "previous_matchday_id": "7895583",
-        "current_matchday_id": "7895584",
-        "next_matchday_id": "7895585",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895583",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895584",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895585"
+        "previous_matchday_id": "7895584",
+        "current_matchday_id": "7895585",
+        "next_matchday_id": "7895586",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895584",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895585",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895586"
     },
     "afc_champions_league": {
         "name": "AFC Champions League",
@@ -1114,23 +1114,23 @@
         "name": "Liga Super Malaysia",
         "competition_id": 147,
         "season_id": 39210,
-        "previous_matchday_id": "7987487",
-        "current_matchday_id": "7987488",
-        "next_matchday_id": "7987489",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987487",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987488",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987489"
+        "previous_matchday_id": "7987488",
+        "current_matchday_id": "7987489",
+        "next_matchday_id": "7987490",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987488",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987489",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987490"
     },
     "usl_championship": {
         "name": "USL Championship",
         "competition_id": 2750,
         "season_id": 39233,
-        "previous_matchday_id": "7858534",
-        "current_matchday_id": "7858535",
-        "next_matchday_id": "7858536",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858534",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858535",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858536"
+        "previous_matchday_id": "7858535",
+        "current_matchday_id": "7858536",
+        "next_matchday_id": "7858537",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858535",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858536",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7858537"
     },
     "challenge_league": {
         "name": "Challenge League",

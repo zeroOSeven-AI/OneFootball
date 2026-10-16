@@ -1136,12 +1136,12 @@
         "name": "Challenge League",
         "competition_id": 207,
         "season_id": 39326,
-        "previous_matchday_id": "7969117",
-        "current_matchday_id": "7969118",
-        "next_matchday_id": "7969119",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969117",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969118",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969119"
+        "previous_matchday_id": "7969118",
+        "current_matchday_id": "7969119",
+        "next_matchday_id": "7969120",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969118",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969119",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969120"
     },
     "primera_división_apertura": {
         "name": "Primera División Apertura",

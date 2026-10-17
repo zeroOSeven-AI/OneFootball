@@ -674,12 +674,12 @@
         "name": "Division 1A",
         "competition_id": 58,
         "season_id": 39244,
-        "previous_matchday_id": "7970314",
-        "current_matchday_id": "7970315",
-        "next_matchday_id": "7970316",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970314",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970315",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970316"
+        "previous_matchday_id": "7970315",
+        "current_matchday_id": "7970316",
+        "next_matchday_id": "7970317",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970315",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970316",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970317"
     },
     "persian_gulf_pro_league": {
         "name": "Persian Gulf Pro League",
@@ -707,12 +707,12 @@
         "name": "LigaPro Banco Pichincha",
         "competition_id": 172,
         "season_id": 39162,
-        "previous_matchday_id": "8012546",
-        "current_matchday_id": "8012547",
-        "next_matchday_id": "8012548",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012546",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012547",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012548"
+        "previous_matchday_id": "8012547",
+        "current_matchday_id": "8012548",
+        "next_matchday_id": "8012549",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012547",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012548",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012549"
     },
     "league_one": {
         "name": "League One",

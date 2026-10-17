@@ -1752,12 +1752,12 @@
         "name": "National League",
         "competition_id": 97,
         "season_id": 39334,
-        "previous_matchday_id": "7981517",
-        "current_matchday_id": "7981518",
-        "next_matchday_id": "7981519",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981517",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981518",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981519"
+        "previous_matchday_id": "7981518",
+        "current_matchday_id": "7981519",
+        "next_matchday_id": "7981520",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981518",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981519",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981520"
     },
     "supercoppa_italiana": {
         "name": "Supercoppa Italiana",

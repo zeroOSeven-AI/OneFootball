@@ -58,12 +58,12 @@
         "name": "Liga NOS Portugal",
         "competition_id": 35,
         "season_id": 39316,
-        "previous_matchday_id": "7977700",
-        "current_matchday_id": "7977701",
-        "next_matchday_id": "7977702",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977700",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977701",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977702"
+        "previous_matchday_id": "7977701",
+        "current_matchday_id": "7977702",
+        "next_matchday_id": "7977703",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977701",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977702",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977703"
     },
     "brasileirão_série_a": {
         "name": "Brasileirão Série A",
@@ -168,12 +168,12 @@
         "name": "Ledman LigaPro",
         "competition_id": 142,
         "season_id": 39317,
-        "previous_matchday_id": "7977733",
-        "current_matchday_id": "7977734",
-        "next_matchday_id": "7977735",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977733",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977734",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977735"
+        "previous_matchday_id": "7977734",
+        "current_matchday_id": "7977735",
+        "next_matchday_id": "7977736",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977734",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977735",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977736"
     },
     "brasileirão_série_b": {
         "name": "Brasileirão Série B",
@@ -553,12 +553,12 @@
         "name": "Super League",
         "competition_id": 25,
         "season_id": 39324,
-        "previous_matchday_id": "7969135",
-        "current_matchday_id": "7969136",
-        "next_matchday_id": "7969137",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969135",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969136",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969137"
+        "previous_matchday_id": "7969136",
+        "current_matchday_id": "7969137",
+        "next_matchday_id": "7969138",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969136",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969137",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969138"
     },
     "pernambucano": {
         "name": "Pernambucano",
@@ -1257,12 +1257,12 @@
         "name": "Saudi Professional League",
         "competition_id": 111,
         "season_id": 39355,
-        "previous_matchday_id": "7988718",
-        "current_matchday_id": "7988719",
-        "next_matchday_id": "7988720",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988718",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988719",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988720"
+        "previous_matchday_id": "7988719",
+        "current_matchday_id": "7988720",
+        "next_matchday_id": "7988721",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988719",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988720",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988721"
     },
     "canadian_premier_league": {
         "name": "Canadian Premier League",

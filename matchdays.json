@@ -2150,10 +2150,10 @@
         "season_id": 39321,
         "previous_matchday_id": "7977101",
         "current_matchday_id": "7998133",
-        "next_matchday_id": null,
+        "next_matchday_id": "8029043",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977101",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998133",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8029043"
     },
     "copa_santa_catarina": {
         "name": "Copa Santa Catarina",

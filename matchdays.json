@@ -443,12 +443,12 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "8002317",
-        "current_matchday_id": "8002266",
-        "next_matchday_id": "8002267",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002317",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002266",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002267"
+        "previous_matchday_id": "8002266",
+        "current_matchday_id": "8002267",
+        "next_matchday_id": "8002318",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002266",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002267",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002318"
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",

@@ -399,12 +399,12 @@
         "name": "J.League",
         "competition_id": 38,
         "season_id": 39195,
-        "previous_matchday_id": "7969192",
-        "current_matchday_id": "7969193",
-        "next_matchday_id": "7969194",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969192",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969193",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969194"
+        "previous_matchday_id": "7969193",
+        "current_matchday_id": "7969194",
+        "next_matchday_id": "7969195",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969193",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969194",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969195"
     },
     "j.league_2": {
         "name": "J.League 2",

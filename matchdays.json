@@ -410,12 +410,12 @@
         "name": "J.League 2",
         "competition_id": 141,
         "season_id": 39201,
-        "previous_matchday_id": "7969500",
-        "current_matchday_id": "7969501",
-        "next_matchday_id": "7969502",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969500",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969501",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969502"
+        "previous_matchday_id": "7969501",
+        "current_matchday_id": "7969502",
+        "next_matchday_id": "7969503",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969501",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969502",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969503"
     },
     "superligaen": {
         "name": "Superligaen",
@@ -432,12 +432,12 @@
         "name": "Liga 1",
         "competition_id": 148,
         "season_id": 39218,
-        "previous_matchday_id": "7995755",
-        "current_matchday_id": "7995756",
-        "next_matchday_id": "7995757",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995755",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995756",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995757"
+        "previous_matchday_id": "7995756",
+        "current_matchday_id": "7995757",
+        "next_matchday_id": "7995758",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995756",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995757",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995758"
     },
     "professional_football_league": {
         "name": "Professional Football League",

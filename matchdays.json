@@ -289,12 +289,12 @@
         "name": "Türkiye Kupasi",
         "competition_id": 78,
         "season_id": 39369,
-        "previous_matchday_id": "8005611",
-        "current_matchday_id": "8014084",
-        "next_matchday_id": "8024915",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005611",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8014084",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024915"
+        "previous_matchday_id": "8014084",
+        "current_matchday_id": "8024915",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8014084",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024915",
+        "next_mixer_url": null
     },
     "conmebol_world_cup_qualifying": {
         "name": "CONMEBOL World Cup Qualifying",
@@ -718,12 +718,12 @@
         "name": "League One",
         "competition_id": 42,
         "season_id": 39304,
-        "previous_matchday_id": "7973750",
-        "current_matchday_id": "7973751",
-        "next_matchday_id": "7973752",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973750",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973751",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973752"
+        "previous_matchday_id": "7973751",
+        "current_matchday_id": "7973752",
+        "next_matchday_id": "7973753",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973751",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973752",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973753"
     },
     "meistriliiga": {
         "name": "Meistriliiga",
@@ -1488,12 +1488,12 @@
         "name": "League Two",
         "competition_id": 43,
         "season_id": 39303,
-        "previous_matchday_id": "7973796",
-        "current_matchday_id": "7973797",
-        "next_matchday_id": "7973798",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973796",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973797",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973798"
+        "previous_matchday_id": "7973797",
+        "current_matchday_id": "7973798",
+        "next_matchday_id": "7973799",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973797",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973798",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973799"
     },
     "a_lyga": {
         "name": "A Lyga",
@@ -2335,34 +2335,34 @@
         "name": "CONMEBOL Libertadores",
         "competition_id": 76,
         "season_id": 39157,
-        "previous_matchday_id": "7996689",
-        "current_matchday_id": "7996690",
-        "next_matchday_id": "7996691",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996689",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996690",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996691"
+        "previous_matchday_id": "7996690",
+        "current_matchday_id": "7996691",
+        "next_matchday_id": "7996692",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996690",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996691",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996692"
     },
     "copa_sudamericana": {
         "name": "Copa Sudamericana",
         "competition_id": 102,
         "season_id": 39156,
-        "previous_matchday_id": "7999355",
-        "current_matchday_id": "8001834",
-        "next_matchday_id": "8001835",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999355",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001834",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001835"
+        "previous_matchday_id": "8001834",
+        "current_matchday_id": "8001835",
+        "next_matchday_id": "8001836",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001834",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001835",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8001836"
     },
     "champions_league": {
         "name": "Champions League",
         "competition_id": 5,
         "season_id": 39356,
-        "previous_matchday_id": "8004232",
-        "current_matchday_id": "8004233",
-        "next_matchday_id": "8004234",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004232",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004233",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004234"
+        "previous_matchday_id": "8004233",
+        "current_matchday_id": "8004234",
+        "next_matchday_id": "8004235",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004233",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004234",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004235"
     },
     "dfb_pokal": {
         "name": "DFB Pokal",
@@ -2390,12 +2390,12 @@
         "name": "Copa del Rey",
         "competition_id": 18,
         "season_id": 39106,
-        "previous_matchday_id": "8010052",
-        "current_matchday_id": "8010053",
-        "next_matchday_id": "8022845",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010052",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010053",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022845"
+        "previous_matchday_id": "8010053",
+        "current_matchday_id": "8022845",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010053",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022845",
+        "next_mixer_url": null
     },
     "efl_cup": {
         "name": "EFL Cup",
@@ -2489,23 +2489,23 @@
         "name": "Copa de la Reina",
         "competition_id": 2742,
         "season_id": 39206,
-        "previous_matchday_id": "7999856",
-        "current_matchday_id": "8010523",
-        "next_matchday_id": "8022931",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999856",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010523",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022931"
+        "previous_matchday_id": "8010523",
+        "current_matchday_id": "8022931",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010523",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022931",
+        "next_mixer_url": null
     },
     "copa_do_brasil_u20": {
         "name": "Copa do Brasil U20",
         "competition_id": 1898,
         "season_id": 39207,
-        "previous_matchday_id": "8009832",
-        "current_matchday_id": "8016462",
-        "next_matchday_id": "8016463",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8009832",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016462",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016463"
+        "previous_matchday_id": "8016462",
+        "current_matchday_id": "8016463",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016462",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016463",
+        "next_mixer_url": null
     },
     "recopa_sudamericana": {
         "name": "Recopa Sudamericana",
@@ -2546,10 +2546,10 @@
         "season_id": 39280,
         "previous_matchday_id": "7997695",
         "current_matchday_id": "8019018",
-        "next_matchday_id": null,
+        "next_matchday_id": "8029026",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7997695",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019018",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8029026"
     },
     "superliga_colombiana": {
         "name": "Superliga Colombiana",
@@ -2588,12 +2588,12 @@
         "name": "UEFA Youth League",
         "competition_id": 189,
         "season_id": 39080,
-        "previous_matchday_id": "8004716",
-        "current_matchday_id": "8005731",
-        "next_matchday_id": "8004718",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004716",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005731",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004718"
+        "previous_matchday_id": "8005731",
+        "current_matchday_id": "8004718",
+        "next_matchday_id": "8005732",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005731",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004718",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8005732"
     },
     "öfb-cup": {
         "name": "ÖFB-Cup",

@@ -1015,12 +1015,12 @@
         "name": "1. SNL",
         "competition_id": 2728,
         "season_id": 39261,
-        "previous_matchday_id": "7970887",
-        "current_matchday_id": "7970888",
-        "next_matchday_id": "7970889",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970887",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970888",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970889"
+        "previous_matchday_id": "7970888",
+        "current_matchday_id": "7970889",
+        "next_matchday_id": "7970890",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970888",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970889",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970890"
     },
     "friendlies_women": {
         "name": "Friendlies Women",

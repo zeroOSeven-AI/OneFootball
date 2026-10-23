@@ -432,12 +432,12 @@
         "name": "Liga 1",
         "competition_id": 148,
         "season_id": 39218,
-        "previous_matchday_id": "7995756",
-        "current_matchday_id": "7995757",
-        "next_matchday_id": "7995758",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995756",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995757",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995758"
+        "previous_matchday_id": "7995757",
+        "current_matchday_id": "7995758",
+        "next_matchday_id": "7995759",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995757",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995758",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995759"
     },
     "professional_football_league": {
         "name": "Professional Football League",
@@ -729,12 +729,12 @@
         "name": "Meistriliiga",
         "competition_id": 2747,
         "season_id": 39229,
-        "previous_matchday_id": "7895585",
-        "current_matchday_id": "7895586",
-        "next_matchday_id": "7895587",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895585",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895586",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895587"
+        "previous_matchday_id": "7895586",
+        "current_matchday_id": "7895587",
+        "next_matchday_id": "7895588",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895586",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895587",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7895588"
     },
     "afc_champions_league": {
         "name": "AFC Champions League",
@@ -1213,12 +1213,12 @@
         "name": "Championnat National",
         "competition_id": 1721,
         "season_id": 39252,
-        "previous_matchday_id": "7977305",
-        "current_matchday_id": "7977306",
-        "next_matchday_id": "7977307",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977305",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977306",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977307"
+        "previous_matchday_id": "7977306",
+        "current_matchday_id": "7977307",
+        "next_matchday_id": "7977308",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977306",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977307",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977308"
     },
     "uefa_european_under-21_championship": {
         "name": "UEFA European Under-21 Championship",

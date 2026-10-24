@@ -1917,12 +1917,12 @@
         "name": "Championnat National 2",
         "competition_id": 1722,
         "season_id": 39257,
-        "previous_matchday_id": "7986876",
-        "current_matchday_id": "7986877",
-        "next_matchday_id": "7986878",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986876",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986877",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986878"
+        "previous_matchday_id": "7986877",
+        "current_matchday_id": "7986878",
+        "next_matchday_id": "7986879",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986877",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986878",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7986879"
     },
     "nwsl": {
         "name": "NWSL",

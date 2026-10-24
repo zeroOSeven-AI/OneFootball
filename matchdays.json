@@ -487,12 +487,12 @@
         "name": "Scottish League Two",
         "competition_id": 100,
         "season_id": 39271,
-        "previous_matchday_id": "7970104",
-        "current_matchday_id": "7970105",
-        "next_matchday_id": "7970106",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970104",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970105",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970106"
+        "previous_matchday_id": "7970105",
+        "current_matchday_id": "7970106",
+        "next_matchday_id": "7970107",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970105",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970106",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970107"
     },
     "scottish_cup": {
         "name": "Scottish Cup",
@@ -1774,12 +1774,12 @@
         "name": "Eliteserien",
         "competition_id": 67,
         "season_id": 39164,
-        "previous_matchday_id": "7863194",
-        "current_matchday_id": "7863195",
-        "next_matchday_id": "7863196",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863194",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863195",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863196"
+        "previous_matchday_id": "7863206",
+        "current_matchday_id": "7863207",
+        "next_matchday_id": "7863208",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863206",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863207",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863208"
     },
     "mineiro_2": {
         "name": "Mineiro 2",

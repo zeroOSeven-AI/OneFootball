@@ -344,12 +344,12 @@
         "name": "International Friendlies",
         "competition_id": 24,
         "season_id": 39240,
-        "previous_matchday_id": "7983452",
-        "current_matchday_id": "7983453",
-        "next_matchday_id": "8013600",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983452",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983453",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013600"
+        "previous_matchday_id": "7983453",
+        "current_matchday_id": "8013600",
+        "next_matchday_id": "8013882",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7983453",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013600",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013882"
     },
     "brasileirão_série_c": {
         "name": "Brasileirão Série C",

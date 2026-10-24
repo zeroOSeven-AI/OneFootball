@@ -707,12 +707,12 @@
         "name": "LigaPro Banco Pichincha",
         "competition_id": 172,
         "season_id": 39162,
-        "previous_matchday_id": "8012548",
-        "current_matchday_id": "8012549",
-        "next_matchday_id": "8012550",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012548",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012549",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012550"
+        "previous_matchday_id": "8012549",
+        "current_matchday_id": "8012550",
+        "next_matchday_id": "8012551",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012549",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012550",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012551"
     },
     "league_one": {
         "name": "League One",
@@ -1774,12 +1774,12 @@
         "name": "Eliteserien",
         "competition_id": 67,
         "season_id": 39164,
-        "previous_matchday_id": "7863206",
-        "current_matchday_id": "7863207",
-        "next_matchday_id": "7863208",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863206",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863207",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863208"
+        "previous_matchday_id": "7863207",
+        "current_matchday_id": "7863208",
+        "next_matchday_id": "7863209",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863207",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863208",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7863209"
     },
     "mineiro_2": {
         "name": "Mineiro 2",
@@ -1796,12 +1796,12 @@
         "name": "Championnat National 3",
         "competition_id": 1723,
         "season_id": 39258,
-        "previous_matchday_id": "7989730",
-        "current_matchday_id": "7989731",
-        "next_matchday_id": "7989732",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989730",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989731",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989732"
+        "previous_matchday_id": "7989731",
+        "current_matchday_id": "7989732",
+        "next_matchday_id": "7989733",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989731",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989732",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7989733"
     },
     "paulista_série_a2": {
         "name": "Paulista Série A2",

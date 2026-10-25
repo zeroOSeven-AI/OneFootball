@@ -1510,12 +1510,12 @@
         "name": "Ligue 1 Tunisia",
         "competition_id": 2687,
         "season_id": 39405,
-        "previous_matchday_id": "7991525",
-        "current_matchday_id": "7991526",
-        "next_matchday_id": "7991527",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991525",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991526",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991527"
+        "previous_matchday_id": "7991526",
+        "current_matchday_id": "7991527",
+        "next_matchday_id": "7991528",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991526",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991527",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991528"
     },
     "honduran_liga_nacional": {
         "name": "Honduran Liga Nacional",

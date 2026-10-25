@@ -234,12 +234,12 @@
         "name": "UEFAd Nations League",
         "competition_id": 2349,
         "season_id": 39228,
-        "previous_matchday_id": "7907852",
-        "current_matchday_id": "7907853",
-        "next_matchday_id": "7907854",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907852",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907853",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907854"
+        "previous_matchday_id": "7907853",
+        "current_matchday_id": "7907854",
+        "next_matchday_id": "7907855",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907853",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907854",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907855"
     },
     "fifa_world_cup": {
         "name": "FIFA World Cup",
@@ -443,12 +443,12 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "8002318",
-        "current_matchday_id": "8002268",
-        "next_matchday_id": "8002269",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002318",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002268",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002269"
+        "previous_matchday_id": "8002268",
+        "current_matchday_id": "8002269",
+        "next_matchday_id": "8002319",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002268",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002269",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002319"
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",
@@ -575,12 +575,12 @@
         "name": "Africa Cup Of Nations Qualifiers",
         "competition_id": 2695,
         "season_id": 39111,
-        "previous_matchday_id": "8007200",
-        "current_matchday_id": "8007201",
-        "next_matchday_id": "8019592",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007200",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007201",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019592"
+        "previous_matchday_id": "8007201",
+        "current_matchday_id": "8019592",
+        "next_matchday_id": "8019593",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007201",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019592",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019593"
     },
     "a-league": {
         "name": "A-League",
@@ -663,12 +663,12 @@
         "name": "Egyptian Premier League",
         "competition_id": 2732,
         "season_id": 39100,
-        "previous_matchday_id": "7994025",
-        "current_matchday_id": "7994026",
-        "next_matchday_id": "7994027",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994025",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994026",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994027"
+        "previous_matchday_id": "7994026",
+        "current_matchday_id": "7994027",
+        "next_matchday_id": "7994028",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994026",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994027",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994028"
     },
     "division_1a": {
         "name": "Division 1A",
@@ -2238,10 +2238,10 @@
         "season_id": 39190,
         "previous_matchday_id": "8025582",
         "current_matchday_id": "8025583",
-        "next_matchday_id": null,
+        "next_matchday_id": "8031744",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8025582",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8025583",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8031744"
     },
     "fa_women's_super_league": {
         "name": "FA Women's Super League",

@@ -12,14 +12,14 @@
     },
     "bundesliga": {
         "name": "Bundesliga",
-        "competition_id": 26,
-        "season_id": 39297,
-        "previous_matchday_id": "7974244",
-        "current_matchday_id": "7974245",
-        "next_matchday_id": "7974246",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974244",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974245",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7974246"
+        "competition_id": 1,
+        "season_id": 39285,
+        "previous_matchday_id": "7977446",
+        "current_matchday_id": "7977447",
+        "next_matchday_id": "7977448",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977446",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977447",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977448"
     },
     "serie_a": {
         "name": "Serie A",
@@ -1270,10 +1270,10 @@
         "season_id": 39220,
         "previous_matchday_id": "7900178",
         "current_matchday_id": "7900179",
-        "next_matchday_id": null,
+        "next_matchday_id": "8032075",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900178",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7900179",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032075"
     },
     "concacaf_gold_cup": {
         "name": "CONCACAF Gold Cup",

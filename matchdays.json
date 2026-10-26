@@ -1191,12 +1191,12 @@
         "name": "Allsvenskan",
         "competition_id": 62,
         "season_id": 39176,
-        "previous_matchday_id": "7860775",
-        "current_matchday_id": "7860776",
-        "next_matchday_id": "7860777",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860775",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860776",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860777"
+        "previous_matchday_id": "7860776",
+        "current_matchday_id": "7860777",
+        "next_matchday_id": "7860778",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860776",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860777",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7860778"
     },
     "i_liga": {
         "name": "I Liga",
@@ -1435,10 +1435,10 @@
         "season_id": 39182,
         "previous_matchday_id": "7885464",
         "current_matchday_id": "7885465",
-        "next_matchday_id": null,
+        "next_matchday_id": "8032361",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885464",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885465",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032361"
     },
     "veikkausliiga": {
         "name": "Veikkausliiga",

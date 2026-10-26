@@ -25,12 +25,12 @@
         "name": "Serie A",
         "competition_id": 13,
         "season_id": 39325,
-        "previous_matchday_id": "7963617",
-        "current_matchday_id": "7963618",
-        "next_matchday_id": "7963619",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963617",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963618",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963619"
+        "previous_matchday_id": "7963618",
+        "current_matchday_id": "7963619",
+        "next_matchday_id": "7963620",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963618",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963619",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963620"
     },
     "laliga": {
         "name": "LaLiga",
@@ -280,10 +280,10 @@
         "season_id": 39099,
         "previous_matchday_id": "7993369",
         "current_matchday_id": "8016602",
-        "next_matchday_id": null,
+        "next_matchday_id": "8032481",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7993369",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016602",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032481"
     },
     "türkiye_kupasi": {
         "name": "Türkiye Kupasi",
@@ -1092,12 +1092,12 @@
         "name": "Peru Liga 1",
         "competition_id": 176,
         "season_id": 39189,
-        "previous_matchday_id": "7979435",
-        "current_matchday_id": "7979436",
-        "next_matchday_id": "7979437",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979435",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979436",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979437"
+        "previous_matchday_id": "7979436",
+        "current_matchday_id": "7979437",
+        "next_matchday_id": "7979438",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979436",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979437",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979438"
     },
     "regionalliga_west": {
         "name": "Regionalliga West",

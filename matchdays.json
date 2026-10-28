@@ -2159,12 +2159,12 @@
         "name": "Copa Santa Catarina",
         "competition_id": 1894,
         "season_id": 38571,
-        "previous_matchday_id": "7984992",
-        "current_matchday_id": "7984993",
-        "next_matchday_id": "7984994",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984992",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984993",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984994"
+        "previous_matchday_id": "7984993",
+        "current_matchday_id": "7984994",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984993",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984994",
+        "next_mixer_url": null
     },
     "alagoano": {
         "name": "Alagoano",
@@ -2357,12 +2357,12 @@
         "name": "Champions League",
         "competition_id": 5,
         "season_id": 39356,
-        "previous_matchday_id": "8004233",
-        "current_matchday_id": "8004234",
-        "next_matchday_id": "8004235",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004233",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004234",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004235"
+        "previous_matchday_id": "8004234",
+        "current_matchday_id": "8004235",
+        "next_matchday_id": "8004236",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004234",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004235",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8004236"
     },
     "dfb_pokal": {
         "name": "DFB Pokal",
@@ -2632,12 +2632,12 @@
         "name": "Kupa e Shqipërisë",
         "competition_id": 136,
         "season_id": 39448,
-        "previous_matchday_id": "7999908",
-        "current_matchday_id": "8016613",
-        "next_matchday_id": "8024057",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999908",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016613",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024057"
+        "previous_matchday_id": "8016613",
+        "current_matchday_id": "8024057",
+        "next_matchday_id": "8024058",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8016613",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024057",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024058"
     },
     "mls_all-star_game": {
         "name": "MLS All-Star Game",

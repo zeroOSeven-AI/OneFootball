@@ -25,12 +25,12 @@
         "name": "Serie A",
         "competition_id": 13,
         "season_id": 39325,
-        "previous_matchday_id": "7963618",
-        "current_matchday_id": "7963619",
-        "next_matchday_id": "7963620",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963618",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963619",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963620"
+        "previous_matchday_id": "7963619",
+        "current_matchday_id": "7963620",
+        "next_matchday_id": "7963621",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963619",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963620",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963621"
     },
     "laliga": {
         "name": "LaLiga",
@@ -443,12 +443,12 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "8002319",
-        "current_matchday_id": "8029842",
-        "next_matchday_id": "8002270",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002319",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8029842",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002270"
+        "previous_matchday_id": "8029842",
+        "current_matchday_id": "8002270",
+        "next_matchday_id": "8002271",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8029842",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002270",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002271"
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",
@@ -1015,12 +1015,12 @@
         "name": "1. SNL",
         "competition_id": 2728,
         "season_id": 39261,
-        "previous_matchday_id": "7970888",
-        "current_matchday_id": "7970889",
-        "next_matchday_id": "7970890",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970888",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970889",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970890"
+        "previous_matchday_id": "7970889",
+        "current_matchday_id": "7970890",
+        "next_matchday_id": "7970891",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970889",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970890",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7970891"
     },
     "friendlies_women": {
         "name": "Friendlies Women",

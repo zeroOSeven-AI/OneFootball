@@ -982,12 +982,12 @@
         "name": "Frauenbundesliga",
         "competition_id": 47,
         "season_id": 39265,
-        "previous_matchday_id": "7984530",
-        "current_matchday_id": "7984531",
-        "next_matchday_id": "7984532",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984530",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984531",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984532"
+        "previous_matchday_id": "7984531",
+        "current_matchday_id": "7984532",
+        "next_matchday_id": "7984533",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984531",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984532",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984533"
     },
     "fortuna_liga": {
         "name": "Fortuna liga",
@@ -1070,12 +1070,12 @@
         "name": "Chinese Super League",
         "competition_id": 112,
         "season_id": 39198,
-        "previous_matchday_id": "7909339",
-        "current_matchday_id": "7909340",
-        "next_matchday_id": "7909341",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909339",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909340",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909341"
+        "previous_matchday_id": "7909340",
+        "current_matchday_id": "7909341",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909340",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7909341",
+        "next_mixer_url": null
     },
     "liga_de_fútbol_de_primera_división": {
         "name": "Liga de Fútbol de Primera División",

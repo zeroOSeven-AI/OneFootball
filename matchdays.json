@@ -531,12 +531,12 @@
         "name": "Primera B",
         "competition_id": 206,
         "season_id": 39180,
-        "previous_matchday_id": "7963126",
-        "current_matchday_id": "8032688",
-        "next_matchday_id": "8032689",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963126",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032688",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032689"
+        "previous_matchday_id": "8032688",
+        "current_matchday_id": "8032689",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032688",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032689",
+        "next_mixer_url": null
     },
     "copa_chile": {
         "name": "Copa Chile",
@@ -1433,12 +1433,12 @@
         "name": "K League 1",
         "competition_id": 130,
         "season_id": 39182,
-        "previous_matchday_id": "7885465",
-        "current_matchday_id": "8032361",
-        "next_matchday_id": "8032362",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7885465",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032361",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032362"
+        "previous_matchday_id": "8032361",
+        "current_matchday_id": "8032362",
+        "next_matchday_id": "8032363",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032361",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032362",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032363"
     },
     "veikkausliiga": {
         "name": "Veikkausliiga",
@@ -2181,12 +2181,12 @@
         "name": "Liga Nacional de Guatemala",
         "competition_id": 2725,
         "season_id": 39241,
-        "previous_matchday_id": "7972402",
-        "current_matchday_id": "7972403",
-        "next_matchday_id": "7972404",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972402",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972403",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972404"
+        "previous_matchday_id": "7972403",
+        "current_matchday_id": "7972404",
+        "next_matchday_id": "7972405",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972403",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972404",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7972405"
     },
     "taça_da_liga": {
         "name": "Taça Da Liga",

@@ -159,10 +159,10 @@
         "season_id": 39057,
         "previous_matchday_id": "7866987",
         "current_matchday_id": "7866988",
-        "next_matchday_id": null,
+        "next_matchday_id": "8034707",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866987",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866988",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034707"
     },
     "ledman_ligapro": {
         "name": "Ledman LigaPro",
@@ -707,12 +707,12 @@
         "name": "LigaPro Banco Pichincha",
         "competition_id": 172,
         "season_id": 39162,
-        "previous_matchday_id": "8012550",
-        "current_matchday_id": "8012551",
-        "next_matchday_id": "8012552",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012550",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012551",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012552"
+        "previous_matchday_id": "8012551",
+        "current_matchday_id": "8012552",
+        "next_matchday_id": "8012553",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012551",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012552",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012553"
     },
     "league_one": {
         "name": "League One",

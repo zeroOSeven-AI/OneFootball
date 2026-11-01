@@ -443,12 +443,12 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "8029842",
-        "current_matchday_id": "8002270",
-        "next_matchday_id": "8002271",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8029842",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002270",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002271"
+        "previous_matchday_id": "8002270",
+        "current_matchday_id": "8002271",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002270",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002271",
+        "next_mixer_url": null
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",
@@ -533,10 +533,10 @@
         "season_id": 39180,
         "previous_matchday_id": "8032688",
         "current_matchday_id": "8032689",
-        "next_matchday_id": null,
+        "next_matchday_id": "8034990",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032688",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032689",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034990"
     },
     "copa_chile": {
         "name": "Copa Chile",
@@ -2161,10 +2161,10 @@
         "season_id": 38571,
         "previous_matchday_id": "7984993",
         "current_matchday_id": "7984994",
-        "next_matchday_id": null,
+        "next_matchday_id": "8034979",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984993",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984994",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034979"
     },
     "alagoano": {
         "name": "Alagoano",

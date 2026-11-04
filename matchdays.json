@@ -291,10 +291,10 @@
         "season_id": 39369,
         "previous_matchday_id": "8014084",
         "current_matchday_id": "8024915",
-        "next_matchday_id": null,
+        "next_matchday_id": "8036595",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8014084",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024915",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8036595"
     },
     "conmebol_world_cup_qualifying": {
         "name": "CONMEBOL World Cup Qualifying",
@@ -2159,12 +2159,12 @@
         "name": "Copa Santa Catarina",
         "competition_id": 1894,
         "season_id": 38571,
-        "previous_matchday_id": "7984993",
-        "current_matchday_id": "7984994",
-        "next_matchday_id": "8034979",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984993",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984994",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034979"
+        "previous_matchday_id": "7984994",
+        "current_matchday_id": "8034979",
+        "next_matchday_id": "8034980",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984994",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034979",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034980"
     },
     "alagoano": {
         "name": "Alagoano",
@@ -2621,12 +2621,12 @@
         "name": "UEFA Women's Champions League",
         "competition_id": 2702,
         "season_id": 39366,
-        "previous_matchday_id": "8007624",
-        "current_matchday_id": "8007625",
-        "next_matchday_id": "8007626",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007624",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007625",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007626"
+        "previous_matchday_id": "8007625",
+        "current_matchday_id": "8007626",
+        "next_matchday_id": "8007627",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007625",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007626",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007627"
     },
     "kupa_e_shqipërisë": {
         "name": "Kupa e Shqipërisë",

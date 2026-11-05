@@ -685,12 +685,12 @@
         "name": "Persian Gulf Pro League",
         "competition_id": 2690,
         "season_id": 39361,
-        "previous_matchday_id": "8012009",
-        "current_matchday_id": "8012010",
-        "next_matchday_id": "8012060",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012009",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012010",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012060"
+        "previous_matchday_id": "8012010",
+        "current_matchday_id": "8012060",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012010",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012060",
+        "next_mixer_url": null
     },
     "trofeo_joan_gamper": {
         "name": "Trofeo Joan Gamper",
@@ -1180,12 +1180,12 @@
         "name": "Qatar Stars League",
         "competition_id": 158,
         "season_id": 39318,
-        "previous_matchday_id": "7985873",
-        "current_matchday_id": "7985874",
-        "next_matchday_id": "7985875",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985873",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985874",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985875"
+        "previous_matchday_id": "7985874",
+        "current_matchday_id": "7985875",
+        "next_matchday_id": "7985876",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985874",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985875",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985876"
     },
     "allsvenskan": {
         "name": "Allsvenskan",
@@ -1257,12 +1257,12 @@
         "name": "Saudi Professional League",
         "competition_id": 111,
         "season_id": 39355,
-        "previous_matchday_id": "7988721",
-        "current_matchday_id": "7988722",
-        "next_matchday_id": "7988723",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988721",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988722",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988723"
+        "previous_matchday_id": "7988722",
+        "current_matchday_id": "7988723",
+        "next_matchday_id": "7988724",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988722",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988723",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988724"
     },
     "canadian_premier_league": {
         "name": "Canadian Premier League",
@@ -1400,12 +1400,12 @@
         "name": "UAE Arabian Gulf League",
         "competition_id": 157,
         "season_id": 39279,
-        "previous_matchday_id": "8010011",
-        "current_matchday_id": "8019412",
-        "next_matchday_id": "8019413",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010011",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019412",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019413"
+        "previous_matchday_id": "8000421",
+        "current_matchday_id": "8010011",
+        "next_matchday_id": "8019412",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8000421",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010011",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019412"
     },
     "leagues_cup": {
         "name": "Leagues Cup",
@@ -2412,12 +2412,12 @@
         "name": "Copa do Brasil",
         "competition_id": 137,
         "season_id": 39179,
-        "previous_matchday_id": "7996002",
-        "current_matchday_id": "7996003",
-        "next_matchday_id": "7996004",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996002",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996003",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996004"
+        "previous_matchday_id": "7996003",
+        "current_matchday_id": "7996004",
+        "next_matchday_id": "7996005",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996003",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996004",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7996005"
     },
     "kubok": {
         "name": "Kubok",

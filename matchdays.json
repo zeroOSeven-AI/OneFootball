@@ -1488,12 +1488,12 @@
         "name": "League Two",
         "competition_id": 43,
         "season_id": 39303,
-        "previous_matchday_id": "7973799",
-        "current_matchday_id": "7973800",
-        "next_matchday_id": "7973801",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973799",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973800",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973801"
+        "previous_matchday_id": "7973800",
+        "current_matchday_id": "7973801",
+        "next_matchday_id": "7973802",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973800",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973801",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973802"
     },
     "a_lyga": {
         "name": "A Lyga",

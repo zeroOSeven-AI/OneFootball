@@ -443,12 +443,12 @@
         "name": "Professional Football League",
         "competition_id": 1725,
         "season_id": 39276,
-        "previous_matchday_id": "8002271",
-        "current_matchday_id": "8035203",
-        "next_matchday_id": "8036464",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8002271",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8035203",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8036464"
+        "previous_matchday_id": "8035203",
+        "current_matchday_id": "8036464",
+        "next_matchday_id": "8036465",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8035203",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8036464",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8036465"
     },
     "scottish_premiership": {
         "name": "Scottish Premiership",
@@ -863,10 +863,10 @@
         "season_id": 39165,
         "previous_matchday_id": "7868232",
         "current_matchday_id": "7868233",
-        "next_matchday_id": null,
+        "next_matchday_id": "8038304",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868232",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7868233",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038304"
     },
     "vysheyshaya_liga": {
         "name": "Vysheyshaya Liga",
@@ -1433,12 +1433,12 @@
         "name": "K League 1",
         "competition_id": 130,
         "season_id": 39182,
-        "previous_matchday_id": "8032362",
-        "current_matchday_id": "8032363",
-        "next_matchday_id": "8032364",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032362",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032363",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032364"
+        "previous_matchday_id": "8032363",
+        "current_matchday_id": "8032364",
+        "next_matchday_id": "8032365",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032363",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032364",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032365"
     },
     "veikkausliiga": {
         "name": "Veikkausliiga",
@@ -1752,12 +1752,12 @@
         "name": "National League",
         "competition_id": 97,
         "season_id": 39334,
-        "previous_matchday_id": "7981520",
-        "current_matchday_id": "7981521",
-        "next_matchday_id": "7981522",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981520",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981521",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981522"
+        "previous_matchday_id": "7981521",
+        "current_matchday_id": "7981522",
+        "next_matchday_id": "7981523",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981521",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981522",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7981523"
     },
     "supercoppa_italiana": {
         "name": "Supercoppa Italiana",

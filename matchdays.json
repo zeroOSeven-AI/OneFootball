@@ -938,12 +938,12 @@
         "name": "Campeonato Uruguayo Primera Apertura",
         "competition_id": 103,
         "season_id": 39213,
-        "previous_matchday_id": "8027120",
-        "current_matchday_id": "8030381",
-        "next_matchday_id": "8036987",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8027120",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8030381",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8036987"
+        "previous_matchday_id": "8030381",
+        "current_matchday_id": "8036987",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8030381",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8036987",
+        "next_mixer_url": null
     },
     "damallsvenskan": {
         "name": "Damallsvenskan",

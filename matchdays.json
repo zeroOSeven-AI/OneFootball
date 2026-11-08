@@ -511,10 +511,10 @@
         "season_id": 39121,
         "previous_matchday_id": "7905042",
         "current_matchday_id": "7905043",
-        "next_matchday_id": null,
+        "next_matchday_id": "8038460",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905042",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7905043",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038460"
     },
     "primera_división": {
         "name": "Primera División",
@@ -718,12 +718,12 @@
         "name": "League One",
         "competition_id": 42,
         "season_id": 39304,
-        "previous_matchday_id": "7973753",
-        "current_matchday_id": "7973754",
-        "next_matchday_id": "7973755",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973753",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973754",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973755"
+        "previous_matchday_id": "7973754",
+        "current_matchday_id": "7973755",
+        "next_matchday_id": "7973756",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973754",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973755",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7973756"
     },
     "meistriliiga": {
         "name": "Meistriliiga",
@@ -1270,10 +1270,10 @@
         "season_id": 39220,
         "previous_matchday_id": "8032075",
         "current_matchday_id": "8032076",
-        "next_matchday_id": null,
+        "next_matchday_id": "8038434",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032075",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032076",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038434"
     },
     "concacaf_gold_cup": {
         "name": "CONCACAF Gold Cup",

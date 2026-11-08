@@ -707,12 +707,12 @@
         "name": "LigaPro Banco Pichincha",
         "competition_id": 172,
         "season_id": 39162,
-        "previous_matchday_id": "8012552",
-        "current_matchday_id": "8012553",
-        "next_matchday_id": "8012554",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012552",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012553",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012554"
+        "previous_matchday_id": "8012553",
+        "current_matchday_id": "8012554",
+        "next_matchday_id": "8012555",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012553",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012554",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012555"
     },
     "league_one": {
         "name": "League One",
@@ -1510,12 +1510,12 @@
         "name": "Ligue 1 Tunisia",
         "competition_id": 2687,
         "season_id": 39405,
-        "previous_matchday_id": "7991527",
-        "current_matchday_id": "7991528",
-        "next_matchday_id": "7991529",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991527",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991528",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991529"
+        "previous_matchday_id": "7991528",
+        "current_matchday_id": "7991529",
+        "next_matchday_id": "7991530",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991528",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991529",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991530"
     },
     "honduran_liga_nacional": {
         "name": "Honduran Liga Nacional",
@@ -2051,10 +2051,10 @@
         "season_id": 39239,
         "previous_matchday_id": "8006171",
         "current_matchday_id": "8006172",
-        "next_matchday_id": null,
+        "next_matchday_id": "8038517",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006171",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8006172",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038517"
     },
     "campeonato_gaúcho": {
         "name": "Campeonato Gaúcho",

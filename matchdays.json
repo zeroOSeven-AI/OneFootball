@@ -2159,12 +2159,12 @@
         "name": "Copa Santa Catarina",
         "competition_id": 1894,
         "season_id": 38571,
-        "previous_matchday_id": "7984994",
-        "current_matchday_id": "8034979",
-        "next_matchday_id": "8034980",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984994",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034979",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034980"
+        "previous_matchday_id": "8034979",
+        "current_matchday_id": "8034980",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034979",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034980",
+        "next_mixer_url": null
     },
     "alagoano": {
         "name": "Alagoano",
@@ -2500,12 +2500,12 @@
         "name": "Copa do Brasil U20",
         "competition_id": 1898,
         "season_id": 39207,
-        "previous_matchday_id": "8031460",
-        "current_matchday_id": "8031461",
-        "next_matchday_id": "8037565",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8031460",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8031461",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8037565"
+        "previous_matchday_id": "8031461",
+        "current_matchday_id": "8037565",
+        "next_matchday_id": "8037566",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8031461",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8037565",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8037566"
     },
     "recopa_sudamericana": {
         "name": "Recopa Sudamericana",

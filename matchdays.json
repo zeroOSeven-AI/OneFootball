@@ -2544,12 +2544,12 @@
         "name": "Beker van België",
         "competition_id": 117,
         "season_id": 39280,
-        "previous_matchday_id": "7997695",
-        "current_matchday_id": "8019018",
-        "next_matchday_id": "8029026",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7997695",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019018",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8029026"
+        "previous_matchday_id": "8019018",
+        "current_matchday_id": "8029026",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019018",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8029026",
+        "next_mixer_url": null
     },
     "superliga_colombiana": {
         "name": "Superliga Colombiana",

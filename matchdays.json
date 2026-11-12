@@ -663,12 +663,12 @@
         "name": "Egyptian Premier League",
         "competition_id": 2732,
         "season_id": 39100,
-        "previous_matchday_id": "7994026",
-        "current_matchday_id": "7994027",
-        "next_matchday_id": "7994028",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994026",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994027",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994028"
+        "previous_matchday_id": "7994027",
+        "current_matchday_id": "7994028",
+        "next_matchday_id": "7994029",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994027",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994028",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994029"
     },
     "division_1a": {
         "name": "Division 1A",
@@ -687,10 +687,10 @@
         "season_id": 39361,
         "previous_matchday_id": "8012010",
         "current_matchday_id": "8012060",
-        "next_matchday_id": null,
+        "next_matchday_id": "8038956",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012010",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012060",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038956"
     },
     "trofeo_joan_gamper": {
         "name": "Trofeo Joan Gamper",
@@ -1257,12 +1257,12 @@
         "name": "Saudi Professional League",
         "competition_id": 111,
         "season_id": 39355,
-        "previous_matchday_id": "7988722",
-        "current_matchday_id": "7988723",
-        "next_matchday_id": "7988724",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988722",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988723",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988724"
+        "previous_matchday_id": "7988721",
+        "current_matchday_id": "7988722",
+        "next_matchday_id": "7988723",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988721",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988722",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988723"
     },
     "canadian_premier_league": {
         "name": "Canadian Premier League",
@@ -2456,12 +2456,12 @@
         "name": "Puchar Polski",
         "competition_id": 106,
         "season_id": 39266,
-        "previous_matchday_id": "7994306",
-        "current_matchday_id": "8013557",
-        "next_matchday_id": "8034102",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994306",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013557",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034102"
+        "previous_matchday_id": "8013557",
+        "current_matchday_id": "8034102",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8013557",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034102",
+        "next_mixer_url": null
     },
     "dbu_pokalen": {
         "name": "DBU Pokalen",

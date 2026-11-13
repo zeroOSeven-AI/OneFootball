@@ -1213,12 +1213,12 @@
         "name": "Championnat National",
         "competition_id": 1721,
         "season_id": 39252,
-        "previous_matchday_id": "7977307",
-        "current_matchday_id": "7977308",
-        "next_matchday_id": "7977309",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977307",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977308",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977309"
+        "previous_matchday_id": "7977308",
+        "current_matchday_id": "7977309",
+        "next_matchday_id": "7977310",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977308",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977309",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7977310"
     },
     "uefa_european_under-21_championship": {
         "name": "UEFA European Under-21 Championship",
@@ -1257,12 +1257,12 @@
         "name": "Saudi Professional League",
         "competition_id": 111,
         "season_id": 39355,
-        "previous_matchday_id": "7988721",
-        "current_matchday_id": "7988722",
-        "next_matchday_id": "7988723",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988721",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988722",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988723"
+        "previous_matchday_id": "7988722",
+        "current_matchday_id": "7988723",
+        "next_matchday_id": "7988724",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988722",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988723",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988724"
     },
     "canadian_premier_league": {
         "name": "Canadian Premier League",
@@ -1455,12 +1455,12 @@
         "name": "Liga MX Femenil",
         "competition_id": 2733,
         "season_id": 39282,
-        "previous_matchday_id": "7988420",
-        "current_matchday_id": "8033299",
-        "next_matchday_id": "8033300",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7988420",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8033299",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8033300"
+        "previous_matchday_id": "8033299",
+        "current_matchday_id": "8033300",
+        "next_matchday_id": "8033301",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8033299",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8033300",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8033301"
     },
     "botola": {
         "name": "Botola",

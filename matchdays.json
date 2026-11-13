@@ -533,10 +533,10 @@
         "season_id": 39180,
         "previous_matchday_id": "8034990",
         "current_matchday_id": "8036544",
-        "next_matchday_id": null,
+        "next_matchday_id": "8041379",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034990",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8036544",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8041379"
     },
     "copa_chile": {
         "name": "Copa Chile",

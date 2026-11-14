@@ -146,12 +146,12 @@
         "name": "Ligue 2",
         "competition_id": 29,
         "season_id": 39246,
-        "previous_matchday_id": "7966209",
-        "current_matchday_id": "7966210",
-        "next_matchday_id": "7966211",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966209",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966210",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966211"
+        "previous_matchday_id": "7966210",
+        "current_matchday_id": "7966211",
+        "next_matchday_id": "7966212",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966210",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966211",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7966212"
     },
     "primera_b_nacional": {
         "name": "Primera B Nacional",
@@ -399,12 +399,12 @@
         "name": "J.League",
         "competition_id": 38,
         "season_id": 39195,
-        "previous_matchday_id": "7969196",
-        "current_matchday_id": "7969197",
-        "next_matchday_id": "7969198",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969196",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969197",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969198"
+        "previous_matchday_id": "7969197",
+        "current_matchday_id": "7969198",
+        "next_matchday_id": "7969199",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969197",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969198",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969199"
     },
     "j.league_2": {
         "name": "J.League 2",
@@ -432,12 +432,12 @@
         "name": "Liga 1",
         "competition_id": 148,
         "season_id": 39218,
-        "previous_matchday_id": "7995759",
-        "current_matchday_id": "7995760",
-        "next_matchday_id": "7995761",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995759",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995760",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995761"
+        "previous_matchday_id": "7995760",
+        "current_matchday_id": "7995761",
+        "next_matchday_id": "7995762",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995760",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995761",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7995762"
     },
     "professional_football_league": {
         "name": "Professional Football League",
@@ -498,12 +498,12 @@
         "name": "Scottish Cup",
         "competition_id": 40,
         "season_id": 39075,
-        "previous_matchday_id": "8011648",
-        "current_matchday_id": "8022551",
-        "next_matchday_id": "8032046",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011648",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022551",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032046"
+        "previous_matchday_id": "8022551",
+        "current_matchday_id": "8032046",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022551",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032046",
+        "next_mixer_url": null
     },
     "major_league_score": {
         "name": "Major League Score",
@@ -586,12 +586,12 @@
         "name": "A-League",
         "competition_id": 84,
         "season_id": 39061,
-        "previous_matchday_id": "7984196",
-        "current_matchday_id": "7984197",
-        "next_matchday_id": "7984198",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984196",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984197",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984198"
+        "previous_matchday_id": "7984197",
+        "current_matchday_id": "7984198",
+        "next_matchday_id": "7984199",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984197",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984198",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7984199"
     },
     "torneo_apertura": {
         "name": "Torneo Apertura",
@@ -685,12 +685,12 @@
         "name": "Persian Gulf Pro League",
         "competition_id": 2690,
         "season_id": 39361,
-        "previous_matchday_id": "8012010",
-        "current_matchday_id": "8012060",
-        "next_matchday_id": "8038956",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012010",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012060",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038956"
+        "previous_matchday_id": "8012060",
+        "current_matchday_id": "8038956",
+        "next_matchday_id": "8038957",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012060",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038956",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038957"
     },
     "trofeo_joan_gamper": {
         "name": "Trofeo Joan Gamper",
@@ -740,12 +740,12 @@
         "name": "AFC Champions League",
         "competition_id": 155,
         "season_id": 39155,
-        "previous_matchday_id": "7999140",
-        "current_matchday_id": "7999141",
-        "next_matchday_id": "7999142",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999140",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999141",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999142"
+        "previous_matchday_id": "7999141",
+        "current_matchday_id": "7999142",
+        "next_matchday_id": "7999143",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999141",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999142",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7999143"
     },
     "primera_a_apertura": {
         "name": "Primera A Apertura",
@@ -1180,12 +1180,12 @@
         "name": "Qatar Stars League",
         "competition_id": 158,
         "season_id": 39318,
-        "previous_matchday_id": "7985874",
-        "current_matchday_id": "7985875",
-        "next_matchday_id": "7985876",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985874",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985875",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985876"
+        "previous_matchday_id": "7985875",
+        "current_matchday_id": "7985876",
+        "next_matchday_id": "7985877",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985875",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985876",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985877"
     },
     "allsvenskan": {
         "name": "Allsvenskan",
@@ -1345,12 +1345,12 @@
         "name": "Liga de Ascenso",
         "competition_id": 203,
         "season_id": 39291,
-        "previous_matchday_id": "8032477",
-        "current_matchday_id": "8032478",
-        "next_matchday_id": "8032479",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032477",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032478",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032479"
+        "previous_matchday_id": "8032478",
+        "current_matchday_id": "8032479",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032478",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8032479",
+        "next_mixer_url": null
     },
     "1._hnl": {
         "name": "1. HNL",

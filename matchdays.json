@@ -157,12 +157,12 @@
         "name": "Primera B Nacional",
         "competition_id": 164,
         "season_id": 39057,
-        "previous_matchday_id": "7866988",
-        "current_matchday_id": "8034707",
-        "next_matchday_id": "8034708",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7866988",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034707",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034708"
+        "previous_matchday_id": "8034707",
+        "current_matchday_id": "8034708",
+        "next_matchday_id": "8036752",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034707",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034708",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8036752"
     },
     "ledman_ligapro": {
         "name": "Ledman LigaPro",
@@ -575,12 +575,12 @@
         "name": "Africa Cup Of Nations Qualifiers",
         "competition_id": 2695,
         "season_id": 39111,
-        "previous_matchday_id": "8007201",
-        "current_matchday_id": "8019592",
-        "next_matchday_id": "8019593",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007201",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019592",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019593"
+        "previous_matchday_id": "8019592",
+        "current_matchday_id": "8019593",
+        "next_matchday_id": "8019594",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019592",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019593",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8019594"
     },
     "a-league": {
         "name": "A-League",

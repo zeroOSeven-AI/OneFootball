@@ -2161,10 +2161,10 @@
         "season_id": 38571,
         "previous_matchday_id": "8034979",
         "current_matchday_id": "8034980",
-        "next_matchday_id": null,
+        "next_matchday_id": "8043004",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034979",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034980",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043004"
     },
     "alagoano": {
         "name": "Alagoano",
@@ -2621,12 +2621,12 @@
         "name": "UEFA Women's Champions League",
         "competition_id": 2702,
         "season_id": 39366,
-        "previous_matchday_id": "8007625",
-        "current_matchday_id": "8007626",
-        "next_matchday_id": "8007627",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007625",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007626",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007627"
+        "previous_matchday_id": "8007626",
+        "current_matchday_id": "8007627",
+        "next_matchday_id": "8007628",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007626",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007627",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8007628"
     },
     "kupa_e_shqipërisë": {
         "name": "Kupa e Shqipërisë",

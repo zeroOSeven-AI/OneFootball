@@ -1631,12 +1631,12 @@
         "name": "Copa Fares Lopes",
         "competition_id": 1891,
         "season_id": 38901,
-        "previous_matchday_id": "8012039",
-        "current_matchday_id": "8012040",
-        "next_matchday_id": "8012041",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012039",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012040",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012041"
+        "previous_matchday_id": "8012040",
+        "current_matchday_id": "8012041",
+        "next_matchday_id": "8012042",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012040",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012041",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012042"
     },
     "süper_kupa": {
         "name": "Süper Kupa",

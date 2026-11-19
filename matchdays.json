@@ -885,10 +885,10 @@
         "season_id": 39097,
         "previous_matchday_id": "8024957",
         "current_matchday_id": "8024958",
-        "next_matchday_id": null,
+        "next_matchday_id": "8044512",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024957",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8024958",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8044512"
     },
     "primera_b_metropolitana": {
         "name": "Primera B Metropolitana",

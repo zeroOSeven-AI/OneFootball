@@ -236,10 +236,10 @@
         "season_id": 39228,
         "previous_matchday_id": "7907854",
         "current_matchday_id": "7907855",
-        "next_matchday_id": null,
+        "next_matchday_id": "8045407",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907854",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7907855",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8045407"
     },
     "fifa_world_cup": {
         "name": "FIFA World Cup",

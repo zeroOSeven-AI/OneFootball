@@ -940,10 +940,10 @@
         "season_id": 39213,
         "previous_matchday_id": "8036987",
         "current_matchday_id": "8043492",
-        "next_matchday_id": null,
+        "next_matchday_id": "8046406",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8036987",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043492",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8046406"
     },
     "damallsvenskan": {
         "name": "Damallsvenskan",
@@ -1510,12 +1510,12 @@
         "name": "Ligue 1 Tunisia",
         "competition_id": 2687,
         "season_id": 39405,
-        "previous_matchday_id": "7991529",
-        "current_matchday_id": "7991530",
-        "next_matchday_id": "7991531",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991529",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991530",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991531"
+        "previous_matchday_id": "7991530",
+        "current_matchday_id": "7991531",
+        "next_matchday_id": "7991532",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991530",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991531",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7991532"
     },
     "honduran_liga_nacional": {
         "name": "Honduran Liga Nacional",
@@ -2016,12 +2016,12 @@
         "name": "Scottish League Cup",
         "competition_id": 2712,
         "season_id": 39295,
-        "previous_matchday_id": "7998093",
-        "current_matchday_id": "8011566",
-        "next_matchday_id": "8011567",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7998093",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011566",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011567"
+        "previous_matchday_id": "8011566",
+        "current_matchday_id": "8011567",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011566",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8011567",
+        "next_mixer_url": null
     },
     "tocantinense": {
         "name": "Tocantinense",
@@ -2051,10 +2051,10 @@
         "season_id": 39239,
         "previous_matchday_id": "8038517",
         "current_matchday_id": "8038518",
-        "next_matchday_id": null,
+        "next_matchday_id": "8046475",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038517",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038518",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8046475"
     },
     "campeonato_gaúcho": {
         "name": "Campeonato Gaúcho",

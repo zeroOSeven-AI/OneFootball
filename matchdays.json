@@ -531,12 +531,12 @@
         "name": "Primera B",
         "competition_id": 206,
         "season_id": 39180,
-        "previous_matchday_id": "8041379",
-        "current_matchday_id": "8043973",
-        "next_matchday_id": "8045762",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8041379",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043973",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8045762"
+        "previous_matchday_id": "8043973",
+        "current_matchday_id": "8045762",
+        "next_matchday_id": "8045763",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043973",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8045762",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8045763"
     },
     "copa_chile": {
         "name": "Copa Chile",

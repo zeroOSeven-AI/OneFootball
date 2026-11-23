@@ -399,23 +399,23 @@
         "name": "J.League",
         "competition_id": 38,
         "season_id": 39195,
-        "previous_matchday_id": "7969197",
-        "current_matchday_id": "7969198",
-        "next_matchday_id": "7969199",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969197",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969198",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969199"
+        "previous_matchday_id": "7969198",
+        "current_matchday_id": "7969199",
+        "next_matchday_id": "7969200",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969198",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969199",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969200"
     },
     "j.league_2": {
         "name": "J.League 2",
         "competition_id": 141,
         "season_id": 39201,
-        "previous_matchday_id": "7969507",
-        "current_matchday_id": "7969508",
-        "next_matchday_id": "7969509",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969507",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969508",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969509"
+        "previous_matchday_id": "7969508",
+        "current_matchday_id": "7969509",
+        "next_matchday_id": "7969510",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969508",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969509",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7969510"
     },
     "superligaen": {
         "name": "Superligaen",
@@ -751,12 +751,12 @@
         "name": "Primera A Apertura",
         "competition_id": 109,
         "season_id": 39177,
-        "previous_matchday_id": "7963111",
-        "current_matchday_id": "8043532",
-        "next_matchday_id": "8043533",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7963111",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043532",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043533"
+        "previous_matchday_id": "8043532",
+        "current_matchday_id": "8043533",
+        "next_matchday_id": "8045274",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043532",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043533",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8045274"
     },
     "premier_soccer_league": {
         "name": "Premier Soccer League",
@@ -1094,10 +1094,10 @@
         "season_id": 39189,
         "previous_matchday_id": "7979439",
         "current_matchday_id": "7979440",
-        "next_matchday_id": null,
+        "next_matchday_id": "8046841",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979439",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7979440",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8046841"
     },
     "regionalliga_west": {
         "name": "Regionalliga West",
@@ -2007,10 +2007,10 @@
         "season_id": 39348,
         "previous_matchday_id": "7987460",
         "current_matchday_id": "7987461",
-        "next_matchday_id": null,
+        "next_matchday_id": "8047147",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987460",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987461",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8047147"
     },
     "scottish_league_cup": {
         "name": "Scottish League Cup",

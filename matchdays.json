@@ -2390,12 +2390,12 @@
         "name": "Copa del Rey",
         "competition_id": 18,
         "season_id": 39106,
-        "previous_matchday_id": "8010053",
-        "current_matchday_id": "8022845",
-        "next_matchday_id": "8046976",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010053",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022845",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8046976"
+        "previous_matchday_id": "8022845",
+        "current_matchday_id": "8046976",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022845",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8046976",
+        "next_mixer_url": null
     },
     "efl_cup": {
         "name": "EFL Cup",

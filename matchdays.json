@@ -2524,10 +2524,10 @@
         "season_id": 39299,
         "previous_matchday_id": "7994556",
         "current_matchday_id": "7994557",
-        "next_matchday_id": null,
+        "next_matchday_id": "8048178",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994556",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7994557",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8048178"
     },
     "greek_cup": {
         "name": "Greek Cup",

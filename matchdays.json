@@ -685,12 +685,12 @@
         "name": "Persian Gulf Pro League",
         "competition_id": 2690,
         "season_id": 39361,
-        "previous_matchday_id": "8012060",
-        "current_matchday_id": "8038956",
-        "next_matchday_id": "8038957",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8012060",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038956",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038957"
+        "previous_matchday_id": "8038956",
+        "current_matchday_id": "8038957",
+        "next_matchday_id": "8038958",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038956",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038957",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8038958"
     },
     "trofeo_joan_gamper": {
         "name": "Trofeo Joan Gamper",
@@ -1180,12 +1180,12 @@
         "name": "Qatar Stars League",
         "competition_id": 158,
         "season_id": 39318,
-        "previous_matchday_id": "7985875",
-        "current_matchday_id": "7985876",
-        "next_matchday_id": "7985877",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985875",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985876",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985877"
+        "previous_matchday_id": "7985876",
+        "current_matchday_id": "7985877",
+        "next_matchday_id": "8042453",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985876",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7985877",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8042453"
     },
     "allsvenskan": {
         "name": "Allsvenskan",
@@ -2159,12 +2159,12 @@
         "name": "Copa Santa Catarina",
         "competition_id": 1894,
         "season_id": 38571,
-        "previous_matchday_id": "8034980",
-        "current_matchday_id": "8043004",
-        "next_matchday_id": "8043005",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8034980",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043004",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043005"
+        "previous_matchday_id": "8043004",
+        "current_matchday_id": "8043005",
+        "next_matchday_id": null,
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043004",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8043005",
+        "next_mixer_url": null
     },
     "alagoano": {
         "name": "Alagoano",

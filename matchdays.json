@@ -2491,10 +2491,10 @@
         "season_id": 39206,
         "previous_matchday_id": "8010523",
         "current_matchday_id": "8022931",
-        "next_matchday_id": null,
+        "next_matchday_id": "8048704",
         "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8010523",
         "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8022931",
-        "next_mixer_url": null
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/8048704"
     },
     "copa_do_brasil_u20": {
         "name": "Copa do Brasil U20",

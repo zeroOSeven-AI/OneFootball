@@ -124,12 +124,12 @@
         "name": "Serie B",
         "competition_id": 30,
         "season_id": 39336,
-        "previous_matchday_id": "7987591",
-        "current_matchday_id": "7987592",
-        "next_matchday_id": "7987593",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987591",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987592",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987593"
+        "previous_matchday_id": "7987592",
+        "current_matchday_id": "7987593",
+        "next_matchday_id": "7987594",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987592",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987593",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7987594"
     },
     "segunda_división": {
         "name": "Segunda División",
@@ -190,12 +190,12 @@
         "name": "1. Division",
         "competition_id": 127,
         "season_id": 39259,
-        "previous_matchday_id": "7978522",
-        "current_matchday_id": "7978523",
-        "next_matchday_id": "7978524",
-        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978522",
-        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978523",
-        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978524"
+        "previous_matchday_id": "7978523",
+        "current_matchday_id": "7978524",
+        "next_matchday_id": "7978525",
+        "previous_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978523",
+        "current_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978524",
+        "next_mixer_url": "https://api.onefootball.com/scores-mixer/v1/en/cn/matchdays/7978525"
     },
     "1._lig": {
         "name": "1. Lig",
